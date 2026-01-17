@@ -1,0 +1,15 @@
+{
+  "type": "farmingforblockheads:market",
+  "preset": "the_endventure:boss_tokens",
+  "category": "the_endventure:boss_tokens",
+  "payment": {
+    "ingredient": {
+      "item": "kubejs:boss_token"
+    },
+    "count": 3
+  },
+  "result": {
+    "count": 1,
+    "item": "simplyswords:watcher_claymore"
+  }
+}

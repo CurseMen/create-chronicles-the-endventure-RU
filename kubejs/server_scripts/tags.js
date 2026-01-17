@@ -33,7 +33,7 @@ ServerEvents.tags('item', event => {
     event.add("ftbchunks:right_click_whitelist", [
         'create:shopping_list',
     ]);  
-    event.add("hazennstuff:armors/helmets", [
+/*     event.add("hazennstuff:armors/helmets", [
         'hazennstuff:miner_helmet',
         'hazennstuff:fireblossom_crown',
         'hazennstuff:spectral_spelunker_helmet',
@@ -53,5 +53,5 @@ ServerEvents.tags('item', event => {
         'hazennstuff:miner_boots',
         'hazennstuff:spectral_spelunker_boots',
         'hazennstuff:arbitrium_robes_boots'
-    ]);
+    ]); */
 })

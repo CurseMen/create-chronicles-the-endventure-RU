@@ -487,7 +487,7 @@
 		"&dUse a wrench to cycle each connector between Push, Pull, and None modes.&r"
 	]
 	quest.091D25B58FD2D1A3.title: "&e🔌 Connectors Overview"
-	quest.093BE9C3E8D400D3.quest_subtitle: "Link one familiar to the bed. It will sleep and recover its health when near its bed."
+	quest.093BE9C3E8D400D3.quest_subtitle: "Familiars will look out for neraby beds when they need to recover health."
 	quest.0964C5C4D8D33E5F.quest_subtitle: "+25% Engine Power, +50% fuel requirement."
 	quest.098A7DE12CAFAE30.quest_subtitle: "Preliminary Nucleus can be dropped by Endermites when using the Ravaging enchantment on a Hatchet."
 	quest.098D99FBDE0DA69B.quest_desc: [
@@ -1201,7 +1201,7 @@
 		""
 		"&l&6Spawn:&r&r can be found studying the death in Soul Sand Valleys."
 		""
-		"&l&6Food:&r&r can be healed using bones or blood vials."
+		""
 	]
 	quest.20BFB23E1ADDC3DF.quest_subtitle: "Tame one Necromancer Familiar"
 	quest.20BFB23E1ADDC3DF.title: "Necromancer Familiar"
@@ -1417,7 +1417,7 @@
 		""
 		"&l&6Spawn:&r&r can be found wandering around in mountains, searching for a good spot to attract lightnings."
 		""
-		"&l&6Food:&r&r can be healed using lightning bottles."
+		""
 	]
 	quest.2651428AF7D72328.quest_subtitle: "Tame one Lightning Mage Familiar"
 	quest.2651428AF7D72328.title: "Lightning Mage Familiar"
@@ -1551,7 +1551,7 @@
 		""
 		"&l&6Spawn:&r&r to get him, you will need to cast a sound spell near an untamed familiar, making them interest in music."
 		""
-		"&l&6Food:&r&r can be healed using music discs."
+		""
 	]
 	quest.2A844214CE94E140.quest_subtitle: "Tame one Bard Familiar"
 	quest.2A844214CE94E140.title: "Bard Familiar"
@@ -2351,8 +2351,6 @@
 		"->Salvation: he will attack undeads on sight, but if he sees a zombified villager, he will use his holy power to cure him and grant him the salvation."
 		""
 		"&l&6Spawn:&r&r to get a cleric familiar, you will need to cast the cleanse spell near an untamed necromancer familiar."
-		""
-		"&l&6Food:&r&r can be healed using divine pearls."
 	]
 	quest.3DD814B346F1B543.quest_subtitle: "Tame one Cleric Familiar"
 	quest.3DD814B346F1B543.title: "Cleric Familiar"
@@ -2506,7 +2504,7 @@
 		""
 		"Upgrade your vanilla storage to unlock the advanced features and benefits of Sophisticated Storage."
 	]
-	quest.41338251AEE28EE2.quest_subtitle: "right click into a tamed familiar to boost his health permanently, limit 10 per familiar, crafted."
+	quest.41338251AEE28EE2.quest_subtitle: "right click into a tamed familiar to boost his health permanently"
 	quest.419327E6573538F7.quest_desc: [
 		"Chalk allow you to draw marks for easier navigation in the caves or structures it comes in all colors."
 		""
@@ -2722,7 +2720,7 @@
 		""
 		"&l&6Spawn:&r&r illusionist familiars live alltogether in the Woodland Mansion."
 		""
-		"&l&6Food:&r&r can be healed using gold nuggets."
+		""
 	]
 	quest.47F3B09688DFA1DC.quest_subtitle: "Tame one Illusionist Familiar"
 	quest.47F3B09688DFA1DC.title: "Illusionist Familiar"
@@ -3273,7 +3271,7 @@
 		""
 		"&l&6Spawn:&r&r can be found protecting the forests of the world."
 		""
-		"&l&6Food:&r&r can be healed using saplings."
+		""
 	]
 	quest.54480115AF9A1DAD.quest_subtitle: "Tame one Druid Familiar"
 	quest.54480115AF9A1DAD.title: "Druid Familiar"
@@ -3295,15 +3293,15 @@
 	quest.5495DCB070D4777A.title: "&6Create: Connected&r"
 	quest.54A602CE0328A07F.quest_subtitle: "Not repeatable"
 	quest.54D89CD1278E6F68.quest_desc: [
-		""
-		"&l&6Battle:&r&r soon"
+		"{image:kubejs:textures/familiars/cleric.png width:96 height:100 align:center}"
+		"&l&6Battle:&r&r Specialized in ice magic, having a good balance between attack, defense and mobility, and decent controlling abilities."
 		""
 		"&6&lAbilities:&r&r"
-		"->abi a: soon"
+		"->Frozen Feet: he and his owner will be able to freeze water bellow them to walk without problems."
 		""
-		"&l&6Spawn:&r&r soon"
+		"->Ice Heart: he and his owner will be immune to freezing, including powder snow freezing."
 		""
-		"&l&6Food:&r&r soon"
+		"&l&6Spawn:&r&r Can be found wandering around in icy biomes."
 	]
 	quest.54D89CD1278E6F68.quest_subtitle: "Tame one Frostling Familiar"
 	quest.5502A204AF05E2DA.quest_desc: [
@@ -3354,6 +3352,8 @@
 	quest.5590204A473913AC.quest_subtitle: "Automatically smelts mined ores"
 	quest.561A753B404A8C0A.quest_subtitle: "Not repeatable"
 	quest.56487ACFC2360FE0.title: "&6Paladin Outfit"
+	quest.564BA670DCB12592.quest_subtitle: "right click into a tamed familiar to boost his spell power permanently"
+	quest.564BA670DCB12592.title: "Spell power"
 	quest.567ED608748850A8.quest_desc: [
 		"&aMagic Coins&r are an essential part of the pack. They can only be found in loot chests while exploring."
 		""
@@ -3405,6 +3405,7 @@
 	]
 	quest.583EBA8354586BFD.quest_subtitle: "&d☠ Tier 5"
 	quest.5841D16B410B3D41.quest_subtitle: "Ghast Tendril can be dropped by Ghasts when using the Ravaging enchantment on a hatchet."
+	quest.5894CDF01F494FE5.quest_subtitle: "Use it to view magic upgrades applied to Familiars"
 	quest.58D9CE68661256C8.quest_desc: [
 		"The &l&6Encased Chain Drive&r&r is a block used to transfer rotational power, similar to a Mechanical Belt, but with more flexibility in layout."
 		""
@@ -3421,7 +3422,7 @@
 		""
 		"&l&6Spawn:&r&r to get him, you will need to craft a poison vial and give it to a tamed druid familiar."
 		""
-		"&l&6Food:&r&r can be healed using venomous spider fangs."
+		""
 	]
 	quest.58EE67ECB33D6AE9.quest_subtitle: "Tame one Plague Doctor Familiar"
 	quest.58EE67ECB33D6AE9.title: "Plague Doctor Familiar"
@@ -3488,8 +3489,6 @@
 		"->Smelling Loot: the owner can right click him with any item to make him search for entities around that can drop them, marking them for the owner to see."
 		""
 		"&l&6Spawn:&r&r can be found searching for preys in forests."
-		""
-		"&l&6Food:&r&r can be healed using wolf food."
 	]
 	quest.5AA39CCAEED433CA.quest_subtitle: "Tome one Hunter Familiar"
 	quest.5AA39CCAEED433CA.title: "Hunter Familiar"
@@ -3566,7 +3565,7 @@
 		""
 		"&l&6Spawn:&r&r can be found wandering around in hot places in the nether."
 		""
-		"&l&6Food:&r&r can be healed using blaze powder."
+		""
 	]
 	quest.5D0DCD2B1AB653BB.quest_subtitle: "Tame one Scorcher Familiar"
 	quest.5D0DCD2B1AB653BB.title: "Scorcher Familiar"
@@ -3707,7 +3706,7 @@
 		"&l&a📝Tip:&r&r &oYou can buy a map in the Market to locate one -&e Acropolis&r.&r"
 	]
 	quest.5FDAADD20C6A6DC7.quest_subtitle: "&3☠ Tier 6"
-	quest.5FE710403BE1AAF5.quest_subtitle: "right click into a tamed familiar to boost his armor permanently, limit 10 per familiar, dropped from Ancient Knights."
+	quest.5FE710403BE1AAF5.quest_subtitle: "right click into a tamed familiar to boost his armor permanently."
 	quest.607047A3D380D423.quest_subtitle: "Shrinks the wearer to half their size."
 	quest.6073AB1A816E845F.quest_subtitle: "Harness the power of &cfire&r. Increased &cfire spell power&r or &carmor&r."
 	quest.6073AB1A816E845F.title: "&c&lSchool of Fire"
@@ -4016,7 +4015,7 @@
 		""
 		"&l&6Spawn:&r&r can be found wandering around in sculk biomes, studying ancient arts."
 		""
-		"&l&6Food:&r&r can be healed using lost knowledge fragments."
+		""
 	]
 	quest.692D79D601534A2E.quest_subtitle: "Tame one Summoner Familiar"
 	quest.692D79D601534A2E.title: "Summoner Familiar"
@@ -4416,6 +4415,16 @@
 		""
 		"You can even combine multiple enchantments in the &6Orange Output&r just like you would on an Anvil — but without the cost."
 	]
+	quest.72A0F6532569FFB2.quest_desc: [
+		"&6Shrinkinator&r a workstation that allows to shrink items for your little familiars, make sure to check all possibilities via JEI."
+		""
+		"&l&aPlayers can shrink any type of food, which can be given to any familiar to recover health.&r&r"
+		""
+		"Shrinkinator can also shrink other type of items for other utilities, like some consumables for example."
+		""
+		"This block is also allows for automation with hoppers"
+	]
+	quest.72A0F6532569FFB2.title: "&zShrinkinator&r and &6Food&r"
 	quest.72A389F374C87353.quest_desc: [
 		"&cThe Harbinger&r is a boss found in an &eAncient Factory&r deep underground in the Overworld."
 		""
@@ -4619,6 +4628,8 @@
 	]
 	quest.761D029F52BA267B.quest_desc: ["This &6Stack Upgrade&r allows each slot in your Sophisticated Storage to hold &6double&r its normal capacity, accommodating &62 stacks&r of items per slot."]
 	quest.761D029F52BA267B.quest_subtitle: "x2"
+	quest.76391D7DFB304BC7.quest_subtitle: "right click into a tamed familiar to boost his spell resistence permanently"
+	quest.76391D7DFB304BC7.title: "Spell resistance"
 	quest.763F1FB0C55F702F.quest_desc: ["It has seen many warriors drown into the depths of the sea"]
 	quest.763F1FB0C55F702F.quest_subtitle: "Get it by Killing Elder Guardian"
 	quest.765618B293CCCFB2.quest_desc: [
@@ -4782,7 +4793,7 @@
 		""
 		"&l&6Spawn:&r&r can be found wandering around in the End, studying the limits of the existence."
 		""
-		"&l&6Food:&r&r can be healed using arcane cloth."
+		""
 	]
 	quest.7B09AFE245BA7808.quest_subtitle: "Tame one Arcmage Familiar"
 	quest.7B09AFE245BA7808.title: "Archmage Familiar"
@@ -4984,6 +4995,7 @@
 	]
 	quest.7FF84508B3E0168F.title: "Subspace Bubble"
 	reward_table.173F5B7A61A12D48.title: "teste"
+	reward_table.797958649F09B350.title: "a"
 	task.02603EEC37FE0012.title: "Glass Cable"
 	task.071621FAD0117C3E.title: "Click to Acknowledge"
 	task.0A88BBBA01BD37FD.title: "Click to Acknowledge"

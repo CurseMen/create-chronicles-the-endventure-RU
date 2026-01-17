@@ -3,12 +3,36 @@
   "central_item": {
     "item": "irons_spellbooks:blank_rune"
   },
-  "input_items": {
-    "hazennstuff:starkissed_zenalite": 1,
-    "eternal_starlight:soulit_spectator": 1,
-    "hazennstuff:flaming_template": 1,
-    "hazennstuff:deus_essence": 1
-  },
+  "inputs": [
+    {
+      "ingredient": {
+        "item": "hazennstuff:starkissed_zenalite"
+      },
+      "count": 1,
+      "consume": true
+    },
+    {
+      "ingredient": {
+        "item": "eternal_starlight:soulit_spectator"
+      },
+      "count": 1,
+      "consume": true
+    },
+    {
+      "ingredient": {
+        "item": "hazennstuff:flaming_template"
+      },
+      "count": 1,
+      "consume": true
+    },
+    {
+      "ingredient": {
+        "item": "hazennstuff:deus_essence"
+      },
+      "count": 1,
+      "consume": true
+    }
+  ],
   "result": {
     "id": "hazennstuff:divine_mold"
   },

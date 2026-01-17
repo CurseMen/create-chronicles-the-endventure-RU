@@ -1,0 +1,191 @@
+{
+  "type": "minecraft:gift",
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 1
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "apotheosis:sigil_of_supremacy",
+          "weight": 1
+        },
+        
+        {
+          "type": "minecraft:item",
+          "name": "hazennstuff:blade_of_the_legate",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "refinedstorage_quartz_arsenal:creative_wireless_crafting_grid",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "refinedstorage:creative_wireless_autocrafting_monitor",
+          "weight": 1
+        },
+                {
+          "type": "minecraft:item",
+          "name": "refinedstorage:creative_wireless_grid",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "create_sa:creative_filling_tank",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "starcatcher:worm",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 64
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "starcatcher:almighty_worm",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 8
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "starcatcher:seeking_worm",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 8
+            }
+          ],
+          "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "apothic_attributes:strong_absorption"
+                }
+              }
+            }
+          ],
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "apothic_attributes:strong_haste"
+                }
+              }
+            }
+          ],
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "apothic_attributes:strong_knowledge"
+                }
+              }
+            }
+          ],
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "apothic_attributes:extra_long_flying"
+                }
+              }
+            }
+          ],
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 30
+            }
+          ],
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hazennstuff:true_nights_edge",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "artifacts:novelty_drinking_hat",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "phantasm:behemoth_meat",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "phantasm:oblifruit",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "alshanex_familiars:pet_soul",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2
+            }
+          ],
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "culturaldelights:pickle",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 20
+            }
+          ],
+          "weight": 1
+        }
+      ]
+    }
+  ],
+  "random_sequence": "treasurebags:bags/rng_bag"
+}

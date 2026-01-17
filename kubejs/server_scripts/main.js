@@ -280,7 +280,7 @@ ServerEvents.recipes(event => {
   })
 
   // weird bug idk why lost recipe with kubejson
-  event.smithing(
+  /*event.smithing(
     'alshanex_familiars:bard_helmet',
     'alshanex_familiars:sound_rune',
     'irons_spellbooks:wizard_helmet',
@@ -306,5 +306,5 @@ ServerEvents.recipes(event => {
     'alshanex_familiars:sound_rune',
     'irons_spellbooks:wizard_boots',
     'irons_spellbooks:arcane_essence'
-  )       
+  ) */      
 });

@@ -1524,7 +1524,7 @@
 			id: "31DB2CD7ECC30BF9"
 			tasks: [{
 				id: "1EF67D0C964E0ABF"
-				item: { count: 1, id: "cfm_circuit_breaker:circuit_breaker" }
+				item: { components: { "ftbquests:missing_item": "cfm_circuit_breaker:circuit_breaker" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -8.0d

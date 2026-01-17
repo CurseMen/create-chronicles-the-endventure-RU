@@ -92,6 +92,29 @@ global.REMOVE_ITEMS = [
   'minecraft:suspicious_sand',
   'minecraft:suspicious_gravel',
   'supplementaries:suspicious_gravel_bricks',
-  'ftbfiltersystem:smart_filter'
+  'ftbfiltersystem:smart_filter',
+
+    // shards with no recipe btw- allow it if patched by mod
+  'alshanex_familiars:bard_shard',
+  'alshanex_familiars:cleric_shard',
+  'alshanex_familiars:necromancer_shard',
+  'alshanex_familiars:plague_shard',
+  'alshanex_familiars:scorcher_shard',
+  // stuff
+  'createmechanisms:zinc_mechanism',
+  'createmechanisms:computing_mechanism',
+  'createmechanisms:redstone_mechanism',
+  'createmechanisms:basic_energy_mechanism',
+  'createmechanisms:iron_energy_mechanism',
+  'createmechanisms:golden_energy_mechanism',
+  'createmechanisms:diamond_energy_mechanism',
+  'createmechanisms:enderiam_energy_mechanism',
+  'createmechanisms:random_placer',
+  'createmechanisms:energy_cell',
+  'createmechanisms:enderiam_cell',
+  'hazennstuff:the_tribunes_medallion',
+  'hazennstuff:the_prefects_ring'
+
+
 ]
 

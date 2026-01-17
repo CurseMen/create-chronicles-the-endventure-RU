@@ -3,12 +3,36 @@
   "central_item": {
     "item": "hazennstuff:ruptured"
   },
-  "input_items": {
-    "irons_spellbooks:arcane_ingot": 1,
-    "irons_spellbooks:mithril_scrap": 1,
-    "irons_spellbooks:mana_upgrade_orb": 1,
-    "irons_spellbooks:legendary_ink": 1
-  },
+  "inputs": [
+    {
+      "ingredient": {
+        "item": "irons_spellbooks:arcane_ingot"
+      },
+      "count": 1,
+      "consume": true
+    },
+    {
+      "ingredient": {
+        "item": "irons_spellbooks:mithril_scrap"
+      },
+      "count": 1,
+      "consume": true
+    },
+    {
+      "ingredient": {
+        "item": "irons_spellbooks:mana_upgrade_orb"
+      },
+      "count": 1,
+      "consume": true
+    },
+    {
+      "ingredient": {
+        "item": "irons_spellbooks:legendary_ink"
+      },
+      "count": 1,
+      "consume": true
+    }
+  ],
   "result": {
     "id": "hazennstuff:refined"
   },

@@ -3,7 +3,7 @@
 
 param(
     [string]$OutputFile = "CHANGELOG-MODS.md",
-    [string]$FromCommit = "HEAD~1",  # Comparar com commit anterior
+    [string]$FromCommit = $null,  # Se null, usa HEAD~1
     [string]$ToCommit = "HEAD"
 )
 
@@ -13,15 +13,26 @@ function Get-ModName {
 }
 
 try {
+    # Se FromCommit não foi especificado, tentar usar HEAD~1
+    if (-not $FromCommit) {
+        $commitCount = (git rev-list --count HEAD 2>$null)
+        if ($commitCount -gt 1) {
+            $FromCommit = "HEAD~1"
+        } else {
+            # Se houver apenas 1 commit, comparar com git hash vazio (show all)
+            $FromCommit = "4b825dc642cb6eb9a060e54bf8d69288fbee4904"
+        }
+    }
+
     # Obter lista de commits
-    $commits = git log --oneline $FromCommit..$ToCommit 2>$null
+    $commits = git log --oneline "$FromCommit..$ToCommit" 2>$null
     if (-not $commits) {
         Write-Host "Nenhuma mudança encontrada entre $FromCommit e $ToCommit"
         return
     }
 
     # Diferenciar arquivos
-    $diff = git diff --name-status $FromCommit..$ToCommit -- mods/ 2>$null
+    $diff = git diff --name-status "$FromCommit..$ToCommit" -- mods/ 2>$null
     
     $added = @()
     $removed = @()
@@ -73,7 +84,7 @@ try {
 
     # Salvar arquivo
     $changelog | Out-File $OutputFile -Encoding UTF8
-    Write-Host "✓ Changelog gerado: $OutputFile"
+    Write-Host "[OK] Changelog gerado: $OutputFile"
     Write-Host ""
     Write-Host "Resumo:"
     Write-Host "  Adicionados: $($added.Count)"
@@ -81,5 +92,5 @@ try {
     Write-Host "  Atualizados: $($updated.Count)"
 }
 catch {
-    Write-Host "❌ Erro: $_"
+    Write-Host "[ERRO] $_"
 }

@@ -22,6 +22,9 @@
 	#.
 	#Whether or not items tagged #minecraft:saplings can be processed.
 	"Can Process Saplings" = true
+	#.
+	#Whether or not the "consume_input" flag in insolating recipes is read.
+	"Read \"consume_input\" Flag" = true
 
 #.
 #Control certain aspects of the Mechanical Composter

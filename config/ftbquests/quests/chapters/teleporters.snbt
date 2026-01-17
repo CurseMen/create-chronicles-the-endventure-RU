@@ -64,7 +64,7 @@
 			}]
 			tasks: [{
 				id: "1FB4F81DFEC190C4"
-				item: { count: 1, id: "createteleporters:tp_rec" }
+				item: { components: { "ftbquests:missing_item": "createteleporters:tp_rec" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -10.5d
@@ -114,7 +114,7 @@
 			}]
 			tasks: [{
 				id: "0CBD83AE7BA37285"
-				item: { count: 1, id: "createteleporters:item_tp_rec" }
+				item: { components: { "ftbquests:missing_item": "createteleporters:item_tp_rec" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -10.5d
@@ -187,7 +187,7 @@
 			}]
 			tasks: [{
 				id: "0252181EC1F0707E"
-				item: { count: 1, id: "createteleporters:gravity_stab" }
+				item: { components: { "ftbquests:missing_item": "createteleporters:gravity_stab" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -10.5d

@@ -46,6 +46,16 @@
 	font_main_color = "FF2B2622"
 	#Color in hex format. AARRGGBB.
 	font_secondary_color = "FF7A736C"
+	#HUD will be hidden while looking through viewfinder. Default: true
+	hide_hud_while_in_viewfinder = true
+	#X offset of a viewfinder status icon. Default: 0
+	# Default: 0
+	# Range: -999 ~ 999
+	status_icon_offset_x = 0
+	#Y offset of a viewfinder status icon. Default: 0
+	# Default: 0
+	# Range: -999 ~ 999
+	status_icon_offset_y = 0
 
 [capture]
 	#Keep Post Effect (vanilla shader) when capturing an image.
@@ -113,7 +123,7 @@
 [tutorial]
 	#Toast that teaches hovering mouse over camera parts will be shown when attachments menu is first opened. Default: true.
 	#*This setting will be automatically set to false on first show.*
-	attachments_show_info_toast = true
+	attachments_show_info_toast = false
 	#Toast that teaches wiki opening will be shown when attachments menu is first opened, after info toast. Default: true.
 	#*This setting will be automatically set to false on first show.*
-	attachments_show_wiki_toast = true
+	attachments_show_wiki_toast = false
