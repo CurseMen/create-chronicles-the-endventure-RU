@@ -62,6 +62,24 @@
 			x: -6.0d
 			y: 17.5d
 		}
+		{
+			color: 14522965
+			height: 1.0d
+			image: "chalk:block/mark/arrow"
+			rotation: 90.0d
+			width: 1.0d
+			x: 0.0d
+			y: 17.5d
+		}
+		{
+			color: 16771855
+			height: 0.5d
+			image: "fancymenu:textures/warning_framed_24x24.png"
+			rotation: 0.0d
+			width: 0.5d
+			x: 1.5d
+			y: 17.0d
+		}
 	]
 	order_index: 0
 	quest_links: [
@@ -336,7 +354,7 @@
 				item: { count: 1, id: "torchmaster:megatorch" }
 				type: "item"
 			}]
-			x: -4.0d
+			x: -5.0d
 			y: 16.0d
 		}
 		{
@@ -1441,7 +1459,7 @@
 			y: 22.0d
 		}
 		{
-			dependencies: ["7FA5CDC0F616D2C5"]
+			dependencies: ["06267D7C266DE215"]
 			id: "1278600075A14600"
 			rewards: [{
 				id: "0BEA77453673DD16"
@@ -1456,8 +1474,8 @@
 				structure: "ribbits:ribbit_village"
 				type: "structure"
 			}]
-			x: -12.0d
-			y: 20.0d
+			x: -4.0d
+			y: 16.0d
 		}
 		{
 			dependencies: ["0C49795E134A27E0"]
@@ -1497,7 +1515,7 @@
 				item: { count: 1, id: "torchmaster:dreadlamp" }
 				type: "item"
 			}]
-			x: -4.0d
+			x: -5.0d
 			y: 14.5d
 		}
 		{
@@ -1523,8 +1541,8 @@
 			dependencies: ["0ADF7E30D7F5B61E"]
 			id: "31DB2CD7ECC30BF9"
 			tasks: [{
-				id: "1EF67D0C964E0ABF"
-				item: { components: { "ftbquests:missing_item": "cfm_circuit_breaker:circuit_breaker" }, count: 1, id: "ftbquests:missing_item" }
+				id: "2F91A2C3CE386C3C"
+				item: { count: 1, id: "cfm_wap:light_circuit_breaker" }
 				type: "item"
 			}]
 			x: -8.0d
@@ -2949,6 +2967,183 @@
 			}]
 			x: -34.5d
 			y: 14.5d
+		}
+		{
+			dependencies: ["06267D7C266DE215"]
+			id: "6D7443087DE01DD9"
+			rewards: [{
+				count: 5
+				id: "1E84E0B55D951A54"
+				item: {
+					count: 1
+					id: "minecraft:blue_egg"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4901CB7BF209864A"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["6D7443087DE01DD9"]
+			id: "35F5DBB46CC5CEA7"
+			rewards: [{
+				id: "6BE87F28AC56E28C"
+				item: {
+					count: 1
+					id: "minecraft:ghast_tear"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "76E4B5C16E703F12"
+				item: { count: 1, id: "minecraft:dried_ghast" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["35F5DBB46CC5CEA7"]
+			id: "34B4CB17BC28E981"
+			rewards: [{
+				id: "5DE2A4A1686FEDC3"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "6D36E6336B7EC0C6"
+				item: { count: 1, id: "minecraft:white_harness" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["6D7443087DE01DD9"]
+			id: "610E616AA011A7A9"
+			rewards: [{
+				id: "5672B48EC7D25798"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "35727843D958C72F"
+				item: { count: 1, id: "minecraft:bundle" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["7FA5CDC0F616D2C5"]
+			id: "11577314FC65FFAE"
+			tasks: [{
+				id: "416B045BD92060F4"
+				item: { count: 1, id: "starcatcher:starcatcher_guide" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["11577314FC65FFAE"]
+			id: "19EF374996946C2D"
+			rewards: [{
+				count: 24
+				id: "16D7948A5931ACC6"
+				item: {
+					count: 1
+					id: "starcatcher:worm"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "25894EFB48C3C103"
+				item: { count: 1, id: "starcatcher:starcatcher_rod" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["19EF374996946C2D"]
+			id: "2F87D4F90CFCED84"
+			rewards: [{
+				id: "3BE9AB8A6A0D68E4"
+				item: {
+					count: 1
+					id: "starcatcher:award_one_fish"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "05B0E4B12C7584A1"
+				item: { count: 1, id: "starcatcher:bobber" }
+				type: "item"
+			}]
+			x: -11.5d
+			y: 23.0d
+		}
+		{
+			dependencies: ["19EF374996946C2D"]
+			id: "264512C08514EC4E"
+			rewards: [{
+				id: "616B93F248AB39BE"
+				item: {
+					count: 1
+					id: "starcatcher:award_one_fish"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7EE69CBF71FB66DD"
+				item: { count: 1, id: "starcatcher:hook" }
+				type: "item"
+			}]
+			x: -13.5d
+			y: 23.0d
+		}
+		{
+			dependencies: ["19EF374996946C2D"]
+			id: "5BEA7D12BE61A4AC"
+			rewards: [{
+				id: "2D9F2DCE821780A8"
+				item: {
+					count: 1
+					id: "starcatcher:award_one_fish"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6A7A546DE17A61D3"
+				item: { count: 1, id: "starcatcher:cherry_bait" }
+				type: "item"
+			}]
+			x: -12.5d
+			y: 23.0d
+		}
+		{
+			dependencies: ["19EF374996946C2D"]
+			id: "0996F6AD6839B221"
+			rewards: [{
+				id: "6AC4127B57EAE71B"
+				item: {
+					count: 1
+					id: "starcatcher:award_one_fish"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6A79791BE9273F13"
+				item: { count: 1, id: "starcatcher:fish_radar" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: 23.0d
 		}
 	]
 }

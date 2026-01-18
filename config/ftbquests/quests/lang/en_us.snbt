@@ -17,6 +17,7 @@
 	chapter.576F6A1E4D30F4F2.title: "&l&aThe Endventure"
 	chapter.58D00C1309225860.title: "&aGarnished"
 	chapter.5A695917A1E23476.title: "&dGolem Overhaul"
+	chapter.5F7AAB8DEFA61465.title: "&aNew Age"
 	chapter.66515D165B519FE2.title: "&eGame Discs"
 	chapter.699146B31CBD0538.title: "&aEnchantment Industry&r"
 	chapter.6EF23835B92B89EC.title: "&ePlushies"
@@ -390,6 +391,8 @@
 		""
 		"Can accept glow ink"
 	]
+	quest.07BE813BBE9B2ADF.quest_desc: ["Uses sunlight to generate heat. Then it can be &dconverted&r into &6rotational power&r using &6Heating Pipes/Heat Pump&r and a &6Stirling Engine&r."]
+	quest.07BE813BBE9B2ADF.title: "Solar Heating Plate"
 	quest.07CCF0EE3BC96DB1.quest_desc: [
 		"Begin by crafting a &6Contained Remnant.&r"
 		""
@@ -497,7 +500,9 @@
 		""
 		"It supports different placement modes (default, round-robin, random), can launch fireworks, and works with redstone signals."
 	]
+	quest.0996F6AD6839B221.quest_desc: ["This handy gadget helps you find new fish, display your catches and more."]
 	quest.09A1D7358EAB6139.quest_subtitle: "Can be used to store familiars and let wander freely"
+	quest.09A89AA4D2362D88.quest_desc: ["Acts the same as a &6Blaze Burner&r but uses &c&lHeat&r&r instead of &2Fuel&r."]
 	quest.09C33BB3342632B4.quest_desc: [
 		"In &eThe End&r, you'll find the final boss of Vanilla Minecraft: The &5Ender Dragon&r."
 		""
@@ -595,6 +600,20 @@
 	quest.0BD070E54EF86FDA.title: "Display labels"
 	quest.0C28D365031DFBB9.quest_desc: ["The &6diamond backpack&r is the upgrade of the &egold backpack&r. It has 108 storage slots and can hold 5 upgrades"]
 	quest.0C28D365031DFBB9.quest_subtitle: "Massive storage on the go"
+	quest.0C3833270EE30C3B.quest_desc: [
+		"{image:kubejs:textures/familiars/dragon.png width:80 height:70 align:center}"
+		"&l&6Battle:&r&r specialized in ender magic and focused on meelee combat."
+		""
+		"&6&lAbilities:&r&r"
+		"-> Dragon Breath: he can fill glass bottles with dragon breath."
+		""
+		"-> Dragon Heart: his dragon heart allows him to recover health naturally."
+		""
+		"-> Protector: when an allied familiar gets attacked in meelee range, he will swap positions with him and target the attacker."
+		""
+		"&l&6Spawn:&r&r spawns in the outer end islands."
+	]
+	quest.0C3833270EE30C3B.quest_subtitle: "Tame one Dragoon Familiar"
 	quest.0C4974DE21CEDF4B.quest_desc: [
 		"&6Archaeology&r allows players to uncover hidden items inside &eSuspicious Sand&r and &eSuspicious Gravel&r."
 		""
@@ -764,6 +783,14 @@
 	quest.112F3359CF96132C.quest_subtitle: "Better Elytra!"
 	quest.114173896E5DF62C.quest_desc: ["A &eCompass&r can be bound to a &3Lodestones&r with &7[&rRight-Click&7]&r, causing the needle to point towards it when in the same dimension."]
 	quest.114173896E5DF62C.quest_subtitle: "Find a Lodestone"
+	quest.11577314FC65FFAE.quest_desc: [
+		"&6Starcatcher mod&r includes a dynamic in-game guide that travels with you on your fishing journey. It adds 90+ fishes and keeps track of every fish you’ve caught, where to find each one, plus upgrades, cosmetics, a new fishing minigame, fishing tournaments, and much more!"
+		""
+		"&bThis guide book will be your new companion on your fishing journey&r that awaits ahead of you! It will track all the fish you've caught, where to catch them and much more."
+		""
+		"To crat, just combine a book with your Starcatcher's Rod. The recipe does not consume the rod."
+	]
+	quest.11577314FC65FFAE.title: "&bThe real fisherman"
 	quest.115E1EFAC600C1EA.quest_desc: [
 		"&6Task Screens&r allow you to automate the submission of items for a quest instead of doing it manually."
 		""
@@ -948,6 +975,14 @@
 		"&l&a📝Tip:&r&r &oYou can buy a map in the Market to locate one -&e The Catacombs&r.&r"
 	]
 	quest.1888BBCB9A54D6FD.quest_subtitle: "&5☠ Tier 2"
+	quest.18B6F820B8B97CFA.quest_desc: [
+		"Convert &belectricity&r back to &6rotational power&r. You can adjust the speed with a Wrench, but the total SU output stays the same."
+		""
+		"You can turn the Motor &don/off&r with &credstone&r, or by right-clicking it with a Wrench."
+		""
+		"There are 3 tiers of Motors, with each tier determining how much SU that can be produced."
+	]
+	quest.18B6F820B8B97CFA.title: "Motor"
 	quest.18E0360F9A93DD58.quest_subtitle: "+100% Durability"
 	quest.1912B53794E7EB02.quest_desc: ["These doors can be opened with hand but NOT redstone signals."]
 	quest.192EE909C57F390A.quest_subtitle: "Rare chance of spawning after breaking an &8Ancient Vase&r."
@@ -988,6 +1023,11 @@
 		"You can filter which blocks to break, switch between block or item mode, and use upgrades like Speed, Fortune, or Silk Touch."
 		""
 		"It supports redstone control and connects to the network like other devices."
+	]
+	quest.19EF374996946C2D.quest_desc: [
+		"This new special rod is what will enable you to interact with the mod itself. The Vanilla fishing rod does not work."
+		""
+		"To access the rod's menu, crouch and right-click. it will open up the meny where you can add or replace your hook, bobber and baits."
 	]
 	quest.1A2605092B8B7F37.quest_subtitle: "Craft any Golden Chest type."
 	quest.1A39F6601A18F853.quest_desc: [
@@ -1296,6 +1336,8 @@
 		""
 		"Once generated, this energy can be transferred through shafts, gears, and other mechanical components to operate your creations."
 	]
+	quest.2322A1E35CE7B412.quest_desc: ["Protect you from deadly radiation from the &bNuclear Reactor&r."]
+	quest.2322A1E35CE7B412.title: "Reactor Casing"
 	quest.2393A0DC1A59CDEC.quest_desc: [
 		"When applied as an upgrade to any supported device such as an Interface or Export Bus, the &bCrafting Card&f allows the device in question to automatically send out its own crafting requests for a required (filtered) item. Crafting CPUs can be set to respond only to these requests to prevent taking up CPUs meant for player-requested crafts."
 		""
@@ -1391,6 +1433,7 @@
 		""
 		"The &bEnergy Cell&f allows for an ME network to hold significantly more energy, adding another 200kAE per regular Energy Cell and 1.6MAE per &bDense&f Energy Cell. These can also be placed anywhere in the network to provide the increased energy buffer."
 	]
+	quest.25F7E0AB3232BFED.quest_desc: [" Used to power the &bNuclear Reactor&r."]
 	quest.261651FB7B600587.quest_desc: [
 		"Before your adventure even begins, it's good to be prepared."
 		""
@@ -1405,6 +1448,11 @@
 		"A Redstone Comparator can read the Sequenced Gearshift’s current instruction, outputting a signal strength from 1 to 5, regardless of how many total steps are set."
 		""
 		"Like the regular version, the Sequenced Gearshift also responds to Redstone input to trigger or control its sequence."
+	]
+	quest.264512C08514EC4E.quest_desc: [
+		"There are different types of Hooks, each providing a different modifier to aid catching even the most challenging fish!"
+		""
+		"You can craft all the Hooks."
 	]
 	quest.2651428AF7D72328.quest_desc: [
 		"{image:kubejs:textures/familiars/lightmage.png width:100 height:113 align:center}"
@@ -1499,6 +1547,11 @@
 		"From here on out, things are only going to get more exciting."
 	]
 	quest.28B245505F91D21C.title: "The Age of Metal"
+	quest.28EB76DB4F35988F.quest_desc: [
+		"Allows you to push &l&cHeat&r&r."
+		""
+		"&e&lWarning:&r&r If the block overheats, it will turn into &6Lava&r."
+	]
 	quest.2946E1B9B068C2F3.quest_desc: [
 		"Compacting Drawers, from a few other mods, automatically compacts nuggets into ingots."
 		""
@@ -1550,8 +1603,6 @@
 		"-> Musical Nature: he will play melodies to make adventures much nicer."
 		""
 		"&l&6Spawn:&r&r to get him, you will need to cast a sound spell near an untamed familiar, making them interest in music."
-		""
-		""
 	]
 	quest.2A844214CE94E140.quest_subtitle: "Tame one Bard Familiar"
 	quest.2A844214CE94E140.title: "Bard Familiar"
@@ -1687,6 +1738,8 @@
 	]
 	quest.2DE531FF769A86D5.quest_subtitle: " vroom!  vroom!  vroom!"
 	quest.2E156E1D6BA5517A.quest_subtitle: "-75% air friction"
+	quest.2E2229C382536D91.quest_subtitle: "&d@prism"
+	quest.2E2229C382536D91.title: "Create Prismatic Shine"
 	quest.2E3B821A8A402B3E.quest_desc: [
 		"You can claim chunks to protect your base and prevent others from modifying your builds."
 		""
@@ -1755,6 +1808,11 @@
 		"Boots also grant immunity to Mechanical Belts, Escalators, and Walkways."
 	]
 	quest.2F6A074C1F506CC3.title: "Copper Diving Set"
+	quest.2F87D4F90CFCED84.quest_desc: [
+		"There are different types of Bobbers, each providing a different modifier to aid catching even the most challenging fish!"
+		""
+		"You can craft all the Bobbers."
+	]
 	quest.2F8EAC597AB7E760.quest_subtitle: "Increases the wearer's swim speed"
 	quest.2F957F552CB5A245.quest_subtitle: "x16"
 	quest.3026C7FFA3B230FA.quest_desc: ["&3Processors&r are essential crafting ingredients used to make the majority of ME-connected devices."]
@@ -1848,6 +1906,11 @@
 		"&d@farmers&r"
 	]
 	quest.3171F1AE14E3C1ED.title: "&6Farmer's Delight"
+	quest.31A3E5D800B2ECDB.quest_desc: [
+		"Converts &c&lHeat&r&r into &dRotational Power&r."
+		""
+		"&l&eWarning:&r&r If the block overheats, it will turn into &6Lava&r."
+	]
 	quest.31A4BB6E2C1C1FA9.quest_subtitle: "Not repeatable"
 	quest.31DB2CD7ECC30BF9.quest_subtitle: "You can convert RF to the mod’s current energy system using the&6 Circuit Breaker.&r"
 	quest.322078F5AA954906.quest_desc: [
@@ -1921,6 +1984,8 @@
 		"You can monitor stress levels using a &eStressometer&r or by wearing &eEngineer’s Goggles.&r"
 	]
 	quest.3301CEA39477F779.title: "Kinetic Stress"
+	quest.330BB8EE0135CEB9.quest_desc: ["Allows you to adjust the Motor’s &dStress Unit multiplier&r, gives you more stress capacity if your setup keeps overstressing."]
+	quest.330BB8EE0135CEB9.title: "Motor Extension"
 	quest.3344885DD43E870C.quest_desc: [
 		"The &l&9Fueling Tank&r&r is used to store Lava to fill/refill your Jetpack or any compatible item such as the Grapplin Whisk, which happens automatically when the Fueling Tank is in your inventory."
 		""
@@ -1960,9 +2025,12 @@
 	quest.33E9A4967BA70F29.quest_desc: [
 		"&6The custom portal &rcan teleport mobs and players across dimensions or to any block."
 		""
-		"The custom portal uses&d Telejuice&r as fuel, and requires a &aGravity Stabilizer&r to toggle on and off.  "
+		"The custom portal uses&d Telejuice&r as fuel."
 		""
 		"Link to coordinates using an &cAdvanced TP-Link. &r"
+		""
+		"{image:kubejs:textures/teleport/01.png width:120 height:114 align:center}"
+		"{image:kubejs:textures/teleport/02.png width:120 height:100 align:center}"
 	]
 	quest.33EF47DF16D412B5.quest_desc: ["Has witnessed destruction. Maybe it also witnessed your stuff disappear"]
 	quest.33EF47DF16D412B5.quest_subtitle: "Dropped by The Wither"
@@ -1975,6 +2043,17 @@
 	quest.34AB7EB1F6BF5457.quest_desc: ["Move your paddle, and don't let the ball get past you&f&9"]
 	quest.34AB7EB1F6BF5457.quest_subtitle: "Move the paddle with W and S"
 	quest.34AB7EB1F6BF5457.title: "&f Pong"
+	quest.34B4CB17BC28E981.quest_desc: [
+		"Now that you have a &6Happy Ghast&r in hands, time to ride it! "
+		""
+		"To do that, craft yourself a &6Harness&r and &dright-click&r the &6Happy Ghast&r. To remove the &6Harness&r, use &dShears&r."
+		""
+		"Up to &94 players&r can ride on a &6Happy Ghast&r. "
+		""
+		"The &6Happy Ghast&r will follow you if you hold a &6Harness&r or a &bSnowball&r in hand."
+		""
+		"You can use the &6Happy Ghast&r to &2transport mobs/boats&r by using a &#8B4513Lead&r. &dRight-click&r with the &#8B4513Lead&r on a mob/boat and then &dsneak&r + &dright-click&r under the &6Happy Ghast&r to attach. To remove the &#8B4513Lead&r, &dright-click&r with &6Shears&r."
+	]
 	quest.34FC687BC6B1EEDD.quest_subtitle: "Defeat the Dead King to become able to revive Familiars upon death"
 	quest.35029D28522C7A28.quest_desc: [
 		"Each individual cell has a certain capacity dictated by the &ecomponent&f that the cell has been crafted with."
@@ -2113,6 +2192,15 @@
 		""
 		"You can now access storage wirelessly within the transmitter’s range."
 	]
+	quest.35F5DBB46CC5CEA7.quest_desc: [
+		"A &6Dried Ghast&r is a... &6Ghast&r that &8dried&r...? "
+		""
+		"It can be found in the &cNether&r, in the &#9B833BSoul Sand Valley&r biome with a &d33% chance&r to be next to a &6Nether Fossil&r, or try your luck bartering with a &ePiglin&r for one (Good luck!). Alternatively you can &acraft&r it by using 8 &bghast tears&r and a &#9B833BSoul Sand Block&r in the middle."
+		""
+		"Now that you have your &6Dried Ghast&r, you have to &9drown it&r! Seriously... &9waterlog it&r, it needs to rehydrate itself. After about 20 minutes, it transforms into a Ghastling, which matures over time into a Happy Ghast. "
+		""
+		"You can speed up the process from Ghasting to Happy Ghast by feeding it Snow Balls."
+	]
 	quest.35FDE052B50EFAAF.quest_desc: ["The &bME Import Bus&f periodically sucks items in from whatever external storage the bus is facing. It can optionally be filtered to only take in certain items from said inventory."]
 	quest.36032C287CC77A74.quest_subtitle: "Mechanical Crafting"
 	quest.36081971EC8925F2.quest_subtitle: "Not repeatable"
@@ -2185,6 +2273,12 @@
 		"Don’t use a Funnel to try to extract it, that will only take out the Coal fuelling the machine. Just wait and the Machine will spit the Coal Coke by itself."
 	]
 	quest.3786CEBDF1D138A3.title: "Coke Oven"
+	quest.379AFD00399612E2.quest_desc: [
+		"Give the &6&lEnergiser&r&r &belectricity&r and &crotational power&r, and it will energize any items passing underneath. Whether they’re in depots or moving along belts."
+		""
+		"The &6&lEnergiser&r&r comes in three tiers. The main differences are how fast they work and how much electricity they can store."
+	]
+	quest.379AFD00399612E2.title: "Energisers"
 	quest.37D3986933A263DB.quest_subtitle: "A fatal hit teleports the player somewhere else instead"
 	quest.37D437BA68D6864C.quest_desc: [
 		"Its power generation depends on the planet's distance from the sun and fog. "
@@ -2209,6 +2303,20 @@
 		"This &3item is dropped by Freeze&r mobs found within the dungeon."
 	]
 	quest.383E2DEB48E19246.quest_subtitle: "&4☠ Tier 3"
+	quest.3898358882B321B6.quest_desc: [
+		"&6&lMagnetic Blocks&r&r are used around the Coil Generator to produce &belectricity&r."
+		""
+		"&6&lTier 1:&r&r Magnetite Block - &bEfficiency 33.3%&r Magnetite can be found mining."
+		""
+		"&l&6Tier 2:&r&r RedStone Magnet - &bEfficiency 50%&r"
+		""
+		"&6&lTier 3:&r&r Layered Magnet - &bEfficiency 66.7%&r"
+		""
+		"&6&lTier 4:&r&r Fluxuated Magnetite - &bEfficiency 80%&r"
+		""
+		"&6&lTier 5:&r&r Netherite Magnet - &bEfficiency 92.3%&r"
+	]
+	quest.3898358882B321B6.title: "Magnetic Blocks"
 	quest.389858EF7FA936DC.quest_desc: [
 		"When wearing a full set, sneaking transforms you into a Cardboard Package, shrinking your hitbox to just one block tall. "
 		""
@@ -2230,6 +2338,13 @@
 		"Right-click with &4Mundabitur Dust&r and you'll create the obelisk."
 	]
 	quest.396DA8B3E8A23C6D.quest_subtitle: "Upgrades a Iron tier to gold tier."
+	quest.3980DD49B40511C6.quest_desc: [
+		"The &6&lconnector&r&r can pull &belectricity&r from a block generating &belectricity&r or storing it (for example, &dCarbon Brushes&r) when it’s set to &ePull Mode&r. It then sends that &belectricity&r through a wire to another Connector, which can power a machine."
+		""
+		"To switch modes, use the Wrench and Right-Click the connector. The bottom of the Connector changes to show the current mode."
+		""
+		"&ePull Mode&r is intended for mod compatibility and cannot pull electricity from the Energizer or Motor internal storage."
+	]
 	quest.39AD4C222874D63F.quest_subtitle: "Increases the user's invulnerability frames after taking a hit (1s)"
 	quest.39EF0966EB556EF0.quest_desc: [
 		"Because Pillow Cases, Sheets, and Blankets can be swapped at any time &6Bedding Package&r enables the creation of sets."
@@ -2301,6 +2416,11 @@
 		"Containers placed directly next to each other form this \"storage network.\" Simply right-click the &6Storage Controller&r with an item, and it will be efficiently sorted into the appropriate container within the network."
 		""
 		"Additionally, the &6Storage Controller&r can connect wireless to any storage link within a &n&crange of 15 blocks.&r&r"
+	]
+	quest.3CA26C2970F112AB.quest_desc: [
+		"From Reactor Meltdown or destroying a Nuclear Rod."
+		""
+		"&6Warning:&r This block is very radioactive and eventually will start melting through the floor until it reaches Bedrock and spreads radiation on its path."
 	]
 	quest.3CA4542BF17DB864.quest_subtitle: "Enflamed Mandible can be dropped by Blazes when using the Ravaging enchantment on a hatchet."
 	quest.3CBDB45D65737212.quest_subtitle: "Found by stepping on Infested Sculk"
@@ -2664,6 +2784,7 @@
 	]
 	quest.4552515C89DFAA7B.quest_subtitle: "The Exchanging Gadget provides basic exchanging abilities using a set of different Exchanging Modes."
 	quest.45A294917808368D.quest_subtitle: "Replaces blocks from your offhand instead."
+	quest.45B67F9419927086.quest_desc: ["Used along with a Funnel to insert fuel into the Nuclear Reactor."]
 	quest.45BE2DE3977F53E9.quest_subtitle: "You can repeat as many times you want!"
 	quest.462639C0EBA1209F.quest_desc: [
 		"The &l&6Engineer’s Goggles&r&r allows you to see information about your contraptions, such as the stress impact and rotational speed."
@@ -2682,6 +2803,8 @@
 		"A sheared lotus flower will not grow anymore and won't drop any &bbleachdew!&r"
 	]
 	quest.4626F4A23540DD3E.title: "Bleachdew and Lotus Flower"
+	quest.46519B1166B318F2.quest_subtitle: "&d@create_wrapper"
+	quest.46519B1166B318F2.title: "Create Wrapper"
 	quest.465B9A805BA57898.quest_subtitle: "Obtained from market with magic coins"
 	quest.466F43B18F0D1B7E.quest_desc: [
 		"You will need a special furnace to convert the block into an ingot: a &4Clibano Furnace&r from &6Forbidden Arcanus.&r"
@@ -3072,8 +3195,6 @@
 	quest.4EE191C96F7DE687.quest_desc: [
 		"&aBefore posting, please check this list of known issues and possible workarounds.&r"
 		""
-		"-> [Multiplayer Only] The market does not hide the mod's original trades and seed tabs by default."
-		""
 		"-> Dropping Unique Simply Swords items into Refined Storage makes them unremovable."
 		""
 		"🛠 Workarounds:"
@@ -3084,9 +3205,6 @@
 		"If your RF system is connected to physical storage (e.g., Create Vaults):"
 		"Place a Funnel on the Vault and attach a Create Filter set to the specific sword."
 		"_____"
-		""
-		"&l&cKeep in mind that all of these bugs need to be fixed by the mod author, not the modpack itself."
-		"&r&r"
 	]
 	quest.4EE191C96F7DE687.quest_subtitle: "v1.4.1"
 	quest.4EE191C96F7DE687.title: "&l&cLIST OF KNOWN ISSUES (PLEASE READ!)&r&r"
@@ -3214,6 +3332,11 @@
 		""
 		"&aToggling Visibility:&r Right-click a storage or Controller to toggle the visibility of locks and item counts."
 	]
+	quest.53667C3EF3A08F12.quest_desc: [
+		"&6&lWires&r&r let you send &belectricity&r between &9Connectors&r."
+		"They come in different tiers, the higher the tier, the more electicity the wire can transfer."
+	]
+	quest.53667C3EF3A08F12.title: "Wires"
 	quest.5391C1240C677127.quest_subtitle: "When used for Upgrade: &6+5% Cooldown Reduction"
 	quest.5399B06BD0D95CAE.quest_desc: [
 		"&cThe Warden&r is a terrifying boss that spawns naturally in the Deep Dark biome when you trigger too many Sculk Shriekers."
@@ -3277,6 +3400,7 @@
 	quest.54480115AF9A1DAD.title: "Druid Familiar"
 	quest.544A301047565927.quest_subtitle: "When used for Upgrade: &6+5% Ender Spell Power"
 	quest.5470523184A3D0BA.quest_subtitle: "Passive Ability (8s cooldown):&6When attacked, emit an expulsive burst of air"
+	quest.5474CED4870FED3A.quest_desc: ["Lets you extract &belectricity&r generated by &dCoils&r and &dMagnets&r to then send it through &6Connectors&r and &6Wires&r to power Motors or other machines."]
 	quest.549427B0BBA24445.quest_desc: [
 		"This block can split the Light Ray into 2 different Polarized Rays. "
 		""
@@ -3293,7 +3417,7 @@
 	quest.5495DCB070D4777A.title: "&6Create: Connected&r"
 	quest.54A602CE0328A07F.quest_subtitle: "Not repeatable"
 	quest.54D89CD1278E6F68.quest_desc: [
-		"{image:kubejs:textures/familiars/cleric.png width:96 height:100 align:center}"
+		"{image:kubejs:textures/familiars/frostling.png width:100 height:85 align:center}"
 		"&l&6Battle:&r&r Specialized in ice magic, having a good balance between attack, defense and mobility, and decent controlling abilities."
 		""
 		"&6&lAbilities:&r&r"
@@ -3469,6 +3593,15 @@
 	]
 	quest.59EB1027C6C9B043.quest_subtitle: "☠ Tier 1"
 	quest.59F5E3351D772A63.quest_subtitle: "&6+10% Eldritch Spell Power&r, Passive Ability (5s cooldown):Deal extra damage to creatures based on their maximum mana"
+	quest.5A1A5AA7A9A61510.quest_desc: [
+		"Placing &dmagnets&r around the &6&lGenerator Coil&r&r and powering it with rotational power, will generate electricity."
+		""
+		"You can collect that &belectricity&r by using Carbon Brushes, then extract it with an Electrical Connector set to Pull Mode."
+		""
+		"How efficiently the coil converts SU into electricity depends on the magnet’s tier. Higher-tier magnets provide better efficiency."
+		""
+		"You can stack Generator Coils, but stacking increases Stress."
+	]
 	quest.5A27BA1E5C692EB1.quest_desc: [
 		"The &bWireless Terminal&f functions identically to a regular terminal, but wirelessly."
 		""
@@ -3542,6 +3675,13 @@
 	quest.5BC526ACC0046B20.quest_subtitle: "Backs on Backs on Backs"
 	quest.5BCF209E014D37E6.quest_desc: ["The &bME Smart Cable&f and &bDense Smart Cable&f function identically to the covered cables in terms of channel distribution, but will also visibly display the amount of channels they are using as coloured lines along themselves."]
 	quest.5BCF209E014D37E6.title: "Advanced Cabling"
+	quest.5BEA7D12BE61A4AC.quest_desc: [
+		"Use bait to lure a fish faster, and some baits may contain modifiers."
+		""
+		"There are fish that will only bite the correct bait."
+		""
+		"Some baits can be crafted while others can be obtained to other means. Check the guidebook for more information."
+	]
 	quest.5BF082062143531B.title: "&2Plagued Outfit"
 	quest.5C38AF82CEFB8015.quest_subtitle: "Rare random world loot."
 	quest.5C63E2E0D537CF6B.quest_subtitle: "+50 max mana, when equipped tamed familiars that fall below 25% health willl get invisibility effect, crafted."
@@ -3591,7 +3731,6 @@
 	]
 	quest.5D6271AF25237B2E.title: "Weapons"
 	quest.5D6FDF6682B47167.quest_subtitle: "Dimmed Scale can be dropped by Endermen, Endermites, and the Ender Dragon when using the Ravaging enchantment on a hatchet."
-	quest.5D859F65BB6BA3E0.quest_desc: ["Uses &dTelejuice&r to toggle a custom portal in the area on and off"]
 	quest.5D94118C96E07BAA.title: "&2Venomous Outfit"
 	quest.5E08A9D0D45010CE.quest_desc: [
 		"&6Regulator Upgrade&r maintains a specific amount of a resource in the connected inventory by regulating imports or exports."
@@ -3730,6 +3869,7 @@
 	]
 	quest.60B9F9AD8F49371D.quest_subtitle: "Grants temporary fire resistance when touching lava/fire"
 	quest.60FC4ADEFBA29C6D.quest_desc: [""]
+	quest.610E616AA011A7A9.quest_desc: ["A bundle lets you carry different items together, up to one stack total, in a single inventory slot."]
 	quest.6139EF0E79D14AF4.quest_desc: [
 		"&6Disk Interface &rallows you to transfers items between storage disks and the network."
 		"Previously called Disk Manipulator."
@@ -3823,6 +3963,11 @@
 		"In this mode it also exclusively only allows &3Super Enchanting Templates.&r"
 		""
 		"While in this mode, make sure to place a block on top of the Blaze Forger and place a Lightning Rod on a block beside it. Super Enchanting Mode attracts Lightning Strikes."
+	]
+	quest.62FF89F212A845E9.quest_desc: [
+		"Allows you to transfer &c&lHeat&r&r."
+		""
+		"&e&lWarning:&r&r If the block overheats, it will turn into &6Lava&r."
 	]
 	quest.630BDF564F7516D7.quest_desc: ["To enable wireless network access, create the &eME Wireless Access Point&r. It allows access to the network via a wireless terminal, with range determined by the number of &aWireless Boosters&r inserted."]
 	quest.632E2AD859CE0BDE.quest_desc: [
@@ -4003,6 +4148,8 @@
 	quest.67FA8896AD563A77.title: "&eWaystones"
 	quest.681E258AB577FF73.quest_subtitle: " Increases Lure and Luck of the Sea by 1 level"
 	quest.6831FF0CBA2E0FD2.quest_subtitle: "Not repeatable"
+	quest.683D0537EB605FB7.quest_subtitle: "&d@createdeco"
+	quest.683D0537EB605FB7.title: "Create Deco"
 	quest.692451647E98D133.quest_subtitle: "Not repeatable"
 	quest.692D79D601534A2E.quest_desc: [
 		"{image:kubejs:textures/familiars/summoner.png width:100 height:105 align:center}"
@@ -4040,6 +4187,41 @@
 		""
 		"To operate correctly, the Mixer must be placed directly above a Basin with exactly one block of space between them. Ingredients for a valid recipe can be added by throwing them into the Basin beneath the Mixer or by using a Funnel attached to the Basin, after which the Mixer will automatically combine them."
 	]
+	quest.6AD020DBDE0A43F2.quest_desc: [
+		"The power of the&6 &lSun&r&r! Or so some &2Octopus&r said. "
+		""
+		"&l&bNuclear Reactors&r&r are a fantastic way to generate huge amounts of heat!"
+		""
+		"&l&dBuild the reactor core:&r&r"
+		"Place down some &6Reactor Casings&r, then place the &3Reactor Rods&r on top. If you need to, use a &6Wrench&r to rotate the rods into a horizontal position."
+		""
+		"{image:kubejs:textures/new_age/01.png width:100 height:74 align:center}"
+		""
+		"&l&dSet up fuel input:&r&r"
+		"Place a &6Reactor Fuel Acceptor&r on one end of the &3rod line&r, then attach a &6Funnel&r to it so you can insert &bNuclear Fuel&r."
+		""
+		"{image:kubejs:textures/new_age/02.png width:100 height:82 align:center}"
+		""
+		"&l&dCollect the heat:&r&r"
+		"On the other end, place a &6Reactor Vent&r to pull &cheat&r from the &3rods&r. Then add &6Heating Pipes&r and &6Heaters&r to move and use that &cheat&r where you need it."
+		""
+		"{image:kubejs:textures/new_age/03.png width:100 height:78 align:center}"
+		"{image:kubejs:textures/new_age/04.png width:100 height:81 align:center}"
+		""
+		"&l&dStay safe (or alive): fully enclose it!&r&r"
+		"To finish, completely encase the &breactor&r in &6Reactor Casing&r and/or &6Reactor Glass&r for safety."
+		""
+		"{image:kubejs:textures/new_age/05.png width:100 height:86 align:center}"
+		""
+		"&l&aSafety notes&r&r"
+		""
+		"&eRadiation warning:&r Active reactors emit dangerous radiation. You can protect yourself by wearing Leather Armor, and/or by fully encasing the reactor in Reactor Casing/Glass."
+		""
+		"&eOverheating warning:&r If the reactor overheats, it can meltdown, turning the rods into Corium. Corium is highly radioactive and can melt downward until it reaches Bedrock, spreading radiation along the way."
+		""
+		"&cDo not break the rods&r: Destroying Reactor Rods can cause them to explode and turn into Corium."
+	]
+	quest.6AD020DBDE0A43F2.title: "Nuclear Reactor"
 	quest.6AD87BACD480D27B.quest_desc: ["Check the Renewable Ores chapter to see a renewable way to have Crushed Raw Iron."]
 	quest.6AFEDCF1CF22972F.quest_desc: ["Use your newly aquired arcane dust to make yourself some Magicians armor using it and iron armor at a smithing table."]
 	quest.6AFEDCF1CF22972F.quest_subtitle: "An early game source of &3additional mana"
@@ -4053,6 +4235,8 @@
 		"Depending on your enchantment level, you may need to use&b Super Enchanting&r to reapply it."
 	]
 	quest.6B2BB3A3AAC179FE.title: "&l&6Disenchanting Your Equipment"
+	quest.6B7145D96CE59932.quest_subtitle: "&d@vibrant_vaults"
+	quest.6B7145D96CE59932.title: "Create Vibrant Vaults"
 	quest.6B7CFD3808AB7DB1.title: "&cAdvanced Pyromancer Outfit"
 	quest.6B95EF7446936BCD.quest_subtitle: "You can repeat as many times you want!"
 	quest.6B9E13665837ECA1.quest_desc: [
@@ -4182,6 +4366,8 @@
 		"&d@teleport&r"
 	]
 	quest.6D5015C82CCC85FE.title: "&aCreate Teleporters&r"
+	quest.6D7443087DE01DD9.quest_desc: ["This mod adds the latest additions of the Vanilla Minecraft&6 such as the &9Happy Ghast&r and the &3Bundle.&r"]
+	quest.6D7443087DE01DD9.title: "&6Vanilla Backport"
 	quest.6E03028499F40E70.quest_desc: [
 		"&6The Relay &racts as a smart connection point in your storage network. "
 		""
@@ -4355,6 +4541,11 @@
 		"Chorus Fruit requires Void Liquid Compost."
 		""
 		"&aProcessed plants can be extracted manually by Right-clicking or automatically using a Funnel.&r"
+	]
+	quest.71C1DFB2CA66E736.quest_desc: [
+		"Used in assembling a &bNuclear Reactor&r."
+		""
+		"&6Warning:&r Breaking this block while active , will explode and turn into &9Corium.&r"
 	]
 	quest.71CC0C32A62A110C.quest_subtitle: "A masterwork of engineering! Four propellers strapped on a bunch of bamboos. It's quite handy for building."
 	quest.7220794AE44350FA.quest_subtitle: "+15% cast time reduction, when equipped familiars that fall below 25% health will get evasion effect on intervals, found in End Cities."
@@ -4642,6 +4833,8 @@
 		"Once the threshold is reached, redstone output will be sent. Another redstone pulse will reset the counter to 0."
 	]
 	quest.76D595EF8B7A90E1.title: "&aAdvanced Archevoker Outfit"
+	quest.773C584834762704.quest_subtitle: "&d@bellandwhistles"
+	quest.773C584834762704.title: "Bells and Whistles "
 	quest.779E68DD0A0F8483.quest_subtitle: "Can be crafted in the Alchemist Cauldron using an Echo Shard and a Mundane Potion."
 	quest.77A0F8AC2BF086C5.quest_desc: [
 		"The &6&lHose Pulley&r&r lowers a hose to drain or fill large bodies of fluid."
@@ -4836,12 +5029,6 @@
 		"-> While looking at air, Right-Click with the &awrench&r to toggle facade transparency, letting you see what's underneath without breaking anything."
 	]
 	quest.7BE7F9FD76F84BDD.title: "Cable Facades"
-	quest.7C185DB8566F7E33.quest_desc: [
-		"After the Dragon is defeated, a &dDragon Egg&r appears on the Exit Portal. You can't mine it like normal blocks."
-		""
-		"Warm that new dragon egg by the fire."
-	]
-	quest.7C185DB8566F7E33.quest_subtitle: "Hold the Dragon Egg"
 	quest.7C3B4C2C5210096F.quest_desc: [
 		"Now that you’ve defeated the dragon, &eyour world has been upgraded to Pinnacle mode.&r"
 		""
@@ -4928,6 +5115,7 @@
 		"&a"
 	]
 	quest.7E7B5A9C3AE9FBF8.title: "&aGolem Overhaul"
+	quest.7EBB3ED5C7D86405.quest_desc: ["Extracts the heat generated by the &bNuclear Reactor&r core rods."]
 	quest.7EDA18B8420473E8.quest_desc: [
 		"The &6&lFluid Tank&r&r stores fluids, holding up to 8 buckets (8,000 mB) per block."
 		""
@@ -4995,18 +5183,20 @@
 	]
 	quest.7FF84508B3E0168F.title: "Subspace Bubble"
 	reward_table.173F5B7A61A12D48.title: "teste"
-	reward_table.797958649F09B350.title: "a"
+	task.019D3265B6C2A248.title: "Starcatcher"
 	task.02603EEC37FE0012.title: "Glass Cable"
 	task.071621FAD0117C3E.title: "Click to Acknowledge"
 	task.0A88BBBA01BD37FD.title: "Click to Acknowledge"
 	task.0B18DCF021EC9073.title: "ME Interface"
 	task.0BEEDF43E748F047.title: "Dense Covered Cable"
+	task.0C99D5061E9A9F59.title: "Cosmetic mods"
 	task.0F3183766102B3CA.title: "Click to Acknowledge"
 	task.184D02801FC28C38.title: "&6I'm so excited to play the pack"
 	task.186E974B0E4A0EF6.title: "Smart Cable"
 	task.1C2E3C609A8DFD6D.title: "Covered Cable"
 	task.1D986DC9FFE37C6A.title: "Click to Acknowledge"
 	task.2253937F3806BE3D.title: "Are you sure? Don't be stupid."
+	task.228DCE6FDAD7130A.title: "Click to Acknowledge"
 	task.25CF2279A5441A33.title: "Memory Card"
 	task.2C451A484DE8CB1B.title: "Quartz Cutting Knife"
 	task.2E11C158DD5E8E3E.title: "Click to Acknowledge"
@@ -5021,6 +5211,7 @@
 	task.432F4520E99A0F94.title: "Kill The Ender Dragon"
 	task.451EC360A3F38231.title: "Craft a &cRover"
 	task.4556BCEDA60FD43A.title: "Crafting Co-Processor"
+	task.4901CB7BF209864A.title: "Click to Acknowledge"
 	task.499D737E23F4843B.title: "&6Ascend"
 	task.4F1EDAE24CB6CE36.title: "Click to Acknowledge"
 	task.4F8C0625674B4C26.title: "Quartz Wrench"

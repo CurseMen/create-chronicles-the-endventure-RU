@@ -84,6 +84,7 @@
 				"06C66D21CB3CB5C7"
 				"6FAD2E8780C8F445"
 				"700B58BA389C056E"
+				"3ED7706FB255FF91"
 			]
 			dependency_requirement: "all_started"
 			hide_dependency_lines: true
@@ -1081,6 +1082,26 @@
 				type: "item"
 			}]
 			x: -7.5d
+			y: 1.5d
+		}
+		{
+			id: "3ED7706FB255FF91"
+			rewards: [{
+				count: 5
+				id: "51AB6FB06DEADB14"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "12F5AB4F6A02297B"
+				item: { count: 1, id: "simplyswords:chompolotl" }
+				type: "item"
+			}]
+			x: 8.5d
 			y: 1.5d
 		}
 	]

@@ -16,7 +16,7 @@
 		x: -15.0d
 		y: 1.5d
 	}]
-	order_index: 5
+	order_index: 6
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -51,26 +51,6 @@
 			y: -1.0d
 		}
 		{
-			dependencies: ["24A3D36B0BF64712"]
-			id: "4AC3792814B46B2D"
-			rewards: [{
-				count: 2
-				id: "7575D4F94FC523D0"
-				item: {
-					count: 1
-					id: "magic_coins:silver_coin"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "1FB4F81DFEC190C4"
-				item: { components: { "ftbquests:missing_item": "createteleporters:tp_rec" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: -10.5d
-			y: -1.0d
-		}
-		{
 			dependencies: ["6D5015C82CCC85FE"]
 			id: "6B9E13665837ECA1"
 			rewards: [
@@ -102,29 +82,6 @@
 		}
 		{
 			dependencies: ["6B9E13665837ECA1"]
-			id: "5A63AD565C37EA16"
-			rewards: [{
-				count: 2
-				id: "0D3A64A3B20FF979"
-				item: {
-					count: 1
-					id: "magic_coins:silver_coin"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "0CBD83AE7BA37285"
-				item: { components: { "ftbquests:missing_item": "createteleporters:item_tp_rec" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: -10.5d
-			y: 0.5d
-		}
-		{
-			dependencies: [
-				"5A63AD565C37EA16"
-				"4AC3792814B46B2D"
-			]
 			id: "4FFB18F848C88CC5"
 			rewards: [{
 				count: 2
@@ -140,8 +97,8 @@
 				item: { count: 1, id: "createteleporters:tp_link" }
 				type: "item"
 			}]
-			x: -9.0d
-			y: -0.25d
+			x: -10.5d
+			y: 0.5d
 		}
 		{
 			dependencies: ["6D5015C82CCC85FE"]
@@ -171,26 +128,6 @@
 				type: "item"
 			}]
 			x: -12.0d
-			y: 2.0d
-		}
-		{
-			dependencies: ["33E9A4967BA70F29"]
-			id: "5D859F65BB6BA3E0"
-			rewards: [{
-				count: 2
-				id: "75DF45CDAC95E42C"
-				item: {
-					count: 1
-					id: "magic_coins:silver_coin"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "0252181EC1F0707E"
-				item: { components: { "ftbquests:missing_item": "createteleporters:gravity_stab" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: -10.5d
 			y: 2.0d
 		}
 		{
@@ -251,7 +188,7 @@
 				item: { count: 1, id: "createteleporters:adv_tplink" }
 				type: "item"
 			}]
-			x: -9.0d
+			x: -10.5d
 			y: 2.0d
 		}
 	]

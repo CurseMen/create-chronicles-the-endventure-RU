@@ -12,7 +12,7 @@
 		image: "multibeds:block/art/midnight_train"
 		rotation: 0.0d
 		width: 2.0d
-		x: 11.0d
+		x: 11.5d
 		y: -9.5d
 	}]
 	order_index: 0
@@ -3851,7 +3851,7 @@
 				id: "7D9CFAEA8B454FC4"
 				type: "checkmark"
 			}]
-			x: -5.8500000000000005d
+			x: -6.0d
 			y: -7.800000000000001d
 		}
 		{
@@ -3936,6 +3936,91 @@
 			}]
 			x: -3.9000000000000004d
 			y: -7.800000000000001d
+		}
+		{
+			dependencies: ["603F0A37888A475D"]
+			id: "683D0537EB605FB7"
+			tasks: [{
+				id: "317604E0E8B381A5"
+				item: { components: { "ftbfiltersystem:filter": "or(mod(createdeco))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -11.0d
+		}
+		{
+			dependencies: ["63BA37F707747719"]
+			id: "46519B1166B318F2"
+			rewards: [
+				{
+					count: 2
+					id: "519C686D48E35601"
+					item: {
+						count: 1
+						id: "create_wrapped:red_wrapping_paper"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "292D6CD945E9591A"
+					item: {
+						count: 1
+						id: "create_wrapped:green_wrapping_paper"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1D1FE353EA1B628A"
+				item: { count: 1, id: "create_wrapped:wrapping_station" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["603F0A37888A475D"]
+			id: "773C584834762704"
+			tasks: [{
+				id: "5B2D3397EC1AF696"
+				item: { components: { "ftbfiltersystem:filter": "or(mod(bellsandwhistles))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -11.0d
+		}
+		{
+			dependencies: ["603F0A37888A475D"]
+			id: "6B7145D96CE59932"
+			tasks: [{
+				id: "72F64706708E1C40"
+				item: { components: { "ftbfiltersystem:filter": "or(mod(create_vibrant_vaults))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -11.0d
+		}
+		{
+			dependencies: ["603F0A37888A475D"]
+			id: "2E2229C382536D91"
+			tasks: [{
+				id: "3DB26F36A79EF3D5"
+				item: { components: { "ftbfiltersystem:filter": "or(mod(createprism))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -11.0d
+		}
+		{
+			dependencies: ["63BA37F707747719"]
+			id: "603F0A37888A475D"
+			tasks: [{
+				id: "0C99D5061E9A9F59"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: -9.5d
 		}
 	]
 }

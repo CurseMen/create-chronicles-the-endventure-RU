@@ -100,6 +100,8 @@ global.REMOVE_ITEMS = [
   'alshanex_familiars:necromancer_shard',
   'alshanex_familiars:plague_shard',
   'alshanex_familiars:scorcher_shard',
+  'alshanex_familiars:dragon_warrior_shard',
+  
   // stuff
   'createmechanisms:zinc_mechanism',
   'createmechanisms:computing_mechanism',

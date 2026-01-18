@@ -7,6 +7,14 @@
 		id: "hazennstuff:deus_essence"
 	}
 	id: "1114C1AB6A2F68FA"
+	images: [{
+		height: 0.51d
+		image: "kubejs:textures/wip.png"
+		rotation: 0.0d
+		width: 5.0d
+		x: 3.5d
+		y: 26.0d
+	}]
 	order_index: 5
 	progression_mode: "flexible"
 	quest_links: [ ]
@@ -939,7 +947,7 @@
 				type: "item"
 			}]
 			x: -2.25d
-			y: 9.0d
+			y: 11.25d
 		}
 		{
 			dependencies: ["6E35F09F79150749"]
@@ -961,7 +969,7 @@
 				type: "item"
 			}]
 			x: 0.75d
-			y: 9.0d
+			y: 11.25d
 		}
 		{
 			dependencies: ["2071609BDA6EBBF1"]
@@ -983,7 +991,7 @@
 				type: "item"
 			}]
 			x: 4.5d
-			y: 9.0d
+			y: 11.25d
 		}
 		{
 			dependencies: ["7EA3E7CC96ABD18C"]
@@ -1005,7 +1013,7 @@
 				type: "item"
 			}]
 			x: 7.5d
-			y: 9.0d
+			y: 11.25d
 		}
 		{
 			dependencies: [
@@ -1042,6 +1050,14 @@
 				"7456FE7F9C9575C1"
 				"17F044576C898593"
 				"4B3D6BEC9D04236B"
+				"339084330D0071A3"
+				"6CD6C7648CF464E3"
+				"1B9972187712A266"
+				"28A70C1536CAC7CF"
+				"4783354CA88E9A89"
+				"53CB12BBF6E3E89A"
+				"62FD013A69AFE9C3"
+				"2A83D21A745DC4AB"
 			]
 			dependency_requirement: "all_started"
 			hide_dependency_lines: true
@@ -1075,7 +1091,7 @@
 				type: "checkmark"
 			}]
 			x: 2.5d
-			y: 6.25d
+			y: 8.75d
 		}
 		{
 			id: "4E2CB59AB8C0384F"
@@ -1084,8 +1100,8 @@
 				item: { count: 1, id: "hazennstuff:ring_of_efficiency" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: 21.0d
+			x: -1.0d
+			y: 27.0d
 		}
 		{
 			id: "3278EBF2ECCE11E3"
@@ -1094,8 +1110,8 @@
 				item: { components: { "azurelib:az_id": [I; -1670320863, -1694349912, -1319786812, -607226206 ] }, count: 1, id: "hazennstuff:arbitrium_wings" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 26.5d
+			x: 2.5d
+			y: 27.0d
 		}
 		{
 			id: "12A4B899BCF69D3A"
@@ -1104,8 +1120,8 @@
 				item: { components: { "azurelib:az_id": [I; -1938892785, 1810844239, -1352311316, -1770314093 ] }, count: 1, id: "hazennstuff:scroll_sheath" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 26.5d
+			x: 4.5d
+			y: 27.0d
 		}
 		{
 			id: "0DA846C21A5D3D02"
@@ -1114,8 +1130,8 @@
 				item: { components: { "azurelib:az_id": [I; 709107978, -1381743952, -1507367263, -237753445 ] }, count: 1, id: "hazennstuff:galvanized_sheath" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 26.5d
+			x: 3.5d
+			y: 27.0d
 		}
 		{
 			id: "2EB929126123669B"
@@ -1124,8 +1140,8 @@
 				item: { components: { "azurelib:az_id": [I; 1697251311, 162154462, -1344448963, 1851125277 ], "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:shockwave": 1, "irons_spellbooks:thunderstorm": 1, "irons_spellbooks:volt_strike": 1 } }, "irons_spellbooks:spell_container": { data: [ ], maxSpells: 10, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:energized_core_spellbook" }
 				type: "item"
 			}]
-			x: -2.5d
-			y: 21.0d
+			x: -2.0d
+			y: 27.0d
 		}
 		{
 			id: "0F02D55B27B9FC37"
@@ -1134,8 +1150,8 @@
 				item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "hazennstuff:golden_shower": 1 } }, "irons_spellbooks:spell_container": { data: [{ id: "hazennstuff:golden_shower", index: 0, level: 3, locked: 1b }], maxSpells: 8, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:golden_shower_spellbook" }
 				type: "item"
 			}]
-			x: -2.5d
-			y: 22.0d
+			x: -2.0d
+			y: 28.0d
 		}
 		{
 			id: "339084330D0071A3"
@@ -1147,7 +1163,7 @@
 				type: "item"
 			}]
 			x: -2.25d
-			y: 10.5d
+			y: 12.75d
 		}
 		{
 			dependencies: ["339084330D0071A3"]
@@ -1160,7 +1176,7 @@
 				type: "item"
 			}]
 			x: 0.75d
-			y: 10.5d
+			y: 12.75d
 		}
 		{
 			dependencies: ["4783354CA88E9A89"]
@@ -1173,7 +1189,7 @@
 				type: "item"
 			}]
 			x: 4.5d
-			y: 10.5d
+			y: 12.75d
 		}
 		{
 			dependencies: ["2A83D21A745DC4AB"]
@@ -1186,7 +1202,7 @@
 				type: "item"
 			}]
 			x: 7.5d
-			y: 10.5d
+			y: 12.75d
 		}
 		{
 			id: "1B9972187712A266"
@@ -1198,7 +1214,7 @@
 				type: "item"
 			}]
 			x: -2.25d
-			y: 12.0d
+			y: 14.25d
 		}
 		{
 			dependencies: ["1B9972187712A266"]
@@ -1211,7 +1227,7 @@
 				type: "item"
 			}]
 			x: 0.75d
-			y: 12.0d
+			y: 14.25d
 		}
 		{
 			dependencies: ["6CD6C7648CF464E3"]
@@ -1224,7 +1240,7 @@
 				type: "item"
 			}]
 			x: 4.5d
-			y: 12.0d
+			y: 14.25d
 		}
 		{
 			dependencies: ["62FD013A69AFE9C3"]
@@ -1237,7 +1253,7 @@
 				type: "item"
 			}]
 			x: 7.5d
-			y: 12.0d
+			y: 14.25d
 		}
 		{
 			id: "48217CC23A798B09"
@@ -1246,8 +1262,8 @@
 				item: { count: 1, id: "hazennstuff:pickaxe_axe" }
 				type: "item"
 			}]
-			x: 7.5d
-			y: 23.5d
+			x: 10.5d
+			y: 27.0d
 		}
 		{
 			id: "142526496E47526C"
@@ -1256,8 +1272,8 @@
 				item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:spectral_hammer": 1 } }, "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:spectral_hammer", index: 0, level: 3, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:spectral_pickaxe" }
 				type: "item"
 			}]
-			x: 9.0d
-			y: 23.0d
+			x: 10.5d
+			y: 28.0d
 		}
 		{
 			id: "35EB13A86634D90B"
@@ -1266,8 +1282,8 @@
 				item: { components: { "azurelib:az_id": [I; -2023839, -1559608619, -1825020677, -1130018870 ] }, count: 1, id: "hazennstuff:soulcalling_scepter" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: 24.5d
+			x: 5.5d
+			y: 27.0d
 		}
 		{
 			id: "59620F5D944B8703"
@@ -1276,8 +1292,8 @@
 				item: { count: 1, id: "hazennstuff:white_lily_staff" }
 				type: "item"
 			}]
-			x: 9.5d
-			y: 24.5d
+			x: 8.5d
+			y: 28.0d
 		}
 		{
 			id: "31D22EEA5A937250"
@@ -1286,8 +1302,8 @@
 				item: { count: 1, id: "hazennstuff:muramasa" }
 				type: "item"
 			}]
-			x: 10.5d
-			y: 24.0d
+			x: 9.5d
+			y: 27.0d
 		}
 		{
 			id: "1620F5E7F6F7A003"
@@ -1296,8 +1312,8 @@
 				item: { count: 1, id: "hazennstuff:dawnmaker" }
 				type: "item"
 			}]
-			x: 11.0d
-			y: 25.0d
+			x: 9.5d
+			y: 28.0d
 		}
 		{
 			id: "1D072E0813C58393"
@@ -1306,8 +1322,8 @@
 				item: { count: 1, id: "hazennstuff:legionnaire_warlock_axe" }
 				type: "item"
 			}]
-			x: 9.5d
-			y: 26.0d
+			x: 7.5d
+			y: 28.0d
 		}
 		{
 			id: "262FB03656034DA7"
@@ -1316,8 +1332,8 @@
 				item: { count: 1, id: "hazennstuff:mage_bane" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: 26.0d
+			x: 7.5d
+			y: 27.0d
 		}
 		{
 			id: "0AA133886021DA41"
@@ -1326,8 +1342,8 @@
 				item: { count: 1, id: "hazennstuff:the_devourer" }
 				type: "item"
 			}]
-			x: 6.5d
-			y: 24.5d
+			x: 5.5d
+			y: 28.0d
 		}
 		{
 			id: "5075B146CD421042"
@@ -1336,7 +1352,7 @@
 				item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "hazennstuff:nights_edge_strike": 1 } }, "irons_spellbooks:spell_container": { data: [{ id: "hazennstuff:nights_edge_strike", index: 0, level: 6, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:nights_edge" }
 				type: "item"
 			}]
-			x: 8.5d
+			x: 6.5d
 			y: 28.0d
 		}
 		{
@@ -1346,7 +1362,7 @@
 				item: { count: 1, id: "hazennstuff:lights_bane" }
 				type: "item"
 			}]
-			x: 11.0d
+			x: 8.5d
 			y: 27.0d
 		}
 		{

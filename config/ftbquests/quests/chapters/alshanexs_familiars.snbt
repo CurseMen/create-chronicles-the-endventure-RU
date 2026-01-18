@@ -854,6 +854,38 @@
 			x: -8.5d
 			y: 2.85d
 		}
+		{
+			id: "0C3833270EE30C3B"
+			rewards: [{
+				count: 5
+				id: "1A2C6494F4EEB8AF"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.3d
+			tasks: [{
+				id: "7497BB0F5D4F1CDE"
+				item: { count: 1, id: "alshanex_familiars:dragon_warrior_trinket" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0C3833270EE30C3B"]
+			id: "1FBAAC2E88449943"
+			tasks: [{
+				id: "4ACE7D77026E621F"
+				item: { count: 1, id: "alshanex_familiars:dragon_warrior_trinket" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.5d
+		}
 	]
 	require_sequential_tasks: true
 }

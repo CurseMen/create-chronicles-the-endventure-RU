@@ -94,6 +94,13 @@
 			x: 3.5d
 			y: 1.0d
 		}
+		{
+			id: "7CAD26138F0C598D"
+			linked_quest: "0C3833270EE30C3B"
+			shape: "rsquare"
+			x: 4.5d
+			y: 0.0d
+		}
 	]
 	quests: [{
 		dependencies: [
@@ -109,6 +116,7 @@
 			"54480115AF9A1DAD"
 			"5D0DCD2B1AB653BB"
 			"54D89CD1278E6F68"
+			"0C3833270EE30C3B"
 		]
 		dependency_requirement: "all_started"
 		hide_dependency_lines: true
