@@ -1,6 +1,6 @@
 ### Variables
 # Mod blacklist to NOT copy into serve side folder
-$MOD_BLACK_LIST="gpumemleakfix*", "maptooltip-neoforge*", "probejs*", "moreoverlays*", "MouseTweaks*", "EquipmentCompare*", "Prism*", "Boat-Item-View*", "LegendaryTooltips*", "Highlighter*", "Ding*", "AmbientSounds*", "fancymenu*", "SimpleDiscordRichPresence*", "OverflowingBars*","AmbientSounds_NEOFORGE*", "drippyloadingscreen*","melody_neoforge_*","foodeffecttooltips*","enchdesc*","clientcrafting*", "auroras*", "BetterThirdPerson*", "iris-neoforge*", "ImmediatelyFast*","sodium-neoforge-*","jmi-neoforge*","BHMenu-NeoForge*","Immersive-UI*","BadOptimizations*","farsight*", "cherishworlds*", "BetterAdvancements*","modernworldcreation_*","Controlling-*","StylishEffects*","Better Tags*"
+$MOD_BLACK_LIST="colorwheel*", "gpumemleakfix*", "maptooltip-neoforge*", "probejs*", "moreoverlays*", "MouseTweaks*", "EquipmentCompare*", "Prism*", "Boat-Item-View*", "LegendaryTooltips*", "Highlighter*", "Ding*", "AmbientSounds*", "fancymenu*", "SimpleDiscordRichPresence*", "OverflowingBars*","AmbientSounds_NEOFORGE*", "drippyloadingscreen*","melody_neoforge_*","foodeffecttooltips*","enchdesc*","clientcrafting*", "auroras*", "BetterThirdPerson*", "iris-neoforge*", "ImmediatelyFast*","sodium-neoforge-*","jmi-neoforge*","BHMenu-NeoForge*","Immersive-UI*","BadOptimizations*","farsight*", "cherishworlds*", "BetterAdvancements*","modernworldcreation_*","Controlling-*","StylishEffects*","Better Tags*"
 
 # Folder list to copy
 $FOLDER_LIST= @("mods", "kubejs", "config")
