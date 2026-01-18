@@ -77,6 +77,11 @@ ItemEvents.modification(event => {
   applyModifiers(event, 'cataclysm:cursium_helmet', 'head', [
     { attribute: 'apothic_attributes:ghost_health', amount: 2, id: 'end:cursium_head_overh', operation: 'add_value' },
   ]);
+  applyModifiers(event, 'armoroftheages:raijin_armor_head', 'head', [
+    { attribute: 'combat_roll:count', amount: 1, id: 'end:raijin_armor_head1', operation: 'add_value' },
+    { attribute: 'combat_roll:distance', amount: 0.1, id: 'end:raijin_armor_head2', operation: 'add_multiplied_base' },
+    { attribute: 'combat_roll:recharge', amount: 0.1, id: 'end:raijin_armor_head3', operation: 'add_multiplied_base' },
+  ]);
  
 
   // Chest
@@ -115,6 +120,11 @@ ItemEvents.modification(event => {
   applyModifiers(event, 'cataclysm:cursium_chestplate', 'chest', [
     { attribute: 'generic.max_health', amount: 0.1, id: 'end:cursium_chestplate_maxh', operation: 'add_multiplied_base' },
   ]);
+  applyModifiers(event, 'armoroftheages:raijin_armor_chest', 'chest', [
+    { attribute: 'combat_roll:count', amount: 1, id: 'end:raijin_armor_chest1', operation: 'add_value' },
+    { attribute: 'combat_roll:distance', amount: 0.1, id: 'end:raijin_armor_chest2', operation: 'add_multiplied_base' },
+    { attribute: 'combat_roll:recharge', amount: 0.1, id: 'end:raijin_armor_chest3', operation: 'add_multiplied_base' },
+  ]);
 
   // Legs
   applyModifiers(event, 'armoroftheages:holy_armor_legs', 'legs', [
@@ -144,6 +154,11 @@ ItemEvents.modification(event => {
   applyModifiers(event, 'cataclysm:cursium_leggings', 'legs', [
     { attribute: 'generic.attack_speed', amount: 0.1, id: 'end:cursium_legs_atksped', operation: 'add_multiplied_base' },
   ]);
+  applyModifiers(event, 'armoroftheages:raijin_armor_legs', 'legs', [
+    { attribute: 'combat_roll:count', amount: 1, id: 'end:raijin_armor_legs1', operation: 'add_value' },
+    { attribute: 'combat_roll:distance', amount: 0.1, id: 'end:raijin_armor_legs2', operation: 'add_multiplied_base' },
+    { attribute: 'combat_roll:recharge', amount: 0.1, id: 'end:raijin_armor_legs3', operation: 'add_multiplied_base' },
+  ]);
 
   // Boots
   applyModifiers(event, 'armoroftheages:holy_armor_feet', 'feet', [
@@ -172,6 +187,11 @@ ItemEvents.modification(event => {
   ]);  
   applyModifiers(event, 'cataclysm:cursium_boots', 'legs', [
     { attribute: 'generic.movement_speed', amount: 0.15, id: 'end:cursium_feetsped', operation: 'add_multiplied_base' },
+  ]);
+  applyModifiers(event, 'armoroftheages:raijin_armor_feet', 'feet', [
+    { attribute: 'combat_roll:count', amount: 1, id: 'end:raijin_armor_feet1', operation: 'add_value' },
+    { attribute: 'combat_roll:distance', amount: 0.1, id: 'end:raijin_armor_feet2', operation: 'add_multiplied_base' },
+    { attribute: 'combat_roll:recharge', amount: 0.1, id: 'end:raijin_armor_feet3', operation: 'add_multiplied_base' },
   ]);  
 });
 

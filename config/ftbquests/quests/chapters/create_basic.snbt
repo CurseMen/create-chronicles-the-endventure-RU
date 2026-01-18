@@ -3940,6 +3940,15 @@
 		{
 			dependencies: ["603F0A37888A475D"]
 			id: "683D0537EB605FB7"
+			rewards: [{
+				count: 2
+				id: "5B298A86FCB459EA"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "317604E0E8B381A5"
 				item: { components: { "ftbfiltersystem:filter": "or(mod(createdeco))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -3970,6 +3979,15 @@
 					}
 					type: "item"
 				}
+				{
+					count: 12
+					id: "6693CC13C6B57CA4"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "1D1FE353EA1B628A"
@@ -3982,6 +4000,15 @@
 		{
 			dependencies: ["603F0A37888A475D"]
 			id: "773C584834762704"
+			rewards: [{
+				count: 2
+				id: "4DC836EEBA60C2DD"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "5B2D3397EC1AF696"
 				item: { components: { "ftbfiltersystem:filter": "or(mod(bellsandwhistles))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -3993,6 +4020,15 @@
 		{
 			dependencies: ["603F0A37888A475D"]
 			id: "6B7145D96CE59932"
+			rewards: [{
+				count: 2
+				id: "65F16801F0594B81"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "72F64706708E1C40"
 				item: { components: { "ftbfiltersystem:filter": "or(mod(create_vibrant_vaults))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -4004,6 +4040,15 @@
 		{
 			dependencies: ["603F0A37888A475D"]
 			id: "2E2229C382536D91"
+			rewards: [{
+				count: 2
+				id: "3566C41B71719CCC"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "3DB26F36A79EF3D5"
 				item: { components: { "ftbfiltersystem:filter": "or(mod(createprism))" }, count: 1, id: "ftbfiltersystem:smart_filter" }

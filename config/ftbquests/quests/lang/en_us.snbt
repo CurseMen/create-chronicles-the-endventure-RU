@@ -1738,7 +1738,11 @@
 	]
 	quest.2DE531FF769A86D5.quest_subtitle: " vroom!  vroom!  vroom!"
 	quest.2E156E1D6BA5517A.quest_subtitle: "-75% air friction"
-	quest.2E2229C382536D91.quest_subtitle: "&d@prism"
+	quest.2E2229C382536D91.quest_desc: [
+		"Glass not fitting your Create aesthetic build? This mod fixes your problem. It adds multiple create style glass, such as andesite glass, copper glass and much more, to better fit your build aesthetically."
+		""
+		"&d@prism "
+	]
 	quest.2E2229C382536D91.title: "Create Prismatic Shine"
 	quest.2E3B821A8A402B3E.quest_desc: [
 		"You can claim chunks to protect your base and prevent others from modifying your builds."
@@ -2803,7 +2807,18 @@
 		"A sheared lotus flower will not grow anymore and won't drop any &bbleachdew!&r"
 	]
 	quest.4626F4A23540DD3E.title: "Bleachdew and Lotus Flower"
-	quest.46519B1166B318F2.quest_subtitle: "&d@create_wrapper"
+	quest.46519B1166B318F2.quest_desc: [
+		"Always wanted to give a present to a dear friend or a dear enemy soon to be? Wait no longer! Now you can do that with the &cWrapping Station&r and wrap some Tn-Flowers! Yeah I meant to say that."
+		""
+		"&cThe Wrapping Station&r can be configured to wrap a single Item or a Stack by clicking the cogwheel on the side on its menu. "
+		""
+		"There are different kinds of wrapping paper you can use to wrap your gift. "
+		""
+		"Simply place the item you want to give and then the wrapping paper of your choice, and wait a few seconds. Then grab the present and  give it to your best friend and watch them explode in happiness or… happy after… go spread some love!"
+		""
+		"&d@create_wrapper"
+	]
+	quest.46519B1166B318F2.quest_subtitle: "&bhohoh.o...hohoho..."
 	quest.46519B1166B318F2.title: "Create Wrapper"
 	quest.465B9A805BA57898.quest_subtitle: "Obtained from market with magic coins"
 	quest.466F43B18F0D1B7E.quest_desc: [
@@ -3846,6 +3861,8 @@
 	]
 	quest.5FDAADD20C6A6DC7.quest_subtitle: "&3☠ Tier 6"
 	quest.5FE710403BE1AAF5.quest_subtitle: "right click into a tamed familiar to boost his armor permanently."
+	quest.603F0A37888A475D.quest_subtitle: "Here are a few mods that can expand your cosmetic options and support cosmetic-focused progression/industries."
+	quest.603F0A37888A475D.title: "&l&dCosmetic mods&r&r"
 	quest.607047A3D380D423.quest_subtitle: "Shrinks the wearer to half their size."
 	quest.6073AB1A816E845F.quest_subtitle: "Harness the power of &cfire&r. Increased &cfire spell power&r or &carmor&r."
 	quest.6073AB1A816E845F.title: "&c&lSchool of Fire"
@@ -4148,7 +4165,11 @@
 	quest.67FA8896AD563A77.title: "&eWaystones"
 	quest.681E258AB577FF73.quest_subtitle: " Increases Lure and Luck of the Sea by 1 level"
 	quest.6831FF0CBA2E0FD2.quest_subtitle: "Not repeatable"
-	quest.683D0537EB605FB7.quest_subtitle: "&d@createdeco"
+	quest.683D0537EB605FB7.quest_desc: [
+		"This mod adds over 20+ cosmetic items and blocks for you, from cage lamps to catwalks to multiple variations of brickstones. Let your creativity go wild and take your industrial, urban, and or steampunk build to the next level."
+		""
+		"&d@createdeco"
+	]
 	quest.683D0537EB605FB7.title: "Create Deco"
 	quest.692451647E98D133.quest_subtitle: "Not repeatable"
 	quest.692D79D601534A2E.quest_desc: [
@@ -4235,7 +4256,11 @@
 		"Depending on your enchantment level, you may need to use&b Super Enchanting&r to reapply it."
 	]
 	quest.6B2BB3A3AAC179FE.title: "&l&6Disenchanting Your Equipment"
-	quest.6B7145D96CE59932.quest_subtitle: "&d@vibrant_vaults"
+	quest.6B7145D96CE59932.quest_desc: [
+		"Tired of looking at the same boring Blue Vault from create? This fixes your problem! Brand new colors for your vault to fit your style, and new ones that look like Shipping Containers for that extra detail on your creative building."
+		""
+		"&d@vibrant_vaults"
+	]
 	quest.6B7145D96CE59932.title: "Create Vibrant Vaults"
 	quest.6B7CFD3808AB7DB1.title: "&cAdvanced Pyromancer Outfit"
 	quest.6B95EF7446936BCD.quest_subtitle: "You can repeat as many times you want!"
@@ -4833,7 +4858,11 @@
 		"Once the threshold is reached, redstone output will be sent. Another redstone pulse will reset the counter to 0."
 	]
 	quest.76D595EF8B7A90E1.title: "&aAdvanced Archevoker Outfit"
-	quest.773C584834762704.quest_subtitle: "&d@bellandwhistles"
+	quest.773C584834762704.quest_desc: [
+		"Give your train some extra detail with 36 new decorative and utility blocks. Make your trains more stylish and take them to the next level."
+		""
+		"&d@bellandwhistles"
+	]
 	quest.773C584834762704.title: "Bells and Whistles "
 	quest.779E68DD0A0F8483.quest_subtitle: "Can be crafted in the Alchemist Cauldron using an Echo Shard and a Mundane Potion."
 	quest.77A0F8AC2BF086C5.quest_desc: [

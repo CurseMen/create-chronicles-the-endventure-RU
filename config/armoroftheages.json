@@ -42,8 +42,8 @@
 	"raijinChestDef": 9,
 	"raijinLegsDef": 7,
 	"raijinFeetDef": 3,
-	"raijinEnchantability": 26,
-	"raijinToughness": 2.0,
+	"raijinEnchantability": 60,
+	"raijinToughness": 3.0,
 	"pharaohDurability": 10,
 	"pharaohHelmetDef": 3,
 	"pharaohChestDef": 8,
@@ -83,5 +83,5 @@
 	"generateOYoroiArmor": true,
 	"generatePharaohArmor": true,
 	"generateQuetzalcoatlArmor": false,
-	"generateRaijinArmor": true
+	"generateRaijinArmor": false
 }

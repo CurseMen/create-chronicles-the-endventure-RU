@@ -1155,6 +1155,15 @@
 		}
 		{
 			id: "339084330D0071A3"
+			rewards: [{
+				count: 5
+				id: "76B7321C51B971F7"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			size: 1.5d
 			tasks: [{
@@ -1168,6 +1177,15 @@
 		{
 			dependencies: ["339084330D0071A3"]
 			id: "4783354CA88E9A89"
+			rewards: [{
+				count: 5
+				id: "2706748ABF0BE25E"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			size: 1.5d
 			tasks: [{
@@ -1181,6 +1199,15 @@
 		{
 			dependencies: ["4783354CA88E9A89"]
 			id: "2A83D21A745DC4AB"
+			rewards: [{
+				count: 5
+				id: "69DBFA513AAAF034"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			size: 1.5d
 			tasks: [{
@@ -1194,6 +1221,15 @@
 		{
 			dependencies: ["2A83D21A745DC4AB"]
 			id: "28A70C1536CAC7CF"
+			rewards: [{
+				count: 5
+				id: "14F46368867552A7"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			size: 1.5d
 			tasks: [{
@@ -1206,6 +1242,15 @@
 		}
 		{
 			id: "1B9972187712A266"
+			rewards: [{
+				count: 5
+				id: "5FF4688200D22025"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			size: 1.5d
 			tasks: [{
@@ -1219,6 +1264,15 @@
 		{
 			dependencies: ["1B9972187712A266"]
 			id: "6CD6C7648CF464E3"
+			rewards: [{
+				count: 5
+				id: "2969A226EC9DCCD2"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			size: 1.5d
 			tasks: [{
@@ -1232,6 +1286,15 @@
 		{
 			dependencies: ["6CD6C7648CF464E3"]
 			id: "62FD013A69AFE9C3"
+			rewards: [{
+				count: 5
+				id: "69A672B9A0AB6026"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			size: 1.5d
 			tasks: [{
@@ -1245,6 +1308,15 @@
 		{
 			dependencies: ["62FD013A69AFE9C3"]
 			id: "53CB12BBF6E3E89A"
+			rewards: [{
+				count: 5
+				id: "75882EDE7AC3D9A2"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
 			shape: "rsquare"
 			size: 1.5d
 			tasks: [{
