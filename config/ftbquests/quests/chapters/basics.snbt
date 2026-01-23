@@ -3145,5 +3145,94 @@
 			x: -10.5d
 			y: 23.0d
 		}
+		{
+			dependencies: ["19EF374996946C2D"]
+			id: "451BA38DFA254842"
+			rewards: [
+				{
+					id: "443803BB53A14D26"
+					item: {
+						count: 1
+						id: "kubejs:heart_container"
+					}
+					type: "item"
+				}
+				{
+					count: 30
+					id: "673FAF912FE2CEB3"
+					item: {
+						count: 1
+						id: "magic_coins:silver_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5C3E37A53EC3E7D4"
+				item: { count: 1, id: "starcatcher:trophy_bronze" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: 24.5d
+		}
+		{
+			dependencies: ["19EF374996946C2D"]
+			id: "257D555463BC74A1"
+			rewards: [
+				{
+					id: "57D8E532DA6E7430"
+					item: {
+						count: 1
+						id: "kubejs:heart_container"
+					}
+					type: "item"
+				}
+				{
+					id: "24E0DB5CA30A9D15"
+					item: {
+						count: 1
+						id: "magic_coins:gold_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "78719CFCBDD18EE4"
+				item: { count: 1, id: "starcatcher:trophy_silver" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: 24.5d
+		}
+		{
+			dependencies: ["19EF374996946C2D"]
+			id: "6D75AFB89D3CB9CF"
+			rewards: [
+				{
+					id: "15C563CA8A7CB506"
+					item: {
+						count: 1
+						id: "kubejs:heart_container"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "5F06ACD362C1E15C"
+					item: {
+						count: 1
+						id: "magic_coins:gold_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6C7C516876FDB8FE"
+				item: { count: 1, id: "starcatcher:trophy_gold" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: 24.5d
+		}
 	]
 }

@@ -15,7 +15,17 @@
         {
           "type": "minecraft:item",
           "name": "hazennstuff:blade_of_the_legate",
-          "weight": 1
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hazennstuff:the_tribunes_medallion",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hazennstuff:the_prefects_ring",
+          "weight": 3
         },
         {
           "type": "minecraft:item",
@@ -59,6 +69,17 @@
             }
           ],
           "weight": 14
+        },
+        {
+          "type": "minecraft:item",
+          "name": "irons_spellbooks:legendary_ink",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 5
+            }
+          ],
+          "weight": 19
         },
         {
           "type": "minecraft:item",
@@ -147,7 +168,18 @@
         {
           "type": "minecraft:item",
           "name": "hazennstuff:true_nights_edge",
-          "weight": 1
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hazennstuff:shadow_scale",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 10
+            }
+          ],
+          "weight": 16
         },
         {
           "type": "minecraft:item",
@@ -241,6 +273,66 @@
         {
           "type": "minecraft:item",
           "name": "armoroftheages:raijin_armor_head",
+          "weight": 14
+        },
+        {
+          "type": "minecraft:item",
+          "name": "armoroftheages:o_yoroi_armor_feet",
+          "weight": 14
+        },
+        {
+          "type": "minecraft:item",
+          "name": "armoroftheages:o_yoroi_armor_legs",
+          "weight": 14
+        },
+        {
+          "type": "minecraft:item",
+          "name": "armoroftheages:o_yoroi_armor_chest",
+          "weight": 14
+        },
+        {
+          "type": "minecraft:item",
+          "name": "armoroftheages:o_yoroi_armor_head",
+          "weight": 14
+        },
+        {
+          "type": "minecraft:item",
+          "name": "armoroftheages:exalted_aurum_armor_feet",
+          "weight": 14
+        },
+        {
+          "type": "minecraft:item",
+          "name": "armoroftheages:exalted_aurum_armor_legs",
+          "weight": 14
+        },
+        {
+          "type": "minecraft:item",
+          "name": "armoroftheages:exalted_aurum_armor_chest",
+          "weight": 14
+        },
+        {
+          "type": "minecraft:item",
+          "name": "armoroftheages:exalted_aurum_armor_head",
+          "weight": 14
+        },
+        {
+          "type": "minecraft:item",
+          "name": "armoroftheages:pharaoh_armor_feet",
+          "weight": 14
+        },
+        {
+          "type": "minecraft:item",
+          "name": "armoroftheages:pharaoh_armor_legs",
+          "weight": 14
+        },
+        {
+          "type": "minecraft:item",
+          "name": "armoroftheages:pharaoh_armor_chest",
+          "weight": 14
+        },
+        {
+          "type": "minecraft:item",
+          "name": "armoroftheages:pharaoh_armor_head",
           "weight": 14
         }
       ]

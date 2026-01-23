@@ -801,7 +801,7 @@
 				consume_items: true
 				count: 256L
 				id: "180BD97F4FE9C583"
-				item: { count: 1, id: "garnished:rosy_cocktail" }
+				item: { count: 1, id: "create_new_age:copper_circuit" }
 				type: "item"
 			}]
 			x: -7.5d

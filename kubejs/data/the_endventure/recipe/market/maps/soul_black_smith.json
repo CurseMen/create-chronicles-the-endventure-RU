@@ -1,7 +1,7 @@
 {
   "type": "farmingforblockheads:market",
-  "category": "farmingforblockheads:maps",
-  "preset": "simple_journey:empty",
+  "preset": "the_endventure:maps",
+  "category": "the_endventure:maps",
   "payment": {
     "ingredient": {
       "item": "magic_coins:gold_coin"

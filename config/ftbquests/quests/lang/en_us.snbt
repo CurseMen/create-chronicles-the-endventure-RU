@@ -319,6 +319,8 @@
 		"These rare gems are not just for bragging rights; they’re used in powerful tools and machines."
 	]
 	quest.06267D7C266DE215.title: "&bShiny and Rare"
+	quest.063FB387DE692AC3.quest_subtitle: "&l&aZenalite ore can be found under groun in Eternal Starlight Dimension&r&r"
+	quest.063FB387DE692AC3.title: "Zenalite Ore"
 	quest.065D5E33586CE44C.quest_desc: ["Apply your custom decoration at the table by inserting a paintbrush. Once applied, you can use the paintbrush directly on a chest without breaking it, instantly transferring the chosen style."]
 	quest.066B217CF45625F9.quest_desc: [
 		"&cIgnis&r can be found on the final floor of the &eBurning Arena&r, deep within the Nether."
@@ -816,6 +818,7 @@
 	]
 	quest.1278600075A14600.title: "&2Find a Ribbit village"
 	quest.12B028C021E25ED0.quest_desc: ["This takes around &b50 seconds&r per alloy to charge with tesla coil. (with proper energy generation)"]
+	quest.12BDFF66B6AFC436.quest_subtitle: "Can be found in overworld"
 	quest.12E892DA9716234B.quest_desc: [
 		"&6External Storage&r lets your network use other containers—like chests or barrels—as part of its storage system."
 		""
@@ -3986,6 +3989,7 @@
 		""
 		"&e&lWarning:&r&r If the block overheats, it will turn into &6Lava&r."
 	]
+	quest.63023AD450F38D7A.quest_subtitle: "Can be found on Swamps"
 	quest.630BDF564F7516D7.quest_desc: ["To enable wireless network access, create the &eME Wireless Access Point&r. It allows access to the network via a wireless terminal, with range determined by the number of &aWireless Boosters&r inserted."]
 	quest.632E2AD859CE0BDE.quest_desc: [
 		"The &6&lWindmill Bearing&r&r is a block used for passive power generation."

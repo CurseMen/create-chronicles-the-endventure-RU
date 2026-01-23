@@ -18,7 +18,7 @@ graphicsMode:1
 guiScale:3
 maxFps:120
 mipmapLevels:4
-narrator:0
+narrator:2
 particles:0
 reducedDebugInfo:false
 renderClouds:"true"
@@ -175,7 +175,6 @@ key_key.jei.copy.recipe.id:key.keyboard.unknown
 key_key.scholar.toggle_book_tools:key.keyboard.f1
 key_key.scholar.import_book:key.keyboard.f6
 key_key.scholar.export_book:key.keyboard.f7
-key_key.golemoverhaul.netherite_golem_summon:key.keyboard.i
 key_keybinds.bettercombat.feint:key.keyboard.unknown
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 key_keybinds.combat_roll.roll:key.keyboard.r
@@ -255,11 +254,12 @@ key_key.ftbchunks.minimap.zoomIn:key.keyboard.unknown
 key_key.ftbchunks.minimap.zoomOut:key.keyboard.unknown
 key_key.ftbchunks.add_waypoint:key.keyboard.unknown
 key_key.ftbchunks.waypoint_manager:key.keyboard.unknown
+key_key.golemoverhaul.netherite_golem_summon:key.keyboard.i
 key_key.moreoverlays.lightoverlay.desc:key.keyboard.f7
 key_key.moreoverlays.chunkbounds.desc:key.keyboard.f9
 key_key.inventorysorter.itemout:key.mouse.102
-key_key.inventorysorter.itemin:key.mouse.100
 key_key.inventorysorter.sort:key.mouse.middle
+key_key.inventorysorter.itemin:key.mouse.100
 key_key.kubejs.kubedex:key.keyboard.unknown
 key_keyinfo.copycats.fill_copycat:key.keyboard.left.alt
 key_key.journeymap.zoom_in:key.keyboard.keypad.add

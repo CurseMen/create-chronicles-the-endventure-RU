@@ -97,6 +97,9 @@ const removeRecipesById = [
   'handcrafted:terracotta_thin_pot',
 
   'refinedstorage_quartz_arsenal:wireless_crafting_grid',
+
+  'hazennstuff:crafting/curios/galvanized_sheath',
+  'hazennstuff:crafting/curios/scroll_sheath',
 ];
 
 // === REMOVE BY MOD ID ===

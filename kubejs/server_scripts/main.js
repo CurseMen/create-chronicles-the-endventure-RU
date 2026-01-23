@@ -144,6 +144,130 @@ ServerEvents.recipes(event => {
     ]
   })
 
+  event.custom({
+    "type": "createaddition:charging",
+    "energy": 10000,
+    "ingredients": [
+      {
+        "item": "minecraft:diamond"
+      }
+    ],
+    "max_charge_rate": 200,
+    "results": [
+      {
+        "id": "create_new_age:overcharged_diamond"
+      }
+    ]
+  })
+
+  event.custom({
+    "type": "createaddition:charging",
+    "energy": 2000,
+    "ingredients": [
+      {
+        "item": "create:golden_sheet"
+      }
+    ],
+    "max_charge_rate": 200,
+    "results": [
+      {
+        "id": "create_new_age:overcharged_golden_sheet"
+      }
+    ]
+  })
+
+  event.custom({
+    "type": "createaddition:charging",
+    "energy": 2000,
+    "ingredients": [
+      {
+        "item": "minecraft:gold_ingot"
+      }
+    ],
+    "max_charge_rate": 200,
+    "results": [
+      {
+        "id": "create_new_age:overcharged_gold"
+      }
+    ]
+  })
+
+  event.custom({
+    "type": "createaddition:charging",
+    "energy": 50000,
+    "ingredients": [
+      {
+        "item": "minecraft:glass_bottle"
+      }
+    ],
+    "max_charge_rate": 200,
+    "results": [
+      {
+        "id": "minecraft:experience_bottle"
+      }
+    ]
+  })
+
+  event.custom({
+    "type": "createaddition:charging",
+    "energy": 1000,
+    "ingredients": [
+      {
+        "item": "minecraft:iron_ingot"
+      }
+    ],
+    "max_charge_rate": 200,
+    "results": [
+      {
+        "id": "create_new_age:overcharged_iron"
+      }
+    ]
+  })
+
+  event.custom({
+    "type": "createaddition:charging",
+    "energy": 1000,
+    "ingredients": [
+      {
+        "item": "create:iron_sheet"
+      }
+    ],
+    "max_charge_rate": 200,
+    "results": [
+      {
+        "id": "create_new_age:overcharged_iron_sheet"
+      }
+    ]
+  })
+
+  event.custom({
+    "type": "create_new_age:energising",
+    "energy_needed": 4000,
+    "ingredients": [
+      {
+        "item": "minecraft:copper_ingot"
+      }
+    ],
+    "results": [
+      {
+        "id": "createmechanisms:bronze"
+      }
+    ]
+  })
+  event.custom({
+    "type": "create_new_age:energising",
+    "energy_needed": 36000,
+    "ingredients": [
+      {
+        "item": "minecraft:gold_ingot"
+      }
+    ],
+    "results": [
+      {
+        "id": "createaddition:electrum_ingot"
+      }
+    ]
+  })
   // Simply Swords book
   event.custom({
     "type": "minecraft:crafting_shapeless",
