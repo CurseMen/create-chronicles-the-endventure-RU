@@ -4,11 +4,11 @@
 	# Range: 10 ~ 100
 	zoom_amount = 40
 	#Zoom items only from the JEI ingredient and bookmark list overlays.
-	jei_only = true
+	jei_only = false
 
 	[itemzoom.toggled]
 		#If set to "false", Item Zoom will be disabled.
-		enabled = false
+		enabled = true
 
 	[itemzoom.show]
 		#Display name "Item Zoom" and the hotkey to toggle this mod below the zoomed item.

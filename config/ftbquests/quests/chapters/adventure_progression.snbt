@@ -1447,36 +1447,6 @@
 		}
 		{
 			dependencies: ["3052F9967211F448"]
-			id: "7C185DB8566F7E33"
-			rewards: [
-				{
-					id: "214C7068BF2A23E7"
-					type: "xp"
-					xp: 100
-				}
-				{
-					count: 3
-					id: "7F33BFF7FD7C7785"
-					item: {
-						count: 1
-						id: "magic_coins:silver_coin"
-					}
-					type: "item"
-				}
-			]
-			shape: "rsquare"
-			size: 1.5d
-			tasks: [{
-				advancement: "minecraft:end/dragon_egg"
-				criterion: ""
-				id: "1F7A7FA9CAFCCC1F"
-				type: "advancement"
-			}]
-			x: -6.75d
-			y: 8.25d
-		}
-		{
-			dependencies: ["3052F9967211F448"]
 			id: "746F82D541EBA386"
 			optional: true
 			rewards: [
@@ -1511,7 +1481,7 @@
 				item: { count: 1, id: "minecraft:elytra" }
 				type: "item"
 			}]
-			x: -8.25d
+			x: -7.5d
 			y: 8.25d
 		}
 		{
@@ -1531,7 +1501,7 @@
 				item: { count: 1, id: "cataclysm:ignitium_elytra_chestplate" }
 				type: "item"
 			}]
-			x: -7.5d
+			x: -7.0d
 			y: 9.5d
 		}
 		{
@@ -1551,7 +1521,7 @@
 				item: { count: 1, id: "deeperdarker:soul_elytra" }
 				type: "item"
 			}]
-			x: -9.0d
+			x: -8.0d
 			y: 9.5d
 		}
 		{
@@ -1829,7 +1799,7 @@
 				id: "59B37915ED9CA935"
 				type: "checkmark"
 			}]
-			x: -5.25d
+			x: -6.0d
 			y: 8.25d
 		}
 		{
@@ -1913,7 +1883,7 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: -9.75d
+			x: -9.0d
 			y: 8.25d
 		}
 	]

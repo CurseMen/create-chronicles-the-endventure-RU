@@ -200,7 +200,7 @@
 	#EnderGuardian's Health Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	EnderGuardianHealthMultiplier = 30.0
+	EnderGuardianHealthMultiplier = 50.0
 	#EnderGuardian's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
@@ -334,7 +334,7 @@
 	#Ignis's Health Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	IgnisHealthMultiplier = 7.0
+	IgnisHealthMultiplier = 9.0
 	#Ignis's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
@@ -430,7 +430,7 @@
 	#Leviathan's Health Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	LeviathanHealthMultiplier = 4.5
+	LeviathanHealthMultiplier = 5.0
 	#Leviathan's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
@@ -516,7 +516,7 @@
 	#Ancient Remnant's Health Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	AncientRemnantHealthMultiplier = 4.5
+	AncientRemnantHealthMultiplier = 5.0
 	#Ancient Remnant's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
@@ -602,7 +602,7 @@
 	#Maledictus's Health Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	MaledictusHealthMultiplier = 7.0
+	MaledictusHealthMultiplier = 9.0
 	#Maledictus's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
@@ -752,7 +752,7 @@
 	#Scylla's Health Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0
-	ScyllaHealthMultiplier = 4.5
+	ScyllaHealthMultiplier = 5.0
 	#Scylla's Damage Multiplier
 	# Default: 1.0
 	# Range: 0.0 ~ 1000000.0

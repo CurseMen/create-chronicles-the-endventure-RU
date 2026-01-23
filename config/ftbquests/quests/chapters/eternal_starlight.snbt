@@ -100,8 +100,11 @@
 				count: 2
 				id: "6D9F7152842E9EA1"
 				item: {
+					components: {
+						"ftbquests:missing_item": "eternal_starlight:trapped_soul"
+					}
 					count: 1
-					id: "eternal_starlight:trapped_soul"
+					id: "ftbquests:missing_item"
 				}
 				type: "item"
 			}]

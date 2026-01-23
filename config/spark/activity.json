@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Volumia",
+      "uniqueId": "e5c5a8fc-739c-415d-ba8b-2591614e30fb"
+    },
+    "time": 1768701784188,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/SvuZ5Mto7Y"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Volumia",
+      "uniqueId": "e5c5a8fc-739c-415d-ba8b-2591614e30fb"
+    },
+    "time": 1768701764950,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/pKEG38rX5b"
+    }
+  }
+]

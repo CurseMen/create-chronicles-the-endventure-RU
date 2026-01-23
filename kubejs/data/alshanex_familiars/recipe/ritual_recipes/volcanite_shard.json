@@ -3,12 +3,36 @@
   "central_item": {
     "item": "irons_spellbooks:divine_soulshard"
   },
-  "input_items": {
-    "minecraft:blaze_rod": 1,
-    "irons_spellbooks:mithril_ingot": 1,
-    "irons_spellbooks:legendary_ink": 1,
-    "irons_spellbooks:shriving_stone": 1
-  },
+  "inputs": [
+    {
+      "ingredient": {
+        "item": "minecraft:blaze_rod"
+      },
+      "count": 1,
+      "consume": true
+    },
+    {
+      "ingredient": {
+        "item": "irons_spellbooks:mithril_ingot"
+      },
+      "count": 1,
+      "consume": true
+    },
+    {
+      "ingredient": {
+        "item": "irons_spellbooks:legendary_ink"
+      },
+      "count": 1,
+      "consume": true
+    },
+    {
+      "ingredient": {
+        "item": "irons_spellbooks:shriving_stone"
+      },
+      "count": 1,
+      "consume": true
+    }
+  ],
   "result": {
     "id": "crystal_chronicles:volcanite_shard"
   },

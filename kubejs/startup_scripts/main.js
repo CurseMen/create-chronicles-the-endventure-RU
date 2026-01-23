@@ -77,6 +77,24 @@ ItemEvents.modification(event => {
   applyModifiers(event, 'cataclysm:cursium_helmet', 'head', [
     { attribute: 'apothic_attributes:ghost_health', amount: 2, id: 'end:cursium_head_overh', operation: 'add_value' },
   ]);
+  applyModifiers(event, 'armoroftheages:raijin_armor_head', 'head', [
+    { attribute: 'combat_roll:count', amount: 1, id: 'end:raijin_armor_head1', operation: 'add_value' },
+    { attribute: 'combat_roll:distance', amount: 0.1, id: 'end:raijin_armor_head2', operation: 'add_multiplied_base' },
+    { attribute: 'combat_roll:recharge', amount: 0.1, id: 'end:raijin_armor_head3', operation: 'add_multiplied_base' },
+  ]);
+  applyModifiers(event, 'armoroftheages:o_yoroi_armor_head', 'head', [
+    { attribute: 'apothic_attributes:crit_damage', amount: 0.3, id: 'end:oyoroi_armor_head_crit', operation: 'add_value' },
+  ]);
+  applyModifiers(event, 'armoroftheages:exalted_aurum_armor_head', 'head', [
+    { attribute: 'apothic_attributes:experience_gained', amount: 0.25, id: 'end:exalted_aurum_armor_head_exp', operation: 'add_multiplied_base' },
+  ]);
+  applyModifiers(event, 'armoroftheages:pharaoh_armor_head', 'head', [
+    { attribute: 'apothic_attributes:draw_speed', amount: 0.18, id: 'end:speed_armor_head_exp', operation: 'add_multiplied_base' },
+    { attribute: 'apothic_attributes:arrow_damage', amount: 0.15, id: 'end:arrow_damage_armor_head_exp', operation: 'add_multiplied_base' },
+    { attribute: 'apothic_attributes:arrow_velocity', amount: 0.20, id: 'end:arrow_velocity_armor_head_exp', operation: 'add_multiplied_base' },
+    { attribute: 'generic.movement_speed', amount: 0.05, id: 'end:speed_damage_armor_head_exp', operation: 'add_multiplied_base' },
+  ]);
+  
  
 
   // Chest
@@ -115,6 +133,23 @@ ItemEvents.modification(event => {
   applyModifiers(event, 'cataclysm:cursium_chestplate', 'chest', [
     { attribute: 'generic.max_health', amount: 0.1, id: 'end:cursium_chestplate_maxh', operation: 'add_multiplied_base' },
   ]);
+  applyModifiers(event, 'armoroftheages:raijin_armor_chest', 'chest', [
+    { attribute: 'combat_roll:count', amount: 1, id: 'end:raijin_armor_chest1', operation: 'add_value' },
+    { attribute: 'combat_roll:distance', amount: 0.1, id: 'end:raijin_armor_chest2', operation: 'add_multiplied_base' },
+    { attribute: 'combat_roll:recharge', amount: 0.1, id: 'end:raijin_armor_chest3', operation: 'add_multiplied_base' },
+  ]);
+  applyModifiers(event, 'armoroftheages:o_yoroi_armor_chest', 'chest', [
+    { attribute: 'apothic_attributes:crit_damage', amount: 0.3, id: 'end:oyoroi_armor_chest_crit', operation: 'add_value' },
+  ]);
+    applyModifiers(event, 'armoroftheages:exalted_aurum_armor_chest', 'chest', [
+    { attribute: 'apothic_attributes:experience_gained', amount: 0.25, id: 'end:exalted_aurum_armor_chest_exp', operation: 'add_multiplied_base' },
+  ]);
+  applyModifiers(event, 'armoroftheages:pharaoh_armor_chest', 'chest', [
+    { attribute: 'apothic_attributes:draw_speed', amount: 0.18, id: 'end:speed_armor_chest_exp', operation: 'add_multiplied_base' },
+    { attribute: 'apothic_attributes:arrow_damage', amount: 0.15, id: 'end:arrow_damage_armor_chest_exp', operation: 'add_multiplied_base' },
+    { attribute: 'apothic_attributes:arrow_velocity', amount: 0.20, id: 'end:arrow_velocity_armor_chest_exp', operation: 'add_multiplied_base' },
+    { attribute: 'generic.movement_speed', amount: 0.05, id: 'end:speed_damage_armor_chest_exp', operation: 'add_multiplied_base' },
+  ]);
 
   // Legs
   applyModifiers(event, 'armoroftheages:holy_armor_legs', 'legs', [
@@ -144,6 +179,23 @@ ItemEvents.modification(event => {
   applyModifiers(event, 'cataclysm:cursium_leggings', 'legs', [
     { attribute: 'generic.attack_speed', amount: 0.1, id: 'end:cursium_legs_atksped', operation: 'add_multiplied_base' },
   ]);
+  applyModifiers(event, 'armoroftheages:raijin_armor_legs', 'legs', [
+    { attribute: 'combat_roll:count', amount: 1, id: 'end:raijin_armor_legs1', operation: 'add_value' },
+    { attribute: 'combat_roll:distance', amount: 0.1, id: 'end:raijin_armor_legs2', operation: 'add_multiplied_base' },
+    { attribute: 'combat_roll:recharge', amount: 0.1, id: 'end:raijin_armor_legs3', operation: 'add_multiplied_base' },
+  ]);
+  applyModifiers(event, 'armoroftheages:o_yoroi_armor_legs', 'legs', [
+    { attribute: 'apothic_attributes:crit_damage', amount: 0.3, id: 'end:oyoroi_armor_legs_crit', operation: 'add_value' },
+  ]);
+  applyModifiers(event, 'armoroftheages:exalted_aurum_armor_legs', 'legs', [
+    { attribute: 'apothic_attributes:experience_gained', amount: 0.25, id: 'end:exalted_aurum_armor_legs_exp', operation: 'add_multiplied_base' },
+  ]);
+  applyModifiers(event, 'armoroftheages:pharaoh_armor_legs', 'legs', [
+    { attribute: 'apothic_attributes:draw_speed', amount: 0.18, id: 'end:speed_armor_legs_exp', operation: 'add_multiplied_base' },
+    { attribute: 'apothic_attributes:arrow_damage', amount: 0.15, id: 'end:arrow_damage_armor_legs_exp', operation: 'add_multiplied_base' },
+    { attribute: 'apothic_attributes:arrow_velocity', amount: 0.20, id: 'end:arrow_velocity_armor_legs_exp', operation: 'add_multiplied_base' },
+    { attribute: 'generic.movement_speed', amount: 0.05, id: 'end:speed_damage_armor_legs_exp', operation: 'add_multiplied_base' },
+  ]);
 
   // Boots
   applyModifiers(event, 'armoroftheages:holy_armor_feet', 'feet', [
@@ -172,7 +224,24 @@ ItemEvents.modification(event => {
   ]);  
   applyModifiers(event, 'cataclysm:cursium_boots', 'legs', [
     { attribute: 'generic.movement_speed', amount: 0.15, id: 'end:cursium_feetsped', operation: 'add_multiplied_base' },
-  ]);  
+  ]);
+  applyModifiers(event, 'armoroftheages:raijin_armor_feet', 'feet', [
+    { attribute: 'combat_roll:count', amount: 1, id: 'end:raijin_armor_feet1', operation: 'add_value' },
+    { attribute: 'combat_roll:distance', amount: 0.1, id: 'end:raijin_armor_feet2', operation: 'add_multiplied_base' },
+    { attribute: 'combat_roll:recharge', amount: 0.1, id: 'end:raijin_armor_feet3', operation: 'add_multiplied_base' },
+  ]);
+  applyModifiers(event, 'armoroftheages:o_yoroi_armor_feet', 'feet', [
+    { attribute: 'apothic_attributes:crit_damage', amount: 0.3, id: 'end:oyoroi_armor_feet_crit', operation: 'add_value' },
+  ]);
+  applyModifiers(event, 'armoroftheages:exalted_aurum_armor_feet', 'feet', [
+    { attribute: 'apothic_attributes:experience_gained', amount: 0.25, id: 'end:exalted_aurum_armor_feetexp', operation: 'add_multiplied_base' },
+  ]);
+  applyModifiers(event, 'armoroftheages:pharaoh_armor_feet', 'feet', [
+    { attribute: 'apothic_attributes:draw_speed', amount: 0.18, id: 'end:speed_armor_feet_exp', operation: 'add_multiplied_base' },
+    { attribute: 'apothic_attributes:arrow_damage', amount: 0.15, id: 'end:arrow_damage_armor_feet_exp', operation: 'add_multiplied_base' },
+    { attribute: 'apothic_attributes:arrow_velocity', amount: 0.20, id: 'end:arrow_velocity_armor_feet_exp', operation: 'add_multiplied_base' },
+    { attribute: 'generic.movement_speed', amount: 0.05, id: 'end:speed_damage_armor_feet_exp', operation: 'add_multiplied_base' },
+  ]);
 });
 
 StartupEvents.registry('item', event => {

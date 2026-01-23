@@ -5,10 +5,15 @@
 /XaeroWorldMap/
 /XaeroWorldWaypoints/
 /XaeroWaypoints/
+/dynamic-data-pack-cache/
+/dynamic-resource-pack-cache/
 XaeroWaypoints_*/
 /pfm/
 /essential/
 /local/
+/moddata/
+/moonlight-global-datapacks/
+/worldstripper/
 config/oculus.properties
 config/oculus.properties
 config/oculus.properties

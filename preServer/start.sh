@@ -1,6 +1,6 @@
 #!/bin/sh
 set -eu
-NEOFORGE_VERSION=21.1.197
+NEOFORGE_VERSION=21.1.218
 # To use a specific Java runtime, set an environment variable named CCE_JAVA to the full path of java.exe.
 # To disable automatic restarts, set an environment variable named CCE_RESTART to false.
 # To install the pack without starting the server, set an environment variable named CCE_INSTALL_ONLY to true.

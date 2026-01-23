@@ -86,6 +86,10 @@
 	# Default: 64
 	# Range: 8 ~ 128
 	photograph_frame_culling_distance = 64
+	#Depth offset to Photograph in Photograph Frame. Can be used to fix issues with some 3D resourcepacks. Value of 0.015 is good for 'Classic 3D' resourcepack. Default: 0.0
+	# Default: 0.0
+	# Range: -1.0 ~ 1.0
+	photograph_frame_image_offset = 0.0
 
 [integration]
 	#Useful information about some items will be shown in JEI description category. Default: true

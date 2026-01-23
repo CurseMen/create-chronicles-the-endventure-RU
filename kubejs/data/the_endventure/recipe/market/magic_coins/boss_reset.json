@@ -1,0 +1,15 @@
+{
+  "type": "farmingforblockheads:market",
+  "preset": "the_endventure:coins",
+  "category": "the_endventure:magic_coins",
+  "payment": {
+    "ingredient": {
+      "item": "magic_coins:gold_coin"
+    },
+    "count": 3
+  },
+  "result": {
+    "count": 1,
+    "item": "bosses_of_mass_destruction:brimstone_nectar"
+  }
+}

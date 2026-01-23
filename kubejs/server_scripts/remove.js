@@ -51,10 +51,19 @@ const removeRecipesById = [
   'create:crushing/tuff_recycling',
   'create:crushing/tuff',
   'create:crafting/kinetics/belt_connector',
+  'create:haunting/glow_ink_sac',
 
   'hazennstuff:crafting/curios/mana_crystal_ruptured',
   'hazennstuff:crafting/curios/mana_crystal_refined',
   'hazennstuff:crafting/curios/mana_crystal_reinforced',  
+
+  'hazennstuff:crafting/curios/life_crystal_shattered',
+  'hazennstuff:crafting/curios/life_crystal_sacred',
+  'hazennstuff:crafting/curios/life_crystal_strengthened', 
+
+  'hazennstuff:crafting/curios/spirit_crystal_abstract',
+  'hazennstuff:crafting/curios/spirit_crystal_advanced',
+  'hazennstuff:crafting/curios/spirit_crystal_abomination',  
   'hazennstuff:crafting/materials/divine_mold',
 
   'bosses_of_mass_destruction:void_lily',    
@@ -66,6 +75,8 @@ const removeRecipesById = [
   'crystal_chronicles:floralite_shard',
   'crystal_chronicles:volcanite_shard',
   'crystal_chronicles:ice_shard',
+
+
   'supplementaries:sus_bricks',
   'supplementaries:sus_sand',
   'supplementaries:sus_gravel',
@@ -83,7 +94,12 @@ const removeRecipesById = [
   'farmersdelight:bread_from_smoking',
   'hazennstuff:smelting/blasting/raw_zenalite_from_blasting',
   'minecraft:cake',
-  'handcrafted:terracotta_thin_pot'
+  'handcrafted:terracotta_thin_pot',
+
+  'refinedstorage_quartz_arsenal:wireless_crafting_grid',
+
+  'hazennstuff:crafting/curios/galvanized_sheath',
+  'hazennstuff:crafting/curios/scroll_sheath',
 ];
 
 // === REMOVE BY MOD ID ===

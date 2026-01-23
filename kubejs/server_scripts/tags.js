@@ -33,7 +33,15 @@ ServerEvents.tags('item', event => {
     event.add("ftbchunks:right_click_whitelist", [
         'create:shopping_list',
     ]);  
-    event.add("hazennstuff:armors/helmets", [
+    event.add("c:stripped_woods",[
+        'hazennstuff:stripped_wisewood_wood',
+        'biomeswevegone:stripped_palo_verde_wood',
+        'deeperdarker:stripped_echo_wood',
+        'garnished:stripped_nut_wood',
+        'arts_and_crafts:stripped_cork_wood',
+        'phantasm:stripped_pream_wood'
+    ]);
+/*     event.add("hazennstuff:armors/helmets", [
         'hazennstuff:miner_helmet',
         'hazennstuff:fireblossom_crown',
         'hazennstuff:spectral_spelunker_helmet',
@@ -56,13 +64,5 @@ ServerEvents.tags('item', event => {
     ]);
 })
 
-ServerEvents.tags('item', event => {
-    event.add("c:stripped_woods",[
-        'hazennstuff:stripped_wisewood_wood',
-        'biomeswevegone:stripped_palo_verde_wood',
-        'deeperdarker:stripped_echo_wood',
-        'garnished:stripped_nut_wood',
-        'arts_and_crafts:stripped_cork_wood',
-        'phantasm:stripped_pream_wood'
-    ])
+    ]); */
 })

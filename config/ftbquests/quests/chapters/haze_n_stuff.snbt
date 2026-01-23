@@ -26,27 +26,27 @@
 			tasks: [
 				{
 					id: "08E8754E830B7F44"
-					item: { count: 1, id: "hazennstuff:creaking_helmet" }
+					item: { components: { "azurelib:az_id": [I; 220262467, -2126429022, -1498607951, 1625349037 ] }, count: 1, id: "hazennstuff:creaking_helmet" }
 					type: "item"
 				}
 				{
 					id: "35E1953F6B3EDF2D"
-					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:creaking_chestplate" }
+					item: { components: { "azurelib:az_id": [I; 1405030263, -48410895, -1432564509, -504732835 ], "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:creaking_chestplate" }
 					type: "item"
 				}
 				{
 					id: "01E9D8A38E2DBBD2"
-					item: { count: 1, id: "hazennstuff:creaking_leggings" }
+					item: { components: { "azurelib:az_id": [I; -1963190830, 1833914024, -1699667640, -2087744687 ] }, count: 1, id: "hazennstuff:creaking_leggings" }
 					type: "item"
 				}
 				{
 					id: "3C1E29061F7B8661"
-					item: { count: 1, id: "hazennstuff:creaking_boots" }
+					item: { components: { "azurelib:az_id": [I; 1589321166, 1556106537, -1120514998, 1141501087 ] }, count: 1, id: "hazennstuff:creaking_boots" }
 					type: "item"
 				}
 			]
-			x: 0.5d
-			y: 18.0d
+			x: -1.5d
+			y: 24.0d
 		}
 		{
 			id: "5984DB81EA9FB261"
@@ -68,7 +68,7 @@
 				}
 				{
 					id: "7A4B793FFF3EB1E4"
-					item: { count: 1, id: "hazennstuff:legionnaire_chestplate" }
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:legionnaire_chestplate" }
 					type: "item"
 				}
 				{
@@ -82,8 +82,8 @@
 					type: "item"
 				}
 			]
-			x: 1.5d
-			y: 18.0d
+			x: -0.5d
+			y: 24.0d
 		}
 		{
 			id: "64BA369F418146BB"
@@ -100,27 +100,27 @@
 			tasks: [
 				{
 					id: "2C47254F5E7520AD"
-					item: { count: 1, id: "hazennstuff:seraph_helmet" }
+					item: { components: { "azurelib:az_id": [I; 382772347, 745228228, -1354021699, 2019130186 ] }, count: 1, id: "hazennstuff:seraph_helmet" }
 					type: "item"
 				}
 				{
 					id: "6C7F43D88B28D46F"
-					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:seraph_chestplate" }
+					item: { components: { "azurelib:az_id": [I; 2096717669, 2063616862, -1811529653, -718421488 ], "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:seraph_chestplate" }
 					type: "item"
 				}
 				{
 					id: "7DBC54505267953F"
-					item: { count: 1, id: "hazennstuff:seraph_leggings" }
+					item: { components: { "azurelib:az_id": [I; 45041507, -538294728, -1179804683, 814441806 ] }, count: 1, id: "hazennstuff:seraph_leggings" }
 					type: "item"
 				}
 				{
 					id: "55824475AC7D719B"
-					item: { count: 1, id: "hazennstuff:seraph_boots" }
+					item: { components: { "azurelib:az_id": [I; 610810675, 923157415, -1292591537, -1688125342 ] }, count: 1, id: "hazennstuff:seraph_boots" }
 					type: "item"
 				}
 			]
-			x: 2.5d
-			y: 18.0d
+			x: 0.5d
+			y: 24.0d
 		}
 		{
 			id: "17F044576C898593"
@@ -156,8 +156,8 @@
 					type: "item"
 				}
 			]
-			x: 3.5d
-			y: 18.0d
+			x: 1.5d
+			y: 24.0d
 		}
 		{
 			id: "63739865F7CF8CBA"
@@ -174,27 +174,27 @@
 			tasks: [
 				{
 					id: "448774345BDEAA83"
-					item: { count: 1, id: "hazennstuff:soul_flame_helmet" }
+					item: { components: { "azurelib:az_id": [I; 1607775146, -368163584, -1336781213, -17406877 ] }, count: 1, id: "hazennstuff:soul_flame_helmet" }
 					type: "item"
 				}
 				{
 					id: "43F77F7FD319A119"
-					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:soul_flame_chestplate" }
+					item: { components: { "azurelib:az_id": [I; 2086296516, -2021438530, -2064179477, -575411358 ], "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:soul_flame_chestplate" }
 					type: "item"
 				}
 				{
 					id: "14828CECC1DB6C57"
-					item: { count: 1, id: "hazennstuff:soul_flame_leggings" }
+					item: { components: { "azurelib:az_id": [I; -1333954348, 453133830, -1477337487, -633174381 ] }, count: 1, id: "hazennstuff:soul_flame_leggings" }
 					type: "item"
 				}
 				{
 					id: "1CF3492834E20BC2"
-					item: { count: 1, id: "hazennstuff:soul_flame_boots" }
+					item: { components: { "azurelib:az_id": [I; 600734297, -1716108840, -1542499634, 672334705 ] }, count: 1, id: "hazennstuff:soul_flame_boots" }
 					type: "item"
 				}
 			]
-			x: 0.5d
-			y: 19.5d
+			x: -2.5d
+			y: 24.0d
 		}
 		{
 			id: "62FBBCAB19502D21"
@@ -211,27 +211,27 @@
 			tasks: [
 				{
 					id: "6759EFEF7B4DE6DD"
-					item: { count: 1, id: "hazennstuff:supreme_witch_helmet" }
+					item: { components: { "azurelib:az_id": [I; -1204786863, 532761447, -2124845944, -2016110586 ] }, count: 1, id: "hazennstuff:supreme_witch_helmet" }
 					type: "item"
 				}
 				{
 					id: "6FC38A1CD472E8E7"
-					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:supreme_witch_chestplate" }
+					item: { components: { "azurelib:az_id": [I; 970806500, -1149352562, -1383945383, 1482239731 ], "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:supreme_witch_chestplate" }
 					type: "item"
 				}
 				{
 					id: "231A264E99BF3262"
-					item: { count: 1, id: "hazennstuff:supreme_witch_leggings" }
+					item: { components: { "azurelib:az_id": [I; 1134275648, 500453319, -1513532890, -362602199 ] }, count: 1, id: "hazennstuff:supreme_witch_leggings" }
 					type: "item"
 				}
 				{
 					id: "6E7CFAB8A34A4F28"
-					item: { count: 1, id: "hazennstuff:supreme_witch_boots" }
+					item: { components: { "azurelib:az_id": [I; -166047029, 259410708, -1402405944, 1693844872 ] }, count: 1, id: "hazennstuff:supreme_witch_boots" }
 					type: "item"
 				}
 			]
-			x: 6.5d
-			y: 18.0d
+			x: 4.5d
+			y: 24.0d
 		}
 		{
 			id: "7B0F578E5BD21335"
@@ -267,8 +267,8 @@
 					type: "item"
 				}
 			]
-			x: 4.5d
-			y: 18.0d
+			x: 2.5d
+			y: 24.0d
 		}
 		{
 			id: "1C1AC0BA0579188A"
@@ -304,8 +304,8 @@
 					type: "item"
 				}
 			]
-			x: 5.5d
-			y: 18.0d
+			x: 3.5d
+			y: 24.0d
 		}
 		{
 			id: "768CE84B0DC71993"
@@ -322,27 +322,27 @@
 			tasks: [
 				{
 					id: "43720D1FCE2A40F8"
-					item: { count: 1, id: "hazennstuff:ender_dragon_helmet" }
+					item: { components: { "azurelib:az_id": [I; 1712987833, 1653359940, -1654400261, -79047793 ] }, count: 1, id: "hazennstuff:ender_dragon_helmet" }
 					type: "item"
 				}
 				{
 					id: "5FEC31F72D803AF8"
-					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:ender_dragon_chestplate" }
+					item: { components: { "azurelib:az_id": [I; -1396322870, 1035225706, -1118064634, 1297930366 ], "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:ender_dragon_chestplate" }
 					type: "item"
 				}
 				{
 					id: "412EC1D9F0E04A49"
-					item: { count: 1, id: "hazennstuff:ender_dragon_leggings" }
+					item: { components: { "azurelib:az_id": [I; 650698480, -325693452, -2048255408, -30001368 ] }, count: 1, id: "hazennstuff:ender_dragon_leggings" }
 					type: "item"
 				}
 				{
 					id: "1D8A094FB5CBF8AF"
-					item: { count: 1, id: "hazennstuff:ender_dragon_boots" }
+					item: { components: { "azurelib:az_id": [I; -122512693, 1499153210, -1453876570, 1787595708 ] }, count: 1, id: "hazennstuff:ender_dragon_boots" }
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: 18.0d
+			x: 5.5d
+			y: 24.0d
 		}
 		{
 			id: "0A61052D8E96ABCB"
@@ -359,27 +359,27 @@
 			tasks: [
 				{
 					id: "5E3E6CCB9CB49CE4"
-					item: { count: 1, id: "hazennstuff:dark_ritual_templar_helmet" }
+					item: { components: { "azurelib:az_id": [I; 1454626457, 936331257, -2034888627, 2111393466 ] }, count: 1, id: "hazennstuff:dark_ritual_templar_helmet" }
 					type: "item"
 				}
 				{
 					id: "7C3132CB834C6519"
-					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:dark_ritual_templar_chestplate" }
+					item: { components: { "azurelib:az_id": [I; -1790320649, 1738360143, -2020871412, 1660820953 ], "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:dark_ritual_templar_chestplate" }
 					type: "item"
 				}
 				{
 					id: "69349C63C5D8315E"
-					item: { count: 1, id: "hazennstuff:dark_ritual_templar_leggings" }
+					item: { components: { "azurelib:az_id": [I; 1097923278, 1690324746, -1529365237, 1325089060 ] }, count: 1, id: "hazennstuff:dark_ritual_templar_leggings" }
 					type: "item"
 				}
 				{
 					id: "2A3C67595962FA3F"
-					item: { count: 1, id: "hazennstuff:dark_ritual_templar_boots" }
+					item: { components: { "azurelib:az_id": [I; -1397048276, -924171874, -1273013187, -1200816468 ] }, count: 1, id: "hazennstuff:dark_ritual_templar_boots" }
 					type: "item"
 				}
 			]
-			x: 3.5d
-			y: 19.5d
+			x: 1.5d
+			y: 25.0d
 		}
 		{
 			id: "66A2F4E3D87B1324"
@@ -415,8 +415,8 @@
 					type: "item"
 				}
 			]
-			x: 4.5d
-			y: 19.5d
+			x: 2.5d
+			y: 25.0d
 		}
 		{
 			id: "1E92D76E750A1B50"
@@ -452,8 +452,8 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: 19.5d
+			x: 5.5d
+			y: 25.0d
 		}
 		{
 			id: "1AF1CBFD17B9DC18"
@@ -489,8 +489,8 @@
 					type: "item"
 				}
 			]
-			x: 6.5d
-			y: 19.5d
+			x: 4.5d
+			y: 25.0d
 		}
 		{
 			id: "2F5FD7259752040A"
@@ -526,8 +526,8 @@
 					type: "item"
 				}
 			]
-			x: 5.5d
-			y: 19.5d
+			x: 3.5d
+			y: 25.0d
 		}
 		{
 			id: "4B3D6BEC9D04236B"
@@ -549,27 +549,27 @@
 				}
 				{
 					id: "3DEC0FA0C0728324"
-					item: { count: 1, id: "hazennstuff:fireblossom_helmet" }
+					item: { components: { "azurelib:az_id": [I; -728486306, -1885582517, -1192513879, 959577984 ] }, count: 1, id: "hazennstuff:fireblossom_helmet" }
 					type: "item"
 				}
 				{
 					id: "2709FBD28FB9F63B"
-					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:fireblossom_chestplate" }
+					item: { components: { "azurelib:az_id": [I; -188694984, -1689432352, -2062887179, -24287791 ], "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:fireblossom_chestplate" }
 					type: "item"
 				}
 				{
 					id: "1526BB482BFF85D4"
-					item: { count: 1, id: "hazennstuff:fireblossom_leggings" }
+					item: { components: { "azurelib:az_id": [I; -568378447, -1291170345, -2094218888, -1261653709 ] }, count: 1, id: "hazennstuff:fireblossom_leggings" }
 					type: "item"
 				}
 				{
 					id: "1A2B9B8B3AE7D7F6"
-					item: { count: 1, id: "hazennstuff:fireblossom_boots" }
+					item: { components: { "azurelib:az_id": [I; 100159072, 452608509, -1779780383, -973925165 ] }, count: 1, id: "hazennstuff:fireblossom_boots" }
 					type: "item"
 				}
 			]
-			x: 2.5d
-			y: 19.5d
+			x: 0.5d
+			y: 25.0d
 		}
 		{
 			id: "04B8733FD2D7D3AC"
@@ -606,7 +606,7 @@
 				}
 			]
 			x: -2.5d
-			y: 18.0d
+			y: 23.0d
 		}
 		{
 			dependencies: ["04B8733FD2D7D3AC"]
@@ -644,7 +644,7 @@
 				}
 			]
 			x: -1.5d
-			y: 18.0d
+			y: 23.0d
 		}
 		{
 			id: "5E5AE79B778D377E"
@@ -661,27 +661,27 @@
 			tasks: [
 				{
 					id: "498AC9437DE620D4"
-					item: { count: 1, id: "hazennstuff:arbitrium_robes_helmet" }
+					item: { components: { "azurelib:az_id": [I; 305750976, -1238937973, -1508840770, 287508906 ] }, count: 1, id: "hazennstuff:arbitrium_robes_helmet" }
 					type: "item"
 				}
 				{
 					id: "1AC45FD64D2F84E5"
-					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:arbitrium_robes_chestplate" }
+					item: { components: { "azurelib:az_id": [I; -929209365, 810435513, -1503533606, 1244608725 ], "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:arbitrium_robes_chestplate" }
 					type: "item"
 				}
 				{
 					id: "54DD17F4D515E06C"
-					item: { count: 1, id: "hazennstuff:arbitrium_robes_leggings" }
+					item: { components: { "azurelib:az_id": [I; 1862726046, 1697597465, -1460190476, 896385052 ] }, count: 1, id: "hazennstuff:arbitrium_robes_leggings" }
 					type: "item"
 				}
 				{
 					id: "0CC28DD9D5039369"
-					item: { count: 1, id: "hazennstuff:arbitrium_robes_boots" }
+					item: { components: { "azurelib:az_id": [I; -1443917981, -1745007696, -2145198757, -188727822 ] }, count: 1, id: "hazennstuff:arbitrium_robes_boots" }
 					type: "item"
 				}
 			]
-			x: -2.5d
-			y: 19.5d
+			x: 0.5d
+			y: 23.0d
 		}
 		{
 			id: "5D4E433CDA865F84"
@@ -717,8 +717,8 @@
 					type: "item"
 				}
 			]
-			x: 1.5d
-			y: 19.5d
+			x: -0.5d
+			y: 25.0d
 		}
 		{
 			id: "37D2011ED970AEA5"
@@ -737,8 +737,8 @@
 				item: { components: { "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:flaming_strike", index: 0, level: 6, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:fireblossom_rapier" }
 				type: "item"
 			}]
-			x: 0.5d
-			y: 16.5d
+			x: -2.5d
+			y: 17.5d
 		}
 		{
 			id: "0B8422BFAC270E70"
@@ -757,8 +757,8 @@
 				item: { components: { "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:shockwave", index: 0, level: 12, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:beongae" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: 16.5d
+			x: -1.5d
+			y: 17.5d
 		}
 		{
 			id: "6480E67EBD293BAB"
@@ -774,11 +774,11 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "7A07413FF022851C"
-				item: { components: { "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:firecracker", index: 0, level: 12, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:ancient_warriors_axe" }
+				item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "hazennstuff:spectral_axe": 1 } }, "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:firecracker", index: 0, level: 12, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:ancient_warriors_axe" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: 16.5d
+			x: -0.5d
+			y: 17.5d
 		}
 		{
 			id: "5FCA943B05F60AD3"
@@ -794,11 +794,11 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "0EAFC91624612456"
-				item: { components: { "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:ice_spikes", index: 0, level: 10, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:ice_pike" }
+				item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:ice_spikes": 1 } }, "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:ice_spikes", index: 0, level: 10, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:ice_pike" }
 				type: "item"
 			}]
-			x: 4.5d
-			y: 16.5d
+			x: 1.5d
+			y: 17.5d
 		}
 		{
 			id: "55C3ADDE829DD04D"
@@ -814,11 +814,11 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "2D2E325CB5F4012B"
-				item: { components: { "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:ascension", index: 0, level: 10, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:skyscorcher" }
+				item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:volt_strike": 1 } }, "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:ascension", index: 0, level: 10, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:skyscorcher" }
 				type: "item"
 			}]
-			x: 5.5d
-			y: 16.5d
+			x: 2.5d
+			y: 17.5d
 		}
 		{
 			id: "6DD1312F34895E65"
@@ -837,8 +837,8 @@
 				item: { components: { "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:poison_splash", index: 0, level: 12, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:bountiful_harvest" }
 				type: "item"
 			}]
-			x: 3.5d
-			y: 16.5d
+			x: 0.5d
+			y: 17.5d
 		}
 		{
 			id: "0700EF3EE2FCC46A"
@@ -854,11 +854,11 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "338AB32BF381B03C"
-				item: { components: { "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:starfall", index: 0, level: 8, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:starfury" }
+				item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:starfall": 1 } }, "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:starfall", index: 0, level: 8, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:starfury" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: 16.5d
+			x: 5.5d
+			y: 17.5d
 		}
 		{
 			id: "6F808A9DC0DA4946"
@@ -877,8 +877,8 @@
 				item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 0, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:wisewood_cane" }
 				type: "item"
 			}]
-			x: 7.5d
-			y: 16.5d
+			x: 4.5d
+			y: 17.5d
 		}
 		{
 			id: "7456FE7F9C9575C1"
@@ -897,8 +897,8 @@
 				item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 0, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:frieren_staff" }
 				type: "item"
 			}]
-			x: 6.5d
-			y: 16.5d
+			x: 3.5d
+			y: 17.5d
 		}
 		{
 			id: "7FC26E1206580A28"
@@ -917,8 +917,8 @@
 				item: { components: { "irons_spellbooks:spell_container": { data: [{ id: "hazennstuff:chaotic_teleport", index: 0, level: 6, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:rod_of_discord" }
 				type: "item"
 			}]
-			x: -2.5d
-			y: 16.5d
+			x: 6.5d
+			y: 17.5d
 		}
 		{
 			id: "6E35F09F79150749"
@@ -939,7 +939,7 @@
 				type: "item"
 			}]
 			x: -2.25d
-			y: 14.25d
+			y: 11.25d
 		}
 		{
 			dependencies: ["6E35F09F79150749"]
@@ -961,7 +961,7 @@
 				type: "item"
 			}]
 			x: 0.75d
-			y: 14.25d
+			y: 11.25d
 		}
 		{
 			dependencies: ["2071609BDA6EBBF1"]
@@ -983,7 +983,7 @@
 				type: "item"
 			}]
 			x: 4.5d
-			y: 14.25d
+			y: 11.25d
 		}
 		{
 			dependencies: ["7EA3E7CC96ABD18C"]
@@ -1005,7 +1005,7 @@
 				type: "item"
 			}]
 			x: 7.5d
-			y: 14.25d
+			y: 11.25d
 		}
 		{
 			dependencies: [
@@ -1042,6 +1042,92 @@
 				"7456FE7F9C9575C1"
 				"17F044576C898593"
 				"4B3D6BEC9D04236B"
+				"339084330D0071A3"
+				"6CD6C7648CF464E3"
+				"1B9972187712A266"
+				"28A70C1536CAC7CF"
+				"4783354CA88E9A89"
+				"53CB12BBF6E3E89A"
+				"62FD013A69AFE9C3"
+				"2A83D21A745DC4AB"
+				"0DF6CD0A1BA9C054"
+				"6FB391ABE10ACD11"
+				"5BDDDC83BC32E069"
+				"2B25AB4404D861B7"
+				"683AE2B396651FFF"
+				"2EB929126123669B"
+				"4C47F7DE5DF8EC74"
+				"566EDDC2E528E59E"
+				"66995B89FF9D1691"
+				"7531792EE229862B"
+				"0A62EC02E99833DD"
+				"7EA30ADF1DCB3B92"
+				"31A75DA223385B18"
+				"4BCBBCF6E58DCB9F"
+				"1620F5E7F6F7A003"
+				"207649AD771097F8"
+				"5075B146CD421042"
+				"0DA846C21A5D3D02"
+				"4E2CB59AB8C0384F"
+				"3C6166948B4C1CFB"
+				"1F8645CA70067009"
+				"142526496E47526C"
+				"3E3F2B9A4386FE6A"
+				"0AA133886021DA41"
+				"7071BFA0AD7B2BE7"
+				"182E5EC16B994927"
+				"216F90E35EF4162C"
+				"1035823C23CB4B9A"
+				"1D072E0813C58393"
+				"209F9D112C067CD6"
+				"425974BFD16F1FD6"
+				"74F4C84202E3AB37"
+				"3341C5F9F1741BA6"
+				"7B2A017328CDC6FE"
+				"739B79E0919EA496"
+				"0F2DA785007BB5A4"
+				"59620F5D944B8703"
+				"310F911CE7396250"
+				"23C2162DB79FFA0A"
+				"7B034030A04B5002"
+				"069A56DEB25D2E62"
+				"35EB13A86634D90B"
+				"36E7B83139F58C5F"
+				"0D67293E3427AA03"
+				"06A038312E8E2598"
+				"6E7657043D22C8D8"
+				"3B589F8C1790C6CB"
+				"48217CC23A798B09"
+				"1B04766CE4C83635"
+				"2B9C40F91277788E"
+				"7EA790D9BCC3CD23"
+				"18B5807F95D968B7"
+				"3278EBF2ECCE11E3"
+				"50D1F70BCB6F5F1D"
+				"3CBB72950AF03076"
+				"4594CBF2ABDCDD02"
+				"39E460E2A30E2BB2"
+				"22251354066889A3"
+				"262FB03656034DA7"
+				"58F1A4FBA964AAD0"
+				"6CA363BC0A454999"
+				"653325D8948A21A8"
+				"3C0B6580EC1D245A"
+				"0A056F2EB450F2AA"
+				"0F02D55B27B9FC37"
+				"4D657F1F325F8AFE"
+				"2F3E717A31FAC05D"
+				"51E79C6D85108A73"
+				"7749F55609B35441"
+				"081365E7E1C242D8"
+				"2B48A9E50837D36A"
+				"12A4B899BCF69D3A"
+				"035F095B3E1A9FEA"
+				"09739798A0F233EC"
+				"79875A62666E2C7E"
+				"7D93B814FD5AED2B"
+				"31D22EEA5A937250"
+				"367DFFA141034022"
 			]
 			dependency_requirement: "all_started"
 			hide_dependency_lines: true
@@ -1051,6 +1137,7 @@
 			id: "7BAE050F8E223E6C"
 			rewards: [
 				{
+					count: 5
 					id: "277A52AB38A31EA5"
 					item: {
 						count: 1
@@ -1059,7 +1146,7 @@
 					type: "item"
 				}
 				{
-					count: 2
+					count: 10
 					id: "6595E975012373B3"
 					item: {
 						count: 1
@@ -1075,7 +1162,2352 @@
 				type: "checkmark"
 			}]
 			x: 2.5d
-			y: 11.25d
+			y: 8.75d
+		}
+		{
+			id: "4E2CB59AB8C0384F"
+			rewards: [{
+				count: 5
+				id: "000BED126DF1AB7F"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "66F76AA5A6A19196"
+				item: { count: 1, id: "hazennstuff:ring_of_efficiency" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 16.5d
+		}
+		{
+			id: "3278EBF2ECCE11E3"
+			rewards: [{
+				count: 5
+				id: "16E3B0B978576A25"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "3A4D50D4DB0D3C57"
+				item: { components: { "azurelib:az_id": [I; -1670320863, -1694349912, -1319786812, -607226206 ] }, count: 1, id: "hazennstuff:arbitrium_wings" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 16.5d
+		}
+		{
+			id: "12A4B899BCF69D3A"
+			rewards: [{
+				count: 5
+				id: "5B0FC1A0C387F02C"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "27CBB6FCF0FD2BB8"
+				item: { components: { "azurelib:az_id": [I; -1938892785, 1810844239, -1352311316, -1770314093 ] }, count: 1, id: "hazennstuff:scroll_sheath" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 16.5d
+		}
+		{
+			id: "0DA846C21A5D3D02"
+			rewards: [{
+				count: 5
+				id: "7D8B01655042ACAB"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "4E0148BF142DB2CF"
+				item: { components: { "azurelib:az_id": [I; 709107978, -1381743952, -1507367263, -237753445 ] }, count: 1, id: "hazennstuff:galvanized_sheath" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 16.5d
+		}
+		{
+			id: "2EB929126123669B"
+			rewards: [{
+				count: 5
+				id: "0901ECA11B469DA1"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "18F709FEE838E2C7"
+				item: { components: { "azurelib:az_id": [I; 1697251311, 162154462, -1344448963, 1851125277 ], "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:shockwave": 1, "irons_spellbooks:thunderstorm": 1, "irons_spellbooks:volt_strike": 1 } }, "irons_spellbooks:spell_container": { data: [ ], maxSpells: 10, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:energized_core_spellbook" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 16.5d
+		}
+		{
+			id: "0F02D55B27B9FC37"
+			rewards: [{
+				count: 5
+				id: "26673BE795B46F5E"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "77B4485FBA1D86EE"
+				item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "hazennstuff:golden_shower": 1 } }, "irons_spellbooks:spell_container": { data: [{ id: "hazennstuff:golden_shower", index: 0, level: 3, locked: 1b }], maxSpells: 8, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:golden_shower_spellbook" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 16.5d
+		}
+		{
+			id: "339084330D0071A3"
+			rewards: [{
+				count: 5
+				id: "76B7321C51B971F7"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "725A93940F109DE5"
+				item: { count: 1, id: "hazennstuff:shattered" }
+				type: "item"
+			}]
+			x: -2.25d
+			y: 12.75d
+		}
+		{
+			dependencies: ["339084330D0071A3"]
+			id: "4783354CA88E9A89"
+			rewards: [{
+				count: 5
+				id: "2706748ABF0BE25E"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "054B1E0C00D42ECD"
+				item: { count: 1, id: "hazennstuff:sacred" }
+				type: "item"
+			}]
+			x: 0.75d
+			y: 12.75d
+		}
+		{
+			dependencies: ["4783354CA88E9A89"]
+			id: "2A83D21A745DC4AB"
+			rewards: [{
+				count: 5
+				id: "69DBFA513AAAF034"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "5F29CFE1B1C4A550"
+				item: { count: 1, id: "hazennstuff:strengthened" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 12.75d
+		}
+		{
+			dependencies: ["2A83D21A745DC4AB"]
+			id: "28A70C1536CAC7CF"
+			rewards: [{
+				count: 5
+				id: "14F46368867552A7"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "4C4F225E40633E14"
+				item: { count: 1, id: "hazennstuff:singularity" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 12.75d
+		}
+		{
+			id: "1B9972187712A266"
+			rewards: [{
+				count: 5
+				id: "5FF4688200D22025"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "6402A897AD668220"
+				item: { count: 1, id: "hazennstuff:abstract" }
+				type: "item"
+			}]
+			x: -2.25d
+			y: 14.25d
+		}
+		{
+			dependencies: ["1B9972187712A266"]
+			id: "6CD6C7648CF464E3"
+			rewards: [{
+				count: 5
+				id: "2969A226EC9DCCD2"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "14019FE5E4929472"
+				item: { count: 1, id: "hazennstuff:advanced" }
+				type: "item"
+			}]
+			x: 0.75d
+			y: 14.25d
+		}
+		{
+			dependencies: ["6CD6C7648CF464E3"]
+			id: "62FD013A69AFE9C3"
+			rewards: [{
+				count: 5
+				id: "69A672B9A0AB6026"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "77886080E1CC8B1A"
+				item: { count: 1, id: "hazennstuff:abomination" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 14.25d
+		}
+		{
+			dependencies: ["62FD013A69AFE9C3"]
+			id: "53CB12BBF6E3E89A"
+			rewards: [{
+				count: 5
+				id: "75882EDE7AC3D9A2"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "5367113E0FAC950D"
+				item: { count: 1, id: "hazennstuff:absolute" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 14.25d
+		}
+		{
+			id: "48217CC23A798B09"
+			rewards: [{
+				count: 5
+				id: "27DBF5FEF230FFE7"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "12C41EE111D8B8AD"
+				item: { count: 1, id: "hazennstuff:pickaxe_axe" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 18.5d
+		}
+		{
+			id: "142526496E47526C"
+			rewards: [{
+				count: 5
+				id: "4989D1B5208337B0"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "3BA8A30033B154E6"
+				item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:spectral_hammer": 1 } }, "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:spectral_hammer", index: 0, level: 3, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:spectral_pickaxe" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 19.5d
+		}
+		{
+			id: "35EB13A86634D90B"
+			rewards: [{
+				count: 5
+				id: "581A908D4C1D91CC"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "1BA86CE526E92C0A"
+				item: { components: { "azurelib:az_id": [I; -2023839, -1559608619, -1825020677, -1130018870 ] }, count: 1, id: "hazennstuff:soulcalling_scepter" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 17.5d
+		}
+		{
+			id: "59620F5D944B8703"
+			rewards: [{
+				count: 5
+				id: "3141A213FFB6FB40"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "0742C12F341715DB"
+				item: { count: 1, id: "hazennstuff:white_lily_staff" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 19.5d
+		}
+		{
+			id: "31D22EEA5A937250"
+			rewards: [{
+				count: 5
+				id: "48F9D8136CA6CA18"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "5FA635E3D1806A82"
+				item: { count: 1, id: "hazennstuff:muramasa" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 18.5d
+		}
+		{
+			id: "1620F5E7F6F7A003"
+			rewards: [{
+				count: 5
+				id: "64ADBBC67D41F56B"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "5A73F2490012CB64"
+				item: { count: 1, id: "hazennstuff:dawnmaker" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 19.5d
+		}
+		{
+			id: "1D072E0813C58393"
+			rewards: [{
+				count: 5
+				id: "74B0F0E12E6ECEDD"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "6B4C8CAEC2155A78"
+				item: { count: 1, id: "hazennstuff:legionnaire_warlock_axe" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 18.5d
+		}
+		{
+			id: "262FB03656034DA7"
+			rewards: [{
+				count: 5
+				id: "7803B7DA5F28FF3E"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "5987B7E05A6D2EBD"
+				item: { count: 1, id: "hazennstuff:mage_bane" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 18.5d
+		}
+		{
+			id: "0AA133886021DA41"
+			rewards: [{
+				count: 5
+				id: "241ADFB23A0EFB55"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "0312810743C471BA"
+				item: { count: 1, id: "hazennstuff:the_devourer" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 18.5d
+		}
+		{
+			id: "5075B146CD421042"
+			rewards: [{
+				count: 5
+				id: "6FD8B3BF5E2E7F3E"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "0F2BE50E19AB50D5"
+				item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "hazennstuff:nights_edge_strike": 1 } }, "irons_spellbooks:spell_container": { data: [{ id: "hazennstuff:nights_edge_strike", index: 0, level: 6, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:nights_edge" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 18.5d
+		}
+		{
+			id: "7B2A017328CDC6FE"
+			rewards: [{
+				count: 5
+				id: "40AD8DA6DA4660FC"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "0D3BAFFC7201C3F4"
+				item: { count: 1, id: "hazennstuff:lights_bane" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 18.5d
+		}
+		{
+			id: "36E7B83139F58C5F"
+			rewards: [{
+				count: 5
+				id: "629599B049BEC8B2"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "2E64EA400F6E713A"
+				item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:summon_vex": 1 } }, "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:summon_vex", index: 0, level: 5, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:malice" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 18.5d
+		}
+		{
+			id: "66995B89FF9D1691"
+			rewards: [{
+				count: 5
+				id: "1785FE54E13B9DB4"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "5E444B220B2CAF73"
+				item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "hazennstuff:nights_edge_strike": 1 } }, "irons_spellbooks:spell_container": { data: [{ id: "hazennstuff:nights_edge_strike", index: 0, level: 8, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:true_nights_edge" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 18.5d
+		}
+		{
+			id: "035F095B3E1A9FEA"
+			rewards: [{
+				count: 5
+				id: "60EC9564330F514C"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "6A08A6E9D647250F"
+				item: { count: 1, id: "hazennstuff:lights_bane" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 19.5d
+		}
+		{
+			id: "4C47F7DE5DF8EC74"
+			rewards: [{
+				count: 5
+				id: "352CFE36269D68B2"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "03D3E4F30D63EB87"
+				item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:summon_vex": 1 } }, "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:summon_vex", index: 0, level: 5, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:malice" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 19.5d
+		}
+		{
+			id: "7EA790D9BCC3CD23"
+			rewards: [{
+				count: 5
+				id: "4F2E4F61A1412950"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "7044DF2217BC9F27"
+				item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "hazennstuff:spectral_axe": 1 } }, "irons_spellbooks:spell_container": { data: [{ id: "hazennstuff:spectral_axe", index: 0, level: 8, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:ancient_warriors_axe" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 19.5d
+		}
+		{
+			id: "06A038312E8E2598"
+			rewards: [{
+				count: 5
+				id: "52AC88DB0F0032BE"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "4A22582A94E75087"
+				item: { components: { "azurelib:az_id": [I; 1198431998, 1236288774, -1664477829, 1677131470 ], "irons_spellbooks:affinity_data": { bonuses: { "hazennstuff:call_forth_terraprisma": 1, "hazennstuff:terraprismic_barrage": 1 } }, "irons_spellbooks:spell_container": { data: [ { id: "hazennstuff:terraprismic_barrage", index: 0, level: 5, locked: 1b }, { id: "hazennstuff:call_forth_terraprisma", index: 1, level: 5, locked: 1b } ], maxSpells: 2, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:terraprisma" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 20.5d
+		}
+		{
+			id: "2B25AB4404D861B7"
+			rewards: [{
+				count: 5
+				id: "2BDF686D067B7602"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "600F6A474CCE711E"
+				item: { count: 1, id: "hazennstuff:spectrum" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 20.5d
+		}
+		{
+			id: "3CBB72950AF03076"
+			rewards: [{
+				count: 5
+				id: "076A70114D077F99"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "43E60032571697B5"
+				item: { count: 1, id: "hazennstuff:meowmere" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 20.5d
+		}
+		{
+			id: "207649AD771097F8"
+			rewards: [{
+				count: 5
+				id: "589250B50F220B37"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "39DB2DA424DB7198"
+				item: { count: 1, id: "hazennstuff:hammush" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 18.5d
+		}
+		{
+			id: "182E5EC16B994927"
+			rewards: [{
+				count: 5
+				id: "65BBF0BFE460890D"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "078B548262BFC301"
+				item: { components: { "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:divine_smite", index: 0, level: 8, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:divine_greatsword" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 19.5d
+		}
+		{
+			id: "3B589F8C1790C6CB"
+			rewards: [{
+				count: 5
+				id: "6047509E21CF43FF"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "1CE6C78566AD014A"
+				item: { components: { "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:divine_smite", index: 0, level: 8, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:hazens_excalibur" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 19.5d
+		}
+		{
+			id: "4BCBBCF6E58DCB9F"
+			rewards: [{
+				count: 5
+				id: "1549A109D04D8019"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "5FC8C98F89876FF0"
+				item: { components: { "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:divine_smite", index: 0, level: 8, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:excalibur_divine_gold" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 19.5d
+		}
+		{
+			id: "425974BFD16F1FD6"
+			rewards: [{
+				count: 5
+				id: "156636FEF61692D2"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "09E157D3BAB7181B"
+				item: { components: { "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:divine_smite", index: 0, level: 8, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:excalibur" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 19.5d
+		}
+		{
+			id: "4594CBF2ABDCDD02"
+			rewards: [{
+				count: 5
+				id: "1797EEB12BB18E8B"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "7B4A2182A1926414"
+				item: { components: { "azurelib:az_id": [I; -1016444963, -774224400, -1330844216, 1134039780 ], "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:divine_smite": 1 } }, "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:divine_smite", index: 0, level: 10, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:hammer_of_justice" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 19.5d
+		}
+		{
+			id: "2F3E717A31FAC05D"
+			rewards: [{
+				count: 5
+				id: "0352460A1F2A07D7"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "34CF44BE5B70D31D"
+				item: { components: { "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:shadow_slash", index: 0, level: 6, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:obsidian_claymore" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 18.5d
+		}
+		{
+			id: "79875A62666E2C7E"
+			rewards: [{
+				count: 5
+				id: "4789FA67BA95CF22"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "742DEA8A1A4936D4"
+				item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:blood_needles": 1 } }, "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:blood_needles", index: 0, level: 5, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:vampire_knives" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 20.5d
+		}
+		{
+			id: "6E7657043D22C8D8"
+			rewards: [{
+				count: 5
+				id: "277B6E916EFDC964"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "5BAAA0C8C231DD46"
+				item: { count: 1, id: "hazennstuff:o_fortuna_dormant" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 20.5d
+		}
+		{
+			id: "7B034030A04B5002"
+			rewards: [{
+				count: 5
+				id: "76F99294F8C7703B"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "0A28D833F7B3C913"
+				item: { count: 1, id: "hazennstuff:blade_of_grass" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 20.5d
+		}
+		{
+			id: "0D67293E3427AA03"
+			rewards: [{
+				count: 5
+				id: "0141281D697442DE"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "169DFD756AEC3129"
+				item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "hazennstuff:thorn_chakram": 1 } }, "irons_spellbooks:spell_container": { data: [{ id: "hazennstuff:thorn_chakram", index: 0, level: 5, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:thorn_chakram" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 20.5d
+		}
+		{
+			id: "22251354066889A3"
+			rewards: [{
+				count: 5
+				id: "7D26249F048F3878"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "38AB121C095F4D40"
+				item: { components: { "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:shockwave", index: 0, level: 5, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:beongae" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 20.5d
+		}
+		{
+			id: "3C6166948B4C1CFB"
+			rewards: [{
+				count: 5
+				id: "5D22625D0D7EFC2C"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "2253D77CF4E84100"
+				item: { count: 1, id: "hazennstuff:frostburn_dagger" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 20.5d
+		}
+		{
+			id: "209F9D112C067CD6"
+			rewards: [{
+				count: 5
+				id: "28EF9693C101E217"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "4B264A66C8DB0257"
+				item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:ice_spikes": 1 } }, "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:ice_spikes", index: 0, level: 8, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:ice_pike" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 20.5d
+		}
+		{
+			id: "081365E7E1C242D8"
+			rewards: [{
+				count: 5
+				id: "4386371E36A43020"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "76F7AA3E0001AC3F"
+				item: { components: { "azurelib:az_id": [I; -848630757, -945075277, -1417146623, -1694556582 ], "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:flaming_strike", index: 0, level: 4, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:volcano" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 21.5d
+		}
+		{
+			id: "653325D8948A21A8"
+			rewards: [{
+				count: 5
+				id: "4628D08921E97480"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "573FB25B94EDB893"
+				item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:burning_dash": 1 } }, "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:burning_dash", index: 0, level: 5, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:war_flaming_lance" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 20.5d
+		}
+		{
+			id: "6CA363BC0A454999"
+			rewards: [{
+				count: 5
+				id: "37B8093A21BB8CA7"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "582395EF34C7B2FF"
+				item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "hazennstuff:scorching_slash": 1 } }, "irons_spellbooks:spell_container": { data: [{ id: "hazennstuff:scorching_slash", index: 0, level: 5, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:ravens_bane" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 21.5d
+		}
+		{
+			id: "5BDDDC83BC32E069"
+			rewards: [{
+				count: 5
+				id: "127C73C4631532DA"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "6DAB01E2742BE699"
+				item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:fire_breath": 1 } }, "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:fire_breath", index: 0, level: 10, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:draconic_splitter" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 21.5d
+		}
+		{
+			id: "7071BFA0AD7B2BE7"
+			rewards: [{
+				count: 5
+				id: "14185585AA18777D"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "6C9F2F2E1346F462"
+				item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:flaming_strike": 1 } }, "irons_spellbooks:spell_container": { data: [{ id: "irons_spellbooks:flaming_strike", index: 0, level: 10, locked: 1b }], maxSpells: 1, mustEquip: 0b, spellWheel: 1b } }, count: 1, id: "hazennstuff:firebrand" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 21.5d
+		}
+		{
+			id: "1B04766CE4C83635"
+			rewards: [{
+				count: 5
+				id: "64E22CA52AA45A32"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "1D8F7B9F3DE3DBEC"
+					item: { components: { "azurelib:az_id": [I; -1508988403, -1619177939, -1484541840, -818225593 ] }, count: 1, id: "hazennstuff:lemon_god_helmet" }
+					type: "item"
+				}
+				{
+					id: "1F523C8289367E20"
+					item: { components: { "azurelib:az_id": [I; 1058738439, 971197953, -1431343208, 541382846 ], "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:lemon_god_chestplate" }
+					type: "item"
+				}
+				{
+					id: "3E105E2DBA5D496C"
+					item: { components: { "azurelib:az_id": [I; 545064048, 641942595, -1688759948, 1078721920 ] }, count: 1, id: "hazennstuff:lemon_god_leggings" }
+					type: "item"
+				}
+				{
+					id: "2BF024638F0A55A1"
+					item: { components: { "azurelib:az_id": [I; 1579210516, -1046527437, -1086862774, 1736427915 ] }, count: 1, id: "hazennstuff:lemon_god_boots" }
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: 27.0d
+		}
+		{
+			id: "310F911CE7396250"
+			rewards: [{
+				count: 5
+				id: "45AA2E8EDFCBA943"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "662A9FB8B8C1B20C"
+					item: { components: { "azurelib:az_id": [I; -824147017, 1409435870, -2066181369, 744007266 ] }, count: 1, id: "hazennstuff:slc_cat_helmet" }
+					type: "item"
+				}
+				{
+					id: "3FF8DD47805CA01B"
+					item: { components: { "azurelib:az_id": [I; -1169146472, 1604929653, -1548317732, 1681627886 ], "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:slc_cat_chestplate" }
+					type: "item"
+				}
+				{
+					id: "1D0ACBBCD3089DD7"
+					item: { components: { "azurelib:az_id": [I; 1349764579, -2068755636, -1533756990, 804065212 ] }, count: 1, id: "hazennstuff:slc_cat_leggings" }
+					type: "item"
+				}
+				{
+					id: "2C984F69A555FBC0"
+					item: { components: { "azurelib:az_id": [I; 753085922, 1501383749, -1444721847, -1495525598 ] }, count: 1, id: "hazennstuff:slc_cat_boots" }
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 26.0d
+		}
+		{
+			id: "3E3F2B9A4386FE6A"
+			rewards: [{
+				count: 5
+				id: "71BCF84BDF308C1D"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "3FE31E20F94F1CAA"
+					item: { count: 1, id: "hazennstuff:atlas_helmet" }
+					type: "item"
+				}
+				{
+					id: "5AC0599680830D0C"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:atlas_chestplate" }
+					type: "item"
+				}
+				{
+					id: "6EE58D9D988297FD"
+					item: { count: 1, id: "hazennstuff:atlas_leggings" }
+					type: "item"
+				}
+				{
+					id: "5ED1DC85F246AE2C"
+					item: { count: 1, id: "hazennstuff:atlas_boots" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 26.0d
+		}
+		{
+			id: "7D93B814FD5AED2B"
+			rewards: [{
+				count: 5
+				id: "2713DE971F27318B"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "0BFAE866CA9F143F"
+					item: { count: 1, id: "hazennstuff:maverick_helmet" }
+					type: "item"
+				}
+				{
+					id: "28A02908A4649F5A"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:maverick_chestplate" }
+					type: "item"
+				}
+				{
+					id: "0694EA6406FAB3CA"
+					item: { count: 1, id: "hazennstuff:maverick_leggings" }
+					type: "item"
+				}
+				{
+					id: "124C0230A344E973"
+					item: { count: 1, id: "hazennstuff:maverick_boots" }
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: 26.0d
+		}
+		{
+			id: "0F2DA785007BB5A4"
+			rewards: [{
+				count: 5
+				id: "18B5E0FF5C51A8FB"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "0E54149208F784F9"
+					item: { count: 1, id: "hazennstuff:mithril_battlemage_helmet" }
+					type: "item"
+				}
+				{
+					id: "0A5E66F505257188"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:mithril_battlemage_chestplate" }
+					type: "item"
+				}
+				{
+					id: "5AA9506681F4FF0A"
+					item: { count: 1, id: "hazennstuff:mithril_battlemage_leggings" }
+					type: "item"
+				}
+				{
+					id: "02060D58CAB50E68"
+					item: { count: 1, id: "hazennstuff:mithril_battlemage_boots" }
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: 26.0d
+		}
+		{
+			id: "3341C5F9F1741BA6"
+			rewards: [{
+				count: 5
+				id: "3F6A0DB42E1C5DFE"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "1035C7BE8094AFC8"
+					item: { count: 1, id: "hazennstuff:magehunter_helmet" }
+					type: "item"
+				}
+				{
+					id: "66210449DE6D8AE4"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:magehunter_chestplate" }
+					type: "item"
+				}
+				{
+					id: "6182E9B4ECE11BCE"
+					item: { count: 1, id: "hazennstuff:magehunter_leggings" }
+					type: "item"
+				}
+				{
+					id: "74FECAA25DBBA0A8"
+					item: { count: 1, id: "hazennstuff:magehunter_boots" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 26.0d
+		}
+		{
+			id: "3C0B6580EC1D245A"
+			rewards: [{
+				count: 5
+				id: "5BD189AA93415018"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "0F1810628747EE5D"
+					item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:frostbite": 1 } } }, count: 1, id: "hazennstuff:permafrost_prince_helmet" }
+					type: "item"
+				}
+				{
+					id: "6C999FBDEAF0EDC1"
+					item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:frostbite": 1 } }, "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:permafrost_prince_chestplate" }
+					type: "item"
+				}
+				{
+					id: "49B54CBA6F16EEB5"
+					item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:frostbite": 1 } } }, count: 1, id: "hazennstuff:permafrost_prince_leggings" }
+					type: "item"
+				}
+				{
+					id: "5833D3718C9696A7"
+					item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:frostbite": 1 } } }, count: 1, id: "hazennstuff:permafrost_prince_boots" }
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 26.0d
+		}
+		{
+			id: "09739798A0F233EC"
+			rewards: [{
+				count: 5
+				id: "4D5DDEE758AAAB34"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "2742A49E40B96CC4"
+					item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:frostbite": 1 } } }, count: 1, id: "hazennstuff:frostbite_hunter_helmet" }
+					type: "item"
+				}
+				{
+					id: "2592389D64A7CB74"
+					item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:frostbite": 1 } }, "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:frostbite_hunter_chestplate" }
+					type: "item"
+				}
+				{
+					id: "7BF14DDD8BC171FD"
+					item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:frostbite": 1 } } }, count: 1, id: "hazennstuff:frostbite_hunter_leggings" }
+					type: "item"
+				}
+				{
+					id: "05A668C239B34705"
+					item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:frostbite": 1 } } }, count: 1, id: "hazennstuff:frostbite_hunter_boots" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 25.0d
+		}
+		{
+			id: "0A62EC02E99833DD"
+			rewards: [{
+				count: 5
+				id: "2EF41550AFCC77CC"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "3915818A0A17415B"
+					item: { count: 1, id: "hazennstuff:bounty_hunter_helmet" }
+					type: "item"
+				}
+				{
+					id: "2362F35970E422F7"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:bounty_hunter_chestplate" }
+					type: "item"
+				}
+				{
+					id: "724DDAB33D561873"
+					item: { count: 1, id: "hazennstuff:bounty_hunter_leggings" }
+					type: "item"
+				}
+				{
+					id: "49E97C81DA846887"
+					item: { count: 1, id: "hazennstuff:bounty_hunter_boots" }
+					type: "item"
+				}
+			]
+			x: 6.5d
+			y: 24.0d
+		}
+		{
+			id: "74F4C84202E3AB37"
+			rewards: [{
+				count: 5
+				id: "407A59561B6BB85D"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "47BC49D88DBB5A4C"
+					item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:frostbite": 1 } } }, count: 1, id: "hazennstuff:dreadsteel_knight_helmet" }
+					type: "item"
+				}
+				{
+					id: "405C78C63F524B51"
+					item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:frostbite": 1 } }, "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:dreadsteel_knight_chestplate" }
+					type: "item"
+				}
+				{
+					id: "119639C1011B0FD5"
+					item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:frostbite": 1 } } }, count: 1, id: "hazennstuff:dreadsteel_knight_leggings" }
+					type: "item"
+				}
+				{
+					id: "28BD4997EA48E8D6"
+					item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:frostbite": 1 } } }, count: 1, id: "hazennstuff:dreadsteel_knight_boots" }
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 24.0d
+		}
+		{
+			id: "367DFFA141034022"
+			rewards: [{
+				count: 5
+				id: "74AA2432B1556279"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "0603C0553C8E6F8B"
+					item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:frostbite": 1 } } }, count: 1, id: "hazennstuff:frostbite_knight_helmet" }
+					type: "item"
+				}
+				{
+					id: "6A9D5FA4BF630516"
+					item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:frostbite": 1 } }, "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:frostbite_knight_chestplate" }
+					type: "item"
+				}
+				{
+					id: "437386B1AB757CFF"
+					item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:frostbite": 1 } } }, count: 1, id: "hazennstuff:frostbite_knight_leggings" }
+					type: "item"
+				}
+				{
+					id: "7CEEACE97D3950F3"
+					item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "irons_spellbooks:frostbite": 1 } } }, count: 1, id: "hazennstuff:frostbite_knight_boots" }
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 25.0d
+		}
+		{
+			id: "566EDDC2E528E59E"
+			rewards: [{
+				count: 5
+				id: "382FC800B236ED3B"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "13146A697DCE7D33"
+					item: { count: 1, id: "hazennstuff:giorno_giovanna_helmet" }
+					type: "item"
+				}
+				{
+					id: "059E44ED07A38189"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:giorno_giovanna_chestplate" }
+					type: "item"
+				}
+				{
+					id: "2E45B0D440AAB0B1"
+					item: { count: 1, id: "hazennstuff:giorno_giovanna_leggings" }
+					type: "item"
+				}
+				{
+					id: "2E39EAA13A047398"
+					item: { count: 1, id: "hazennstuff:giorno_giovanna_boots" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 27.0d
+		}
+		{
+			id: "58F1A4FBA964AAD0"
+			rewards: [{
+				count: 5
+				id: "0C0DEF9D1A2C2C2B"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "71AD0B4D2950DB19"
+					item: { count: 1, id: "hazennstuff:neru_helmet" }
+					type: "item"
+				}
+				{
+					id: "2FCD69BB6895F5A4"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:neru_chestplate" }
+					type: "item"
+				}
+				{
+					id: "60E358B69B95E21C"
+					item: { count: 1, id: "hazennstuff:neru_leggings" }
+					type: "item"
+				}
+				{
+					id: "72F27C22B7962356"
+					item: { count: 1, id: "hazennstuff:neru_boots" }
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 27.0d
+		}
+		{
+			id: "0DF6CD0A1BA9C054"
+			rewards: [{
+				count: 5
+				id: "51054597D61FB7A8"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "63384F56FB9CE57F"
+					item: { count: 1, id: "hazennstuff:garments_of_the_first_flamebearer_soul_helmet" }
+					type: "item"
+				}
+				{
+					id: "3D98A523FFE5DA98"
+					item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "hazennstuff:fiery_dagger": 1, "irons_spellbooks:raise_hell": 1 } }, "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:garments_of_the_first_flamebearer_soul_chestplate" }
+					type: "item"
+				}
+				{
+					id: "5547C518183DE05A"
+					item: { count: 1, id: "hazennstuff:garments_of_the_first_flamebearer_soul_leggings" }
+					type: "item"
+				}
+				{
+					id: "3D0887B3B6688D11"
+					item: { count: 1, id: "hazennstuff:garments_of_the_first_flamebearer_soul_boots" }
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: 27.0d
+		}
+		{
+			id: "39E460E2A30E2BB2"
+			rewards: [{
+				count: 5
+				id: "70FAAA50468354FA"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "579DEE7E06D9F0DD"
+					item: { count: 1, id: "hazennstuff:garments_of_the_first_flamebearer_helmet" }
+					type: "item"
+				}
+				{
+					id: "455BAED2BCB5CF6E"
+					item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "hazennstuff:fiery_dagger": 1, "irons_spellbooks:raise_hell": 1 } }, "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:garments_of_the_first_flamebearer_chestplate" }
+					type: "item"
+				}
+				{
+					id: "1B6378742CFE6F6C"
+					item: { count: 1, id: "hazennstuff:garments_of_the_first_flamebearer_leggings" }
+					type: "item"
+				}
+				{
+					id: "3B900200B48421E8"
+					item: { count: 1, id: "hazennstuff:garments_of_the_first_flamebearer_boots" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 27.0d
+		}
+		{
+			id: "2B9C40F91277788E"
+			rewards: [{
+				count: 5
+				id: "0E1A7577F69C56CE"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "0C547B67162FE6A8"
+					item: { components: { "azurelib:az_id": [I; 525745848, 627851392, -1467474764, -399811940 ] }, count: 1, id: "hazennstuff:blazeborne_helmet" }
+					type: "item"
+				}
+				{
+					id: "17EF2836C52BA84B"
+					item: { components: { "azurelib:az_id": [I; 20323417, -936033540, -2026965552, -865066965 ], "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:blazeborne_chestplate" }
+					type: "item"
+				}
+				{
+					id: "5A19137B8FD5FAE1"
+					item: { components: { "azurelib:az_id": [I; -111993484, -1128315319, -1753105882, -2118993588 ] }, count: 1, id: "hazennstuff:blazeborne_leggings" }
+					type: "item"
+				}
+				{
+					id: "2B9033ACD9AF7CD9"
+					item: { components: { "azurelib:az_id": [I; 1819551217, -1265547347, -2063080845, 1269101863 ] }, count: 1, id: "hazennstuff:blazeborne_boots" }
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 27.0d
+		}
+		{
+			id: "31A75DA223385B18"
+			rewards: [{
+				count: 5
+				id: "5320B8933C6EC310"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "2556D397AB773DC9"
+					item: { count: 1, id: "hazennstuff:pyrium_battlemage_helmet" }
+					type: "item"
+				}
+				{
+					id: "5ABEBC9A5E9B6D39"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:pyrium_battlemage_chestplate" }
+					type: "item"
+				}
+				{
+					id: "2CF1E1A65BC84A9D"
+					item: { count: 1, id: "hazennstuff:pyrium_battlemage_leggings" }
+					type: "item"
+				}
+				{
+					id: "48B6A080FE5DAE2F"
+					item: { count: 1, id: "hazennstuff:pyrium_battlemage_boots" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 28.0d
+		}
+		{
+			id: "6FB391ABE10ACD11"
+			rewards: [{
+				count: 5
+				id: "4FD982C1E4948565"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "54DF2F799774F16E"
+					item: { count: 1, id: "hazennstuff:legionnaire_commander_helmet" }
+					type: "item"
+				}
+				{
+					id: "30BB77F7BA1C5A9F"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:legionnaire_commander_chestplate" }
+					type: "item"
+				}
+				{
+					id: "5165FB74D3CE3CAE"
+					item: { count: 1, id: "hazennstuff:legionnaire_commander_leggings" }
+					type: "item"
+				}
+				{
+					id: "7381D7ED582AE148"
+					item: { count: 1, id: "hazennstuff:legionnaire_commander_boots" }
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 27.0d
+		}
+		{
+			id: "739B79E0919EA496"
+			rewards: [{
+				count: 5
+				id: "2BD755CCDB82204A"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "43BBB09199D81717"
+					item: { count: 1, id: "hazennstuff:soul_legionnaire_ruler_helmet" }
+					type: "item"
+				}
+				{
+					id: "3D09D0091D7DD825"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:soul_legionnaire_ruler_chestplate" }
+					type: "item"
+				}
+				{
+					id: "4E6415BE6C2F1C73"
+					item: { count: 1, id: "hazennstuff:soul_legionnaire_ruler_leggings" }
+					type: "item"
+				}
+				{
+					id: "19854636E305FE33"
+					item: { count: 1, id: "hazennstuff:soul_legionnaire_ruler_boots" }
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 28.0d
+		}
+		{
+			id: "069A56DEB25D2E62"
+			rewards: [{
+				count: 5
+				id: "1950DCFC529EAAA6"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "0C297D0BFA91C8B5"
+					item: { count: 1, id: "hazennstuff:legionnaire_ruler_helmet" }
+					type: "item"
+				}
+				{
+					id: "305CE90B2E118F22"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:legionnaire_ruler_chestplate" }
+					type: "item"
+				}
+				{
+					id: "789AC0789567F2AE"
+					item: { count: 1, id: "hazennstuff:legionnaire_ruler_leggings" }
+					type: "item"
+				}
+				{
+					id: "0BA294D4545BBFC0"
+					item: { count: 1, id: "hazennstuff:legionnaire_ruler_boots" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 27.0d
+		}
+		{
+			id: "7749F55609B35441"
+			rewards: [{
+				count: 5
+				id: "68BCE0699FAECC10"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "71DD615F028D1D98"
+					item: { count: 1, id: "hazennstuff:legionnaire_helmet" }
+					type: "item"
+				}
+				{
+					id: "58841E8798F011EC"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:legionnaire_chestplate" }
+					type: "item"
+				}
+				{
+					id: "007E0CB91FB2B6CD"
+					item: { count: 1, id: "hazennstuff:legionnaire_leggings" }
+					type: "item"
+				}
+				{
+					id: "1668197ADD7DF536"
+					item: { count: 1, id: "hazennstuff:legionnaire_boots" }
+					type: "item"
+				}
+			]
+			x: 6.5d
+			y: 27.0d
+		}
+		{
+			id: "7531792EE229862B"
+			rewards: [{
+				count: 5
+				id: "4F4B845CFE7905A4"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "41D4E630422CCF84"
+					item: { count: 1, id: "hazennstuff:pyrium_helmet" }
+					type: "item"
+				}
+				{
+					id: "19F108A2D0A33F1A"
+					item: { count: 1, id: "hazennstuff:pyrium_chestplate" }
+					type: "item"
+				}
+				{
+					id: "7332E7E39CA7973F"
+					item: { count: 1, id: "hazennstuff:pyrium_leggings" }
+					type: "item"
+				}
+				{
+					id: "5598AEC9CA740744"
+					item: { count: 1, id: "hazennstuff:pyrium_boots" }
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 27.0d
+		}
+		{
+			id: "0A056F2EB450F2AA"
+			rewards: [{
+				count: 5
+				id: "06628C15DFF69483"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "2B43748A1BC08284"
+					item: { components: { "azurelib:az_id": [I; -1988944985, 398086025, -2122669807, 1647246538 ] }, count: 1, id: "hazennstuff:infestation_helmet" }
+					type: "item"
+				}
+				{
+					id: "20697FAFED60DC3A"
+					item: { components: { "azurelib:az_id": [I; 492662210, 1960201784, -1570038556, -161924933 ], "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:infestation_chestplate" }
+					type: "item"
+				}
+				{
+					id: "5AE9F7A602E5A009"
+					item: { components: { "azurelib:az_id": [I; 1237315078, -1000124527, -1754249277, -617754768 ] }, count: 1, id: "hazennstuff:infestation_leggings" }
+					type: "item"
+				}
+				{
+					id: "73C4E371A43AA678"
+					item: { components: { "azurelib:az_id": [I; -1444561199, 17517396, -1888406484, -1581078147 ] }, count: 1, id: "hazennstuff:infestation_boots" }
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: 28.0d
+		}
+		{
+			id: "2B48A9E50837D36A"
+			rewards: [{
+				count: 5
+				id: "5C6C70F137B9A4C2"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "0DC9DFA63B7D35D0"
+					item: { components: { "azurelib:az_id": [I; -1006564991, 1036011747, -1967133038, 1903054525 ] }, count: 1, id: "hazennstuff:dark_ritual_templar_helmet" }
+					type: "item"
+				}
+				{
+					id: "02F14C9BDF3E467D"
+					item: { components: { "azurelib:az_id": [I; -1848695138, -124960012, -1120517646, -614803048 ], "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:dark_ritual_templar_chestplate" }
+					type: "item"
+				}
+				{
+					id: "6EF1D65D6517A5E9"
+					item: { components: { "azurelib:az_id": [I; -480349860, -1066645247, -1923206763, -1409205696 ] }, count: 1, id: "hazennstuff:dark_ritual_templar_leggings" }
+					type: "item"
+				}
+				{
+					id: "7C402347EAFFAD4E"
+					item: { components: { "azurelib:az_id": [I; -1239236440, -741258232, -2062617105, 1787910923 ] }, count: 1, id: "hazennstuff:dark_ritual_templar_boots" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 28.0d
+		}
+		{
+			id: "1035823C23CB4B9A"
+			rewards: [{
+				count: 5
+				id: "528626428A5887F9"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "4AB2EBB5C8BEBF29"
+					item: { count: 1, id: "hazennstuff:shadow_scale_helmet" }
+					type: "item"
+				}
+				{
+					id: "3DFBBF5B327F49C7"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:shadow_scale_chestplate" }
+					type: "item"
+				}
+				{
+					id: "7BB3765D0BAFCC50"
+					item: { count: 1, id: "hazennstuff:shadow_scale_leggings" }
+					type: "item"
+				}
+				{
+					id: "1939C4652C29A9AE"
+					item: { count: 1, id: "hazennstuff:shadow_scale_boots" }
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 28.0d
+		}
+		{
+			id: "1F8645CA70067009"
+			rewards: [{
+				count: 5
+				id: "7B3C3E749AE414A8"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "25AE8B19E353C29E"
+					item: { count: 1, id: "hazennstuff:mycelium_guardian_helmet" }
+					type: "item"
+				}
+				{
+					id: "4AA46D60DD8C1DA2"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:mycelium_guardian_chestplate" }
+					type: "item"
+				}
+				{
+					id: "51B465EF8E4D5861"
+					item: { count: 1, id: "hazennstuff:mycelium_guardian_leggings" }
+					type: "item"
+				}
+				{
+					id: "0B40087DB02907DF"
+					item: { count: 1, id: "hazennstuff:mycelium_guardian_boots" }
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 26.0d
+		}
+		{
+			id: "7EA30ADF1DCB3B92"
+			rewards: [{
+				count: 5
+				id: "705A3F9F63ECF1CD"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "7D4B13B59DCEC2CE"
+					item: { count: 1, id: "hazennstuff:alchemist_supreme_helmet" }
+					type: "item"
+				}
+				{
+					id: "119D02579A4FAEAB"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:alchemist_supreme_chestplate" }
+					type: "item"
+				}
+				{
+					id: "4C4ADDA4EB8B46B8"
+					item: { count: 1, id: "hazennstuff:alchemist_supreme_leggings" }
+					type: "item"
+				}
+				{
+					id: "7E93737360FFE895"
+					item: { count: 1, id: "hazennstuff:alchemist_supreme_boots" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 26.0d
+		}
+		{
+			id: "23C2162DB79FFA0A"
+			rewards: [{
+				count: 5
+				id: "097CDB2B6FC5EEE8"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "48D05CD34E09DCF7"
+					item: { components: { "azurelib:az_id": [I; 1296793483, 522405692, -1382578662, -1608821407 ] }, count: 1, id: "hazennstuff:gabriel_ultrakill_helmet" }
+					type: "item"
+				}
+				{
+					id: "70E9D1CB4B91811E"
+					item: { components: { "azurelib:az_id": [I; 1720750820, -1512291882, -1331760361, 39297811 ], "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:gabriel_ultrakill_chestplate" }
+					type: "item"
+				}
+				{
+					id: "2E3AC2F82C6B3C0D"
+					item: { components: { "azurelib:az_id": [I; 855785701, 161762211, -1490411718, 965614021 ] }, count: 1, id: "hazennstuff:gabriel_ultrakill_leggings" }
+					type: "item"
+				}
+				{
+					id: "0520100A5C6DA3F1"
+					item: { components: { "azurelib:az_id": [I; 219421590, -524006219, -1990251569, -409909980 ] }, count: 1, id: "hazennstuff:gabriel_ultrakill_boots" }
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 27.0d
+		}
+		{
+			id: "683AE2B396651FFF"
+			rewards: [{
+				count: 5
+				id: "31D601D415F0EECD"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "3BBB24C877E4598C"
+					item: { count: 1, id: "hazennstuff:mothic_witch_helmet" }
+					type: "item"
+				}
+				{
+					id: "3B2A52B0C3E76468"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:mothic_witch_chestplate" }
+					type: "item"
+				}
+				{
+					id: "615C871CB1A21D11"
+					item: { count: 1, id: "hazennstuff:mothic_witch_leggings" }
+					type: "item"
+				}
+				{
+					id: "46A1C00ACC6BD8F5"
+					item: { count: 1, id: "hazennstuff:mothic_witch_boots" }
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 26.0d
+		}
+		{
+			id: "51E79C6D85108A73"
+			rewards: [{
+				count: 5
+				id: "731A348CE46A011B"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "4FCD327A5605CA0A"
+					item: { components: { "azurelib:az_id": [I; -1714404278, -221953627, -1119443413, -1904512385 ] }, count: 1, id: "hazennstuff:the_wither_helmet" }
+					type: "item"
+				}
+				{
+					id: "647BE32D96F6DD4F"
+					item: { components: { "azurelib:az_id": [I; 1759018705, 1883522359, -1606603612, -761265871 ], "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:the_wither_chestplate" }
+					type: "item"
+				}
+				{
+					id: "35E72A92003B4DA8"
+					item: { components: { "azurelib:az_id": [I; 358053848, -1011464876, -1346321287, 541454751 ] }, count: 1, id: "hazennstuff:the_wither_leggings" }
+					type: "item"
+				}
+				{
+					id: "2F73C83CD20CFB7F"
+					item: { components: { "azurelib:az_id": [I; -1772067027, 1433356623, -1356892359, -863290971 ] }, count: 1, id: "hazennstuff:the_wither_boots" }
+					type: "item"
+				}
+			]
+			x: 6.5d
+			y: 26.0d
+		}
+		{
+			id: "18B5807F95D968B7"
+			rewards: [{
+				count: 5
+				id: "7814ADC730AE0587"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "1973D817ACD3A61B"
+					item: { count: 1, id: "hazennstuff:calamitas_helmet" }
+					type: "item"
+				}
+				{
+					id: "3EFF1D1F05962FA8"
+					item: { components: { "irons_spellbooks:affinity_data": { bonuses: { "hazennstuff:brimstone_hellblast": 1 } }, "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:calamitas_chestplate" }
+					type: "item"
+				}
+				{
+					id: "77FD145156C7AAF5"
+					item: { count: 1, id: "hazennstuff:calamitas_leggings" }
+					type: "item"
+				}
+				{
+					id: "556AA3F839DFF8F5"
+					item: { count: 1, id: "hazennstuff:calamitas_boots" }
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 26.0d
+		}
+		{
+			id: "50D1F70BCB6F5F1D"
+			rewards: [{
+				count: 5
+				id: "43FBD5F9340929A9"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "1D3AC552F6E925A2"
+					item: { count: 1, id: "hazennstuff:hazel_helmet" }
+					type: "item"
+				}
+				{
+					id: "0856D136369DE6E9"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:hazel_chestplate" }
+					type: "item"
+				}
+				{
+					id: "2D9D6927EA4B8AA8"
+					item: { count: 1, id: "hazennstuff:hazel_leggings" }
+					type: "item"
+				}
+				{
+					id: "4C0653226325974B"
+					item: { count: 1, id: "hazennstuff:hazel_boots" }
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 25.0d
+		}
+		{
+			id: "4D657F1F325F8AFE"
+			rewards: [{
+				count: 5
+				id: "0EEBE6A215D53440"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "11093E0A43576B01"
+					item: { count: 1, id: "hazennstuff:crystal_arachnid_helmet" }
+					type: "item"
+				}
+				{
+					id: "0DF1C262FA9EE25E"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:crystal_arachnid_chestplate" }
+					type: "item"
+				}
+				{
+					id: "541A1B018D7C8ABF"
+					item: { count: 1, id: "hazennstuff:crystal_arachnid_leggings" }
+					type: "item"
+				}
+				{
+					id: "311570B11CE7EEEE"
+					item: { count: 1, id: "hazennstuff:crystal_arachnid_boots" }
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: 28.0d
+		}
+		{
+			id: "216F90E35EF4162C"
+			rewards: [{
+				count: 5
+				id: "766FCD8679358C7D"
+				item: {
+					count: 1
+					id: "magic_coins:silver_coin"
+				}
+				type: "item"
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "565B737C13E764B4"
+					item: { count: 1, id: "hazennstuff:chlorophyte_boots" }
+					type: "item"
+				}
+				{
+					id: "088A3E5C0A3A9777"
+					item: { count: 1, id: "hazennstuff:chlorophyte_leggings" }
+					type: "item"
+				}
+				{
+					id: "325BADE81D23918D"
+					item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 1, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "hazennstuff:chlorophyte_chestplate" }
+					type: "item"
+				}
+				{
+					id: "15B2AAEF0E8DCFD3"
+					item: { count: 1, id: "hazennstuff:chlorophyte_mask" }
+					type: "item"
+				}
+			]
+			x: 6.5d
+			y: 25.0d
+		}
+		{
+			id: "063FB387DE692AC3"
+			shape: "hexagon"
+			tasks: [{
+				id: "6869E5EEB6244FA0"
+				item: { count: 1, id: "hazennstuff:zenalite_end_stone_ore" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 15.5d
+		}
+		{
+			id: "12BDFF66B6AFC436"
+			shape: "hexagon"
+			tasks: [{
+				id: "1083D13C296563F4"
+				item: { count: 1, id: "hazennstuff:dreadstone_ore" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 15.5d
+		}
+		{
+			id: "63023AD450F38D7A"
+			shape: "hexagon"
+			tasks: [{
+				id: "7F79F426BEB1691D"
+				item: { count: 1, id: "hazennstuff:chlorophyte_ore" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 15.5d
 		}
 	]
 }

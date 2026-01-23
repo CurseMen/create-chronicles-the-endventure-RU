@@ -80,6 +80,7 @@ RecipeViewerEvents.addInformation('item', item =>{
 
   item.add("simplyswords:soulstealer", "Drops from Death King")
   item.add("simplyswords:wraithfang", "Drops from Death King")
+  item.add("simplyswords:chompolotl", "Drops from Death King")
 
   item.add("simplyswords:brimstone_claymore", "Drops from Netherite Monstrosity")
   item.add("simplyswords:molten_edge", "Drops from Netherite Monstrosity")
@@ -137,7 +138,7 @@ RecipeViewerEvents.addInformation('item', item =>{
   item.add("garnished:bok_choy", "Bok Choy can be found in Jungle Temples")
 
   // remove salt when fix recipe
-  item.add('garnished:crushed_salt',"You need to use Mechanical Grindstone using Limestone")
+  //item.add('garnished:crushed_salt',"You need to use Mechanical Grindstone using Limestone")
   
   item.add('biomeswevegone:yucca_fruit',"Yuca grows on trees and can be found in biomes, such as Badlands variants, or Desert variants.")
   item.add('eternal_starlight:lunaris_cactus_fruit',"Grows on top of Lunaris Cactus. Can be found in the Crystallized Desert biome, and also grows on Twilight Sand in the Eternal Starlight dimension.")

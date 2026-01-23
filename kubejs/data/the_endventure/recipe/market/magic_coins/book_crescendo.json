@@ -1,0 +1,22 @@
+{
+  "type": "farmingforblockheads:market",
+  "preset": "the_endventure:coins",
+  "category": "the_endventure:magic_coins",
+  "payment": {
+    "ingredient": {
+      "item": "magic_coins:gold_coin"
+    },
+    "count": 6
+  },
+  "result": {
+    "count": 1,
+    "item": "minecraft:enchanted_book",
+    "components": {
+      "minecraft:stored_enchantments": {
+        "levels": {
+          "apothic_enchanting:crescendo_of_bolts": 1
+        }
+      }
+    }
+  }
+}

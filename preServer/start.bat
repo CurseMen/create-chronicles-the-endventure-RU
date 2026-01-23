@@ -1,6 +1,6 @@
 @echo off
 
-set NEOFORGE_VERSION=21.1.197
+set NEOFORGE_VERSION=21.1.218
 :: Update these variables if needed
 set INSTALLER="%~dp0neoforge-%NEOFORGE_VERSION%-installer.jar"
 set NEOFORGE_URL="https://maven.neoforged.net/releases/net/neoforged/neoforge/%NEOFORGE_VERSION%/neoforge-%NEOFORGE_VERSION%-installer.jar"

@@ -3,12 +3,36 @@
   "central_item": {
     "item": "hazennstuff:refined"
   },
-  "input_items": {
-    "hazennstuff:zenalite_ingot": 1,
-    "irons_spellbooks:mithril_ingot": 1,
-    "irons_spellbooks:mana_upgrade_orb": 1,
-    "hazennstuff:pyrium_nugget": 1
-  },
+  "inputs": [
+    {
+      "ingredient": {
+        "item": "hazennstuff:zenalite_ingot"
+      },
+      "count": 1,
+      "consume": true
+    },
+    {
+      "ingredient": {
+        "item": "irons_spellbooks:mithril_ingot"
+      },
+      "count": 1,
+      "consume": true
+    },
+    {
+      "ingredient": {
+        "item": "irons_spellbooks:mana_upgrade_orb"
+      },
+      "count": 1,
+      "consume": true
+    },
+    {
+      "ingredient": {
+        "item": "hazennstuff:pyrium_nugget"
+      },
+      "count": 1,
+      "consume": true
+    }
+  ],
   "result": {
     "id": "hazennstuff:reinforced"
   },

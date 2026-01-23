@@ -92,6 +92,48 @@ global.REMOVE_ITEMS = [
   'minecraft:suspicious_sand',
   'minecraft:suspicious_gravel',
   'supplementaries:suspicious_gravel_bricks',
-  'ftbfiltersystem:smart_filter'
+  'ftbfiltersystem:smart_filter',
+
+    // shards with no recipe btw- allow it if patched by mod
+  'alshanex_familiars:bard_shard',
+  'alshanex_familiars:cleric_shard',
+  'alshanex_familiars:necromancer_shard',
+  'alshanex_familiars:plague_shard',
+  'alshanex_familiars:scorcher_shard',
+  'alshanex_familiars:dragon_warrior_shard',
+  
+  // stuff
+  'createmechanisms:zinc_mechanism',
+  'createmechanisms:computing_mechanism',
+  'createmechanisms:redstone_mechanism',
+  'createmechanisms:basic_energy_mechanism',
+  'createmechanisms:iron_energy_mechanism',
+  'createmechanisms:golden_energy_mechanism',
+  'createmechanisms:diamond_energy_mechanism',
+  'createmechanisms:enderiam_energy_mechanism',
+  'createmechanisms:random_placer',
+  'createmechanisms:energy_cell',
+  'createmechanisms:enderiam_cell',
+
+  // no recipes - no animations
+  "hazennstuff:provocation_dormant",
+  "hazennstuff:umbranova_dormant",
+  "hazennstuff:devastator_dormant",
+  "hazennstuff:ionic_splitter_dormant",
+  "hazennstuff:ionic_splitter_t1",
+  "hazennstuff:ionic_splitter_t2",
+  "hazennstuff:ionic_splitter_t3",
+  'hazennstuff:enderconic_scepter',
+  'hazennstuff:divine_scepter',
+  'hazennstuff:insania_aeternus',
+  'hazennstuff:grimoire_staff',
+  'hazennstuff:blossom_of_the_enchantress',
+  'hazennstuff:ascended_arbitrium_robes_helmet',
+  'hazennstuff:ascended_arbitrium_robes_chestplate',
+  'hazennstuff:ascended_arbitrium_robes_leggings',
+  'hazennstuff:ascended_arbitrium_robes_boots',
+
+
+
 ]
 

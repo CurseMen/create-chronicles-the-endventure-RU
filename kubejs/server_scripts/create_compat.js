@@ -205,24 +205,38 @@ function createRecipeWrapper(recipeJson) {
 }
 
 function addCreateRecipeHandler(event) {
-  event.recipes.create = {};
-  Object.keys(create).forEach((type) => {
-    event.recipes.create[type] = function () {
-      let args = Array.prototype.slice.call(arguments);
-      let recipeJson = create[type].apply(null, args);
-      return createRecipeWrapper(recipeJson, event);
-    };
-    if (Utils.snakeCaseToCamelCase(type) != type)
-      event.recipes.create[Utils.snakeCaseToCamelCase(type)] =
-        event.recipes.create[type];
-    event.recipes[
-      `create${Utils.snakeCaseToTitleCase(type)}`.replace(" ", "")
-    ] = event.recipes.create[type];
-  });
+    const snakeCase = snakeCaseToCamelCase;
+    const titleCase = snakeCaseToTitleCase;
 
-  // Introduce a method to finalize all pending recipes
-  event.recipes.create.finalize = function () {
-    pendingRecipes.forEach((pending) => pending.finalize(event));
-    pendingRecipes = []; // Clear the pending list after finalization
-  };
+    event.recipes.create = {};
+    Object.keys(create).forEach((type) => {
+        event.recipes.create[type] = function () {
+            let args = Array.prototype.slice.call(arguments);
+            let recipeJson = create[type].apply(null, args);
+            return createRecipeWrapper(recipeJson, event);
+        };
+        if (snakeCase(type) != type)
+            event.recipes.create[snakeCase(type)] =
+                event.recipes.create[type];
+        event.recipes[
+            `create${titleCase(type)}`.replace(" ", "")
+            ] = event.recipes.create[type];
+    });
+
+    // Introduce a method to finalize all pending recipes
+    event.recipes.create.finalize = function () {
+        pendingRecipes.forEach((pending) => pending.finalize(event));
+        pendingRecipes = []; // Clear the pending list after finalization
+    };
+}
+
+function snakeCaseToCamelCase(str) {
+    return str.replace(/_([a-z])/g, (_, c) => c.toUpperCase());
+}
+
+function snakeCaseToTitleCase(str) {
+    return str
+        .split('_')
+        .map(s => s.charAt(0).toUpperCase() + s.slice(1))
+        .join(' ');
 }
