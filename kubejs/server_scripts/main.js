@@ -256,15 +256,15 @@ ServerEvents.recipes(event => {
   })
   event.custom({
     "type": "create_new_age:energising",
-    "energy_needed": 36000,
+    "energy_needed": 4000,
     "ingredients": [
       {
-        "item": "minecraft:gold_ingot"
+        "item": "minecraft:gold_nugget"
       }
     ],
     "results": [
       {
-        "id": "createaddition:electrum_ingot"
+        "id": "createaddition:electrum_nugget"
       }
     ]
   })

@@ -100,6 +100,8 @@ const removeRecipesById = [
 
   'hazennstuff:crafting/curios/galvanized_sheath',
   'hazennstuff:crafting/curios/scroll_sheath',
+
+  'createaddition:charging/electrify_gold_ingot'
 ];
 
 // === REMOVE BY MOD ID ===
