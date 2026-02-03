@@ -1456,14 +1456,23 @@
 			id: "3E6E9C53FBE836FB"
 			rewards: [
 				{
-					id: "666915D34E4409DB"
+					count: 5
+					id: "0A7A8E5AD798E871"
+					item: {
+						count: 1
+						id: "irons_spellbooks:common_ink"
+					}
+					type: "item"
+				}
+				{
+					id: "322C671CD39D303F"
 					item: {
 						components: {
 							"irons_spellbooks:spell_container": {
 								data: [{
-									id: "irons_spellbooks:recall"
+									id: "irons_spellbooks:spectral_hammer"
 									index: 0
-									level: 1
+									level: 2
 									locked: 1b
 								}]
 								maxSpells: 1
@@ -1473,15 +1482,6 @@
 						}
 						count: 1
 						id: "irons_spellbooks:scroll"
-					}
-					type: "item"
-				}
-				{
-					count: 5
-					id: "0A7A8E5AD798E871"
-					item: {
-						count: 1
-						id: "irons_spellbooks:common_ink"
 					}
 					type: "item"
 				}

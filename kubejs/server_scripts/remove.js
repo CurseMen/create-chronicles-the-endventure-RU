@@ -101,7 +101,9 @@ const removeRecipesById = [
   'hazennstuff:crafting/curios/galvanized_sheath',
   'hazennstuff:crafting/curios/scroll_sheath',
 
-  'createaddition:charging/electrify_gold_ingot'
+  'createaddition:charging/electrify_gold_ingot',
+  'catburger:cat_burger',
+  'cataclysm:belt_of_beginner'
 ];
 
 // === REMOVE BY MOD ID ===

@@ -334,6 +334,17 @@
           "type": "minecraft:item",
           "name": "armoroftheages:pharaoh_armor_head",
           "weight": 14
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hazennstuff:zenalite_end_stone_ore",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 4
+            }
+          ],
+          "weight": 18
         }
       ]
     }

@@ -1,34 +1,34 @@
 #config
 [Config]
-	#totem effect active?
+	#Enable CatBurger totem effect
 	active = true
-	#wake up can reset totem effect cooldown?
-	can_reset = true
-	#totem effect cooldown(tick)
-	# Default: 36000
-	# Range: > 0
-	totem_cooldown = 36000
-	#totem effect cooldown(tick)
-	# Default: 1200
-	# Range: > 0
-	curios_cooldown = 600
-	#food restoration form curios effect
-	# Default: 1
-	# Range: 0 ~ 20
-	foodRestoration = 1
-	#health restoration form totem effect
-	# Default: 20
-	# Range: > 0
-	health = 20
-	#food restoration form totem effect
-	# Default: 20
-	# Range: 0 ~ 20
-	foodLevel = 20
-	#saturation restoration form totem effect
-	# Default: 20
-	# Range: 0 ~ 20
-	saturation = 20
-	#food max restoration
+	#Maximum hunger value that can be restored by Curios
 	# Default: 18
 	# Range: 1 ~ 20
 	foodMaxRestoration = 18
+	#Reset totem cooldown when waking up from bed
+	wakeUpCanResetCooldown = true
+	#Totem effect cooldown in ticks
+	# Default: 36000
+	# Range: > 0
+	totemCooldown = 36000
+	#Curios effect cooldown in ticks
+	# Default: 1200
+	# Range: > 0
+	curiosCooldown = 1200
+	#Hunger value restored by Curios effect
+	# Default: 1
+	# Range: 0 ~ 20
+	foodRestorationFromCurios = 1
+	#Health points restored when totem triggers
+	# Default: 20
+	# Range: > 0
+	healthRestorationFromTotem = 20
+	#Hunger value restored when totem triggers
+	# Default: 20
+	# Range: 0 ~ 20
+	foodRestorationFromTotem = 20
+	#Saturation restored when totem triggers
+	# Default: 20
+	# Range: 0 ~ 20
+	saturationRestorationFromTotem = 20

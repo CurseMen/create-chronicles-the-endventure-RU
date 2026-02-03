@@ -1,30 +1,44 @@
+#閰嶇疆
 #config
 [Config]
-	#totem effect active?
+	#鏄惁鍚敤鐚尗姹夊牎鍥捐吘鏁堟灉
+	#Enable CatBurger totem effect
 	active = true
-	#wake up can reset totem effect cooldown?
-	can_reset = true
-	#totem effect cooldown(tick)
+	#楗板搧鏁堟灉鍙仮澶嶇殑鏈�澶чゥ楗垮�间笂闄�
+	#Maximum hunger value that can be restored by Curios
+	# Default: 18
+	# Range: 1 ~ 20
+	foodMaxRestoration = 18
+	#浠庡簥涓婇啋鏉ュ悗鏄惁閲嶇疆鍥捐吘鍐峰嵈鏃堕棿
+	#Reset totem cooldown when waking up from bed
+	wakeUpCanResetCooldown = true
+	#鍥捐吘鏁堟灉鍐峰嵈鏃堕棿
+	#Totem effect cooldown in ticks
 	# Default: 36000
 	# Range: > 0
-	totem_cooldown = 36000
-	#totem effect cooldown(tick)
-	# Default: 600
+	totemCooldown = 36000
+	#楗板搧鏁堟灉鍐峰嵈鏃堕棿
+	#Curios effect cooldown in ticks
+	# Default: 1200
 	# Range: > 0
-	curios_cooldown = 600
-	#food restoration form curios effect
+	curiosCooldown = 1200
+	#楗板搧鏁堟灉鎭㈠鐨勯ゥ楗垮��
+	#Hunger value restored by Curios effect
 	# Default: 1
 	# Range: 0 ~ 20
-	foodRestoration = 1
-	#health restoration form totem effect
+	foodRestorationFromCurios = 1
+	#鍥捐吘瑙﹀彂鏃舵仮澶嶇殑鐢熷懡鍊�
+	#Health points restored when totem triggers
 	# Default: 20
 	# Range: > 0
-	health = 20
-	#food restoration form totem effect
+	healthRestorationFromTotem = 20
+	#鍥捐吘瑙﹀彂鏃舵仮澶嶇殑楗ラタ鍊�
+	#Hunger value restored when totem triggers
 	# Default: 20
 	# Range: 0 ~ 20
-	foodLevel = 20
-	#saturation restoration form totem effect
+	foodRestorationFromTotem = 20
+	#鍥捐吘瑙﹀彂鏃舵仮澶嶇殑楗卞拰搴�
+	#Saturation restored when totem triggers
 	# Default: 20
 	# Range: 0 ~ 20
-	saturation = 20
+	saturationRestorationFromTotem = 20

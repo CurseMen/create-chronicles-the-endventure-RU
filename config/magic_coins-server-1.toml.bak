@@ -13,10 +13,10 @@
 	crystalMagicValue = 2500
 
 [DEATH]
-	#The percentage of coins lost on death
+	#The percentage of coins save on death
 	# Default: 50
 	# Range: 0 ~ 100
-	percentageCoinsLostOnDeath = 100
+	percentageCoinsSaveOnDeath = 100
 
 [LOOTS]
 	#Should coins be lootable from chests

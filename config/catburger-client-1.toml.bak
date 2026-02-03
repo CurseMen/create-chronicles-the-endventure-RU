@@ -1,0 +1,33 @@
+#瀹㈡埛绔厤缃�
+#client config
+[Config]
+	#妯″瀷鏄剧ず缂╂斁姣斾緥
+	#Display scale
+	# Default: 0.7
+	# Range: 0.1 ~ 10.0
+	scale = 0.6
+	#瀹屾垚涓�娆′笂涓嬫诞鍔ㄥ惊鐜墍闇�鏃堕棿(tick)
+	#Time to complete a float cycle (tick)
+	# Default: 40.0
+	# Range: 0.0 ~ 100.0
+	time = 40.0
+	#娴姩楂樺害鑼冨洿(block)
+	#Float distance (blocks)
+	# Default: 0.1
+	# Range: 0.0 ~ 100.0
+	floatDistance = 0.1
+	#鍓嶅悗浣嶇疆鍋忕Щ
+	#Front & back offset
+	# Default: 0.0
+	# Range: -100.0 ~ 100.0
+	frontBackOffset = 0.0
+	#鍨傜洿楂樺害鍋忕Щ
+	#Vertical offset
+	# Default: 0.0
+	# Range: -100.0 ~ 100.0
+	verticalOffset = 0.0
+	#宸﹀彸浣嶇疆鍋忕Щ
+	#Left & right offset
+	# Default: -0.8
+	# Range: -100.0 ~ 100.0
+	leftRightOffset = -0.8
